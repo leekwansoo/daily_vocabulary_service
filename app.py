@@ -9,7 +9,6 @@ from utils.word_functions import (
     cleanup_audio_file,
     DEFAULT_CATEGORIES,
     DEFAULT_VOCABULARY_FILE,
-    DIFFICULTY_LEVELS,
     LEVEL_DESCRIPTIONS,
     SPEED_OPTIONS,
     SPEED_LABELS
@@ -26,8 +25,6 @@ from utils.json_manager import (
     save_to_mailed,
     save_mailed_words_to_file,
     load_mailed_words,
-    get_category_statistics,
-    filter_words_by_category,
     delete_word_from_file,
 )
 from word_widget import create_word_widget, get_difficulty
