@@ -3,8 +3,8 @@ Main utility functions for vocabulary builder applications
 Contains reusable functions that can be used across different apps
 """
 
-# import pyttsx3
-# from gtts import gTTS
+import pyttsx3
+from gtts import gTTS
 import io
 import tempfile
 import os
