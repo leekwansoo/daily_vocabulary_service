@@ -26,6 +26,7 @@ from utils.json_manager import (
     save_mailed_words_to_file,
     load_mailed_words,
     delete_word_from_file,
+    update_word_audio,
 )
 from word_widget import create_word_widget, get_difficulty
 
@@ -38,8 +39,17 @@ def initialize_media_directory():
         # print(f"Created media directory at: {media_dir}")
     return media_dir
 
-# Initialize media directory
+# Function to create audio directory
+def initialize_audio_directory():
+    """Create audio directory in the root directory if it doesn't exist"""
+    audio_dir = os.path.join(os.path.dirname(__file__), "audio")
+    if not os.path.exists(audio_dir):
+        os.makedirs(audio_dir)
+    return audio_dir
+
+# Initialize directories
 initialize_media_directory()
+initialize_audio_directory()
 
 # Configure the app
 st.set_page_config(
@@ -208,7 +218,18 @@ if select == "📖 Study Mode":
                             with open(audio_file, 'rb') as audio:
                                 # Detect audio format based on file extension
                                 audio_format = 'audio/mp3' if audio_file.endswith('.mp3') else 'audio/wav'
-                                st.audio(audio.read(), format=audio_format)
+                                # save audio file in the audio folder with word_name.mp3 or .wav and link to it in json
+                                audio_file_name = f"{entry['word'].lower()}.{audio_file.split('.')[-1]}"
+                                audio_save_path = os.path.join("audio", audio_file_name)
+                                print(f"Saving audio file to: {audio_save_path}")
+                                audio_data = audio.read()
+                                with open(audio_save_path, 'wb') as f:
+                                    f.write(audio_data)
+                                # Update word audio field in JSON
+                                if current_level in [1, 2, 3]:
+                                    json_file = f"level{current_level}.json"
+                                    update_word_audio(entry['word'], audio_save_path, json_file)
+                                st.audio(audio_data, format=audio_format)
                             cleanup_audio_file(audio_file)
                         else:
                             st.error("Audio generation failed")
