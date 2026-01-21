@@ -1,0 +1,978 @@
+{
+  "general": [
+    {
+      "word": "Serendipity",
+      "meaning": "A pleasant surprise; finding something good without looking for it",
+      "phrase": "It was pure serendipity that I met my best friend at the coffee shop.",
+      "media": "media/general/serendipity_it_was_pure_serendipity_that_i_met_my_best_friend.jpg"
+    },
+    {
+      "word": "Eloquent",
+      "meaning": "Fluent and persuasive in speaking or writing",
+      "phrase": "Her eloquent speech moved the entire audience to tears.",
+      "media": "media/general/eloquent_her_eloquent_speech_moved_the_entire_audience_to_t.jpg"
+    },
+    {
+      "word": "Resilient",
+      "meaning": "Able to recover quickly from difficult conditions",
+      "phrase": "The resilient community rebuilt after the natural disaster.",
+      "media": "media/general/resilient_the_resilient_community_rebuilt_after_the_natural.jpg"
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Dealing with things in a practical way",
+      "phrase": "His pragmatic approach to problem-solving saved the company money.",
+      "media": "media/general/pragmatic_his_pragmatic_approach_to_problem_solving_saved_th.jpg"
+    },
+    {
+      "word": "Ubiquitous",
+      "meaning": "Present everywhere at the same time",
+      "phrase": "Smartphones have become ubiquitous in modern society.",
+      "media": "media/general/ubiquitous_smartphones_have_become_ubiquitous_in_modern_socie.jpg"
+    },
+    {
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail; very careful",
+      "phrase": "The surgeon's meticulous technique ensured a successful operation.",
+      "media": "media/general/meticulous_the_surgeons_meticulous_technique_ensured_a_succe.jpg"
+    },
+    {
+      "word": "Ephemeral",
+      "meaning": "Lasting for a very short time",
+      "phrase": "The beauty of cherry blossoms is ephemeral but unforgettable.",
+      "media": "media/general/ephemeral_the_beauty_of_cherry_blossoms_is_ephemeral_but_unf.jpg"
+    },
+    {
+      "word": "Versatile",
+      "meaning": "Able to adapt to many different functions or activities",
+      "phrase": "She is a versatile actress who can play both comedy and drama.",
+      "media": "media/general/versatile_she_is_a_versatile_actress_who_can_play_both_comed.jpg"
+    },
+    {
+      "word": "Ambiguous",
+      "meaning": "Open to more than one interpretation; unclear",
+      "phrase": "The contract's ambiguous language led to a legal dispute.",
+      "media": "media/general/ambiguous_the_contracts_ambiguous_language_led_to_a_legal_d.jpg"
+    },
+    {
+      "word": "Innovative",
+      "meaning": "Featuring new methods; advanced and original",
+      "phrase": "The company's innovative design won several awards.",
+      "media": "media/general/innovative_the_companys_innovative_design_won_several_awards.jpg"
+    },
+    {
+      "word": "Tenacious",
+      "meaning": "Keeping a firm hold; persistent",
+      "phrase": "Her tenacious efforts finally paid off when she got the promotion.",
+      "media": "media/general/tenacious_her_tenacious_efforts_finally_paid_off_when_she_go.jpg"
+    },
+    {
+      "word": "Profound",
+      "meaning": "Very great or intense; having deep meaning",
+      "phrase": "The book had a profound impact on how I view life.",
+      "media": "media/general/profound_the_book_had_a_profound_impact_on_how_i_view_life.jpg"
+    },
+    {
+      "word": "Subtle",
+      "meaning": "Delicate or faint; not obvious",
+      "phrase": "There was a subtle change in her tone that indicated disapproval.",
+      "media": "media/general/subtle_there_was_a_subtle_change_in_her_tone_that_indicat.jpg"
+    },
+    {
+      "word": "Coherent",
+      "meaning": "Logical and consistent; easy to understand",
+      "phrase": "His coherent explanation helped everyone understand the complex topic.",
+      "media": "media/general/coherent_his_coherent_explanation_helped_everyone_understan.jpg"
+    },
+    {
+      "word": "Diligent",
+      "meaning": "Showing care and effort in one's work",
+      "phrase": "The diligent student always completed assignments on time.",
+      "media": "media/general/diligent_the_diligent_student_always_completed_assignments.jpg"
+    },
+    {
+      "word": "Intricate",
+      "meaning": "Very complicated or detailed",
+      "phrase": "The intricate pattern on the carpet was hand-woven by artisans.",
+      "media": "media/general/intricate_the_intricate_pattern_on_the_carpet_was_hand_woven.jpg"
+    },
+    {
+      "word": "Benevolent",
+      "meaning": "Well-meaning and kindly",
+      "phrase": "The benevolent donor helped fund the new library.",
+      "media": "media/general/benevolent_the_benevolent_donor_helped_fund_the_new_library.jpg"
+    },
+    {
+      "word": "Authentic",
+      "meaning": "Genuine; not fake or copied",
+      "phrase": "The restaurant serves authentic Italian cuisine.",
+      "media": "media/general/authentic_the_restaurant_serves_authentic_italian_cuisine.jpg"
+    },
+    {
+      "word": "Efficient",
+      "meaning": "Working in a well-organized way",
+      "phrase": "The new system made the workflow much more efficient.",
+      "media": "media/general/efficient_the_new_system_made_the_workflow_much_more_efficie.jpg"
+    },
+    {
+      "word": "Contemplative",
+      "meaning": "Thoughtful; given to deep consideration",
+      "phrase": "She sat in contemplative silence, pondering the decision.",
+      "media": "media/general/contemplative_she_sat_in_contemplative_silence_pondering_the_de.jpg"
+    }
+  ],
+  "science": [
+    {
+      "word": "Hypothesis",
+      "meaning": "A proposed explanation for a phenomenon",
+      "phrase": "The scientist formed a hypothesis about the unusual behavior of the particles.",
+      "media": "media/science/hypothesis_the_scientist_formed_a_hypothesis_about_the_unusua.jpg"
+    },
+    {
+      "word": "Catalyst",
+      "meaning": "A substance that increases the rate of a chemical reaction",
+      "phrase": "The enzyme acts as a catalyst in the digestive process.",
+      "media": "media/science/catalyst_the_enzyme_acts_as_a_catalyst_in_the_digestive_pro.jpg"
+    },
+    {
+      "word": "Molecule",
+      "meaning": "The smallest unit of a chemical compound",
+      "phrase": "Water is made up of molecules containing hydrogen and oxygen.",
+      "media": "media/science/molecule_water_is_made_up_of_molecules_containing_hydrogen.jpg"
+    },
+    {
+      "word": "Ecosystem",
+      "meaning": "A community of living organisms and their environment",
+      "phrase": "The rainforest ecosystem supports incredible biodiversity.",
+      "media": "media/science/ecosystem_the_rainforest_ecosystem_supports_incredible_biodi.jpg"
+    },
+    {
+      "word": "Photosynthesis",
+      "meaning": "The process by which plants make food using sunlight",
+      "phrase": "Photosynthesis is essential for life on Earth.",
+      "media": "media/science/photosynthesis_photosynthesis_is_essential_for_life_on_earth.jpg"
+    },
+    {
+      "word": "Chromosome",
+      "meaning": "A structure containing genetic information",
+      "phrase": "Humans have 23 pairs of chromosomes in each cell.",
+      "media": "media/science/chromosome_humans_have_23_pairs_of_chromosomes_in_each_cell.jpg"
+    },
+    {
+      "word": "Quantum",
+      "meaning": "The smallest amount of energy that can exist independently",
+      "phrase": "Quantum physics explains the behavior of subatomic particles.",
+      "media": "media/science/quantum_quantum_physics_explains_the_behavior_of_subatomic.jpg"
+    },
+    {
+      "word": "Biodiversity",
+      "meaning": "The variety of plant and animal life",
+      "phrase": "Climate change threatens global biodiversity.",
+      "media": "media/science/biodiversity_climate_change_threatens_global_biodiversity.jpg"
+    },
+    {
+      "word": "Metabolism",
+      "meaning": "Chemical processes that occur within living organisms",
+      "phrase": "Exercise can boost your metabolism significantly.",
+      "media": "media/science/metabolism_exercise_can_boost_your_metabolism_significantly.jpg"
+    },
+    {
+      "word": "Neuron",
+      "meaning": "A nerve cell that transmits information",
+      "phrase": "Each neuron in the brain connects to thousands of others.",
+      "media": "media/science/neuron_each_neuron_in_the_brain_connects_to_thousands_of.jpg"
+    },
+    {
+      "word": "Osmosis",
+      "meaning": "Movement of water through a semipermeable membrane",
+      "phrase": "Plants absorb water from soil through osmosis.",
+      "media": "media/science/osmosis_plants_absorb_water_from_soil_through_osmosis.jpg"
+    },
+    {
+      "word": "Mitosis",
+      "meaning": "The process of cell division",
+      "phrase": "Mitosis allows organisms to grow and repair tissues.",
+      "media": "media/science/mitosis_mitosis_allows_organisms_to_grow_and_repair_tissue.jpg"
+    },
+    {
+      "word": "Genome",
+      "meaning": "The complete set of genetic material",
+      "phrase": "Scientists have mapped the human genome completely.",
+      "media": "media/science/genome_scientists_have_mapped_the_human_genome_completely.jpg"
+    },
+    {
+      "word": "Thermodynamics",
+      "meaning": "The study of heat and energy transfer",
+      "phrase": "The laws of thermodynamics govern energy in the universe.",
+      "media": "media/science/thermodynamics_the_laws_of_thermodynamics_govern_energy_in_the_un.jpg"
+    },
+    {
+      "word": "Evolution",
+      "meaning": "The gradual development of species over time",
+      "phrase": "Evolution explains the diversity of life on Earth.",
+      "media": "media/science/evolution_evolution_explains_the_diversity_of_life_on_earth.jpg"
+    },
+    {
+      "word": "Isotope",
+      "meaning": "Variants of elements with different numbers of neutrons",
+      "phrase": "Carbon-14 is an isotope used in radiocarbon dating.",
+      "media": "media/science/isotope_carbon_14_is_an_isotope_used_in_radiocarbon_dating.jpg"
+    },
+    {
+      "word": "Enzyme",
+      "meaning": "A protein that speeds up biochemical reactions",
+      "phrase": "Digestive enzymes help break down food in the stomach.",
+      "media": "media/science/enzyme_digestive_enzymes_help_break_down_food_in_the_stom.jpg"
+    },
+    {
+      "word": "Gravity",
+      "meaning": "The force that attracts objects toward each other",
+      "phrase": "Gravity keeps the planets in orbit around the sun.",
+      "media": "media/science/gravity_gravity_keeps_the_planets_in_orbit_around_the_sun.jpg"
+    },
+    {
+      "word": "Radiation",
+      "meaning": "Energy transmitted through space or matter",
+      "phrase": "Solar radiation provides energy for photosynthesis.",
+      "media": "media/science/radiation_solar_radiation_provides_energy_for_photosynthesis.jpg"
+    },
+    {
+      "word": "Symbiosis",
+      "meaning": "A close relationship between different species",
+      "phrase": "The symbiosis between bees and flowers benefits both species.",
+      "media": "media/science/symbiosis_the_symbiosis_between_bees_and_flowers_benefits_bo.jpg"
+    }
+  ],
+  "business": [
+    {
+      "word": "Entrepreneur",
+      "meaning": "A person who starts and runs a business",
+      "phrase": "The young entrepreneur launched three successful startups.",
+      "media": "media/business/entrepreneur_the_young_entrepreneur_launched_three_successful_s.jpg"
+    },
+    {
+      "word": "Revenue",
+      "meaning": "Income generated from business operations",
+      "phrase": "The company's revenue increased by 25% this quarter.",
+      "media": "media/business/revenue_the_companys_revenue_increased_by_25_this_quarte.jpg"
+    },
+    {
+      "word": "Stakeholder",
+      "meaning": "A person with an interest in a business",
+      "phrase": "All stakeholders were consulted before the merger.",
+      "media": "media/business/stakeholder_all_stakeholders_were_consulted_before_the_merger.jpg"
+    },
+    {
+      "word": "Portfolio",
+      "meaning": "A collection of investments or business interests",
+      "phrase": "His investment portfolio includes stocks, bonds, and real estate.",
+      "media": "media/business/portfolio_his_investment_portfolio_includes_stocks_bonds_a.jpg"
+    },
+    {
+      "word": "Synergy",
+      "meaning": "Combined effort producing greater results",
+      "phrase": "The merger created synergy between the two companies.",
+      "media": "media/business/synergy_the_merger_created_synergy_between_the_two_compani.jpg"
+    },
+    {
+      "word": "Leverage",
+      "meaning": "To use something to maximum advantage",
+      "phrase": "The company used leverage to expand into new markets.",
+      "media": "media/business/leverage_the_company_used_leverage_to_expand_into_new_marke.jpg"
+    },
+    {
+      "word": "Equity",
+      "meaning": "Ownership interest in a company",
+      "phrase": "She owns 30% equity in the tech startup.",
+      "media": "media/business/equity_she_owns_30_equity_in_the_tech_startup.jpg"
+    },
+    {
+      "word": "Margin",
+      "meaning": "The difference between cost and selling price",
+      "phrase": "The product has a healthy profit margin of 40%.",
+      "media": "media/business/margin_the_product_has_a_healthy_profit_margin_of_40.jpg"
+    },
+    {
+      "word": "Franchise",
+      "meaning": "Authorization to sell a company's goods or services",
+      "phrase": "He opened a franchise of the popular restaurant chain.",
+      "media": "media/business/franchise_he_opened_a_franchise_of_the_popular_restaurant_ch.jpg"
+    },
+    {
+      "word": "Diversification",
+      "meaning": "Expanding into different markets or products",
+      "phrase": "Diversification helped the company weather the economic downturn.",
+      "media": "media/business/diversification_diversification_helped_the_company_weather_the_eco.jpg"
+    },
+    {
+      "word": "Acquisition",
+      "meaning": "The purchase of one company by another",
+      "phrase": "The acquisition doubled the company's market share.",
+      "media": "media/business/acquisition_the_acquisition_doubled_the_companys_market_share.jpg"
+    },
+    {
+      "word": "Liability",
+      "meaning": "Legal responsibility or financial obligation",
+      "phrase": "The company's liability insurance covers potential lawsuits.",
+      "media": "media/business/liability_the_companys_liability_insurance_covers_potential.jpg"
+    },
+    {
+      "word": "Liquidate",
+      "meaning": "To convert assets into cash",
+      "phrase": "They decided to liquidate the failing division.",
+      "media": "media/business/liquidate_they_decided_to_liquidate_the_failing_division.jpg"
+    },
+    {
+      "word": "Innovative",
+      "meaning": "Introducing new ideas or methods",
+      "phrase": "The innovative marketing strategy increased brand awareness.",
+      "media": "media/business/innovative_the_innovative_marketing_strategy_increased_brand.jpg"
+    },
+    {
+      "word": "Compliance",
+      "meaning": "Conforming to rules, regulations, or standards",
+      "phrase": "The company ensures compliance with all safety regulations.",
+      "media": "media/business/compliance_the_company_ensures_compliance_with_all_safety_reg.jpg"
+    },
+    {
+      "word": "Benchmark",
+      "meaning": "A standard against which things are measured",
+      "phrase": "Customer satisfaction is our key performance benchmark.",
+      "media": "media/business/benchmark_customer_satisfaction_is_our_key_performance_bench.jpg"
+    },
+    {
+      "word": "Scalable",
+      "meaning": "Able to grow or expand efficiently",
+      "phrase": "The software platform is highly scalable for growing businesses.",
+      "media": "media/business/scalable_the_software_platform_is_highly_scalable_for_growi.jpg"
+    },
+    {
+      "word": "Subsidiary",
+      "meaning": "A company controlled by another company",
+      "phrase": "The subsidiary operates independently in the Asian market.",
+      "media": "media/business/subsidiary_the_subsidiary_operates_independently_in_the_asian.jpg"
+    },
+    {
+      "word": "Turnover",
+      "meaning": "The rate at which employees leave and are replaced",
+      "phrase": "High turnover rates indicate poor management practices.",
+      "media": "media/business/turnover_high_turnover_rates_indicate_poor_management_pract.jpg"
+    },
+    {
+      "word": "Valuation",
+      "meaning": "The estimated worth of a company or asset",
+      "phrase": "The startup's valuation reached $100 million after funding.",
+      "media": "media/business/valuation_the_startups_valuation_reached_100_million_after.jpg"
+    }
+  ],
+  "literature": [
+    {
+      "word": "Metaphor",
+      "meaning": "A figure of speech comparing two unlike things",
+      "phrase": "Life is a journey is a common metaphor in literature.",
+      "media": "media/literature/metaphor_life_is_a_journey_is_a_common_metaphor_in_literatu.jpg"
+    },
+    {
+      "word": "Allegory",
+      "meaning": "A story with hidden meaning or moral lesson",
+      "phrase": "Animal Farm is an allegory about political corruption.",
+      "media": "media/literature/allegory_animal_farm_is_an_allegory_about_political_corrupt.jpg"
+    },
+    {
+      "word": "Protagonist",
+      "meaning": "The main character in a story",
+      "phrase": "Elizabeth Bennet is the protagonist of Pride and Prejudice.",
+      "media": "media/literature/protagonist_elizabeth_bennet_is_the_protagonist_of_pride_and_p.jpg"
+    },
+    {
+      "word": "Antagonist",
+      "meaning": "A character who opposes the protagonist",
+      "phrase": "Iago serves as the antagonist in Shakespeare's Othello.",
+      "media": "media/literature/antagonist_iago_serves_as_the_antagonist_in_shakespeares_oth.jpg"
+    },
+    {
+      "word": "Irony",
+      "meaning": "Expression of meaning through the use of opposite language",
+      "phrase": "The irony of the situation was not lost on the readers.",
+      "media": "media/literature/irony_the_irony_of_the_situation_was_not_lost_on_the_rea.jpg"
+    },
+    {
+      "word": "Symbolism",
+      "meaning": "The use of symbols to represent ideas",
+      "phrase": "The white whale in Moby Dick represents obsession through symbolism.",
+      "media": "media/literature/symbolism_the_white_whale_in_moby_dick_represents_obsession.jpg"
+    },
+    {
+      "word": "Foreshadowing",
+      "meaning": "Hints about what will happen later in a story",
+      "phrase": "The author uses foreshadowing to build suspense throughout the novel.",
+      "media": "media/literature/foreshadowing_the_author_uses_foreshadowing_to_build_suspense_th.jpg"
+    },
+    {
+      "word": "Soliloquy",
+      "meaning": "A speech delivered by a character alone on stage",
+      "phrase": "Hamlet's soliloquy reveals his inner thoughts and conflicts.",
+      "media": "media/literature/soliloquy_hamlets_soliloquy_reveals_his_inner_thoughts_and.jpg"
+    },
+    {
+      "word": "Alliteration",
+      "meaning": "Repetition of initial consonant sounds",
+      "phrase": "Peter Piper picked a peck of pickled peppers demonstrates alliteration.",
+      "media": "media/literature/alliteration_peter_piper_picked_a_peck_of_pickled_peppers_demon.jpg"
+    },
+    {
+      "word": "Personification",
+      "meaning": "Giving human characteristics to non-human things",
+      "phrase": "The wind whispered through the trees shows personification.",
+      "media": "media/literature/personification_the_wind_whispered_through_the_trees_shows_personi.jpg"
+    },
+    {
+      "word": "Oxymoron",
+      "meaning": "A combination of contradictory terms",
+      "phrase": "Deafening silence is an example of an oxymoron.",
+      "media": "media/literature/oxymoron_deafening_silence_is_an_example_of_an_oxymoron.jpg"
+    },
+    {
+      "word": "Satire",
+      "meaning": "The use of humor to criticize or expose flaws",
+      "phrase": "Swift's essay is a brilliant piece of political satire.",
+      "media": "media/literature/satire_swifts_essay_is_a_brilliant_piece_of_political_sa.jpg"
+    },
+    {
+      "word": "Tragedy",
+      "meaning": "A serious play with an unhappy ending",
+      "phrase": "King Lear is considered one of Shakespeare's greatest tragedies.",
+      "media": "media/literature/tragedy_king_lear_is_considered_one_of_shakespeares_great.jpg"
+    },
+    {
+      "word": "Comedy",
+      "meaning": "A play or novel intended to be humorous",
+      "phrase": "Much Ado About Nothing is a popular Shakespearean comedy.",
+      "media": "media/literature/comedy_much_ado_about_nothing_is_a_popular_shakespearean.jpg"
+    },
+    {
+      "word": "Epic",
+      "meaning": "A long narrative poem about heroic deeds",
+      "phrase": "The Iliad is an ancient Greek epic about the Trojan War.",
+      "media": "media/literature/epic_the_iliad_is_an_ancient_greek_epic_about_the_troja.jpg"
+    },
+    {
+      "word": "Sonnet",
+      "meaning": "A 14-line poem with a specific rhyme scheme",
+      "phrase": "Shakespeare wrote 154 sonnets during his lifetime.",
+      "media": "media/literature/sonnet_shakespeare_wrote_154_sonnets_during_his_lifetime.jpg"
+    },
+    {
+      "word": "Climax",
+      "meaning": "The turning point or highest point of tension",
+      "phrase": "The climax of the story occurs when the hero faces his greatest challenge.",
+      "media": "media/literature/climax_the_climax_of_the_story_occurs_when_the_hero_faces.jpg"
+    },
+    {
+      "word": "Theme",
+      "meaning": "The central message or meaning of a work",
+      "phrase": "The theme of redemption runs throughout the entire novel.",
+      "media": "media/literature/theme_the_theme_of_redemption_runs_throughout_the_entire.jpg"
+    },
+    {
+      "word": "Narrator",
+      "meaning": "The person telling the story",
+      "phrase": "The unreliable narrator makes the reader question what is true.",
+      "media": "media/literature/narrator_the_unreliable_narrator_makes_the_reader_question.jpg"
+    },
+    {
+      "word": "Genre",
+      "meaning": "A category of literature or artistic work",
+      "phrase": "Science fiction is her favorite literary genre.",
+      "media": "media/literature/genre_science_fiction_is_her_favorite_literary_genre.jpg"
+    }
+  ],
+  "travel": [
+    {
+      "word": "Itinerary",
+      "meaning": "A planned route or journey schedule",
+      "phrase": "Our itinerary includes visits to five European countries.",
+      "media": "media/travel/itinerary_our_itinerary_includes_visits_to_five_european_cou.jpg"
+    },
+    {
+      "word": "Destination",
+      "meaning": "The place to which someone is going",
+      "phrase": "Paris was our final destination on the European tour.",
+      "media": "media/travel/destination_paris_was_our_final_destination_on_the_european_to.jpg"
+    },
+    {
+      "word": "Expedition",
+      "meaning": "A journey undertaken for a specific purpose",
+      "phrase": "The expedition to Antarctica required months of preparation.",
+      "media": "media/travel/expedition_the_expedition_to_antarctica_required_months_of_pr.jpg"
+    },
+    {
+      "word": "Wanderlust",
+      "meaning": "A strong desire to travel and explore",
+      "phrase": "Her wanderlust led her to visit over 50 countries.",
+      "media": "media/travel/wanderlust_her_wanderlust_led_her_to_visit_over_50_countries.jpg"
+    },
+    {
+      "word": "Nomadic",
+      "meaning": "Living a life of traveling from place to place",
+      "phrase": "The nomadic lifestyle suits those who love constant adventure.",
+      "media": "media/travel/nomadic_the_nomadic_lifestyle_suits_those_who_love_constan.jpg"
+    },
+    {
+      "word": "Excursion",
+      "meaning": "A short journey or trip for pleasure",
+      "phrase": "We took a day excursion to the nearby mountain village.",
+      "media": "media/travel/excursion_we_took_a_day_excursion_to_the_nearby_mountain_vil.jpg"
+    },
+    {
+      "word": "Passport",
+      "meaning": "Official document for international travel",
+      "phrase": "Don't forget to renew your passport before the trip.",
+      "media": "media/travel/passport_dont_forget_to_renew_your_passport_before_the_tri.jpg"
+    },
+    {
+      "word": "Accommodation",
+      "meaning": "A place to stay during travel",
+      "phrase": "We booked accommodation at a charming bed and breakfast.",
+      "media": "media/travel/accommodation_we_booked_accommodation_at_a_charming_bed_and_brea.jpg"
+    },
+    {
+      "word": "Transportation",
+      "meaning": "Means of getting from one place to another",
+      "phrase": "Public transportation in Tokyo is incredibly efficient.",
+      "media": "media/travel/transportation_public_transportation_in_tokyo_is_incredibly_effic.jpg"
+    },
+    {
+      "word": "Customs",
+      "meaning": "Government agency controlling imports/exports",
+      "phrase": "We had to declare our purchases at customs.",
+      "media": "media/travel/customs_we_had_to_declare_our_purchases_at_customs.jpg"
+    },
+    {
+      "word": "Currency",
+      "meaning": "The money used in a particular country",
+      "phrase": "You'll need to exchange currency before visiting Japan.",
+      "media": "media/travel/currency_youll_need_to_exchange_currency_before_visiting_j.jpg"
+    },
+    {
+      "word": "Landmark",
+      "meaning": "A recognizable feature of a landscape",
+      "phrase": "The Eiffel Tower is Paris's most famous landmark.",
+      "media": "media/travel/landmark_the_eiffel_tower_is_pariss_most_famous_landmark.jpg"
+    },
+    {
+      "word": "Souvenir",
+      "meaning": "A memento of a visit to a place",
+      "phrase": "I bought a handcrafted souvenir from the local market.",
+      "media": "media/travel/souvenir_i_bought_a_handcrafted_souvenir_from_the_local_mar.jpg"
+    },
+    {
+      "word": "Backpacking",
+      "meaning": "Traveling with minimal luggage and budget",
+      "phrase": "Backpacking through Europe was an unforgettable experience.",
+      "media": "media/travel/backpacking_backpacking_through_europe_was_an_unforgettable_ex.jpg"
+    },
+    {
+      "word": "Pilgrimage",
+      "meaning": "A journey to a sacred place",
+      "phrase": "Many people make a pilgrimage to Santiago de Compostela.",
+      "media": "media/travel/pilgrimage_many_people_make_a_pilgrimage_to_santiago_de_compo.jpg"
+    },
+    {
+      "word": "Tourism",
+      "meaning": "The business of providing services to tourists",
+      "phrase": "Tourism is the main source of income for the island.",
+      "media": "media/travel/tourism_tourism_is_the_main_source_of_income_for_the_islan.jpg"
+    },
+    {
+      "word": "Hospitality",
+      "meaning": "Friendly and generous treatment of guests",
+      "phrase": "The hospitality of the local people made our stay memorable.",
+      "media": "media/travel/hospitality_the_hospitality_of_the_local_people_made_our_stay.jpg"
+    },
+    {
+      "word": "Adventure",
+      "meaning": "An exciting or unusual experience",
+      "phrase": "Skydiving in New Zealand was the adventure of a lifetime.",
+      "media": "media/travel/adventure_skydiving_in_new_zealand_was_the_adventure_of_a_li.jpg"
+    },
+    {
+      "word": "Culture",
+      "meaning": "The customs and beliefs of a particular group",
+      "phrase": "Experiencing local culture is the best part of traveling.",
+      "media": "media/travel/culture_experiencing_local_culture_is_the_best_part_of_tra.jpg"
+    },
+    {
+      "word": "Navigation",
+      "meaning": "The process of planning and following a route",
+      "phrase": "GPS has made navigation much easier for modern travelers.",
+      "media": "media/travel/navigation_gps_has_made_navigation_much_easier_for_modern_tra.jpg"
+    }
+  ],
+  "history": [
+    {
+      "word": "Civilization",
+      "meaning": "An advanced stage of human social development",
+      "phrase": "Ancient Mesopotamian civilization developed the first cities.",
+      "media": "media/history/civilization_ancient_mesopotamian_civilization_developed_the_fi.jpg"
+    },
+    {
+      "word": "Dynasty",
+      "meaning": "A series of rulers from the same family",
+      "phrase": "The Ming Dynasty ruled China for nearly 300 years.",
+      "media": "media/history/dynasty_the_ming_dynasty_ruled_china_for_nearly_300_years.jpg"
+    },
+    {
+      "word": "Revolution",
+      "meaning": "A forcible overthrow of government or social order",
+      "phrase": "The French Revolution changed the course of European history.",
+      "media": "media/history/revolution_the_french_revolution_changed_the_course_of_europe.jpg"
+    },
+    {
+      "word": "Empire",
+      "meaning": "An extensive group of territories under single rule",
+      "phrase": "The Roman Empire stretched across three continents.",
+      "media": "media/history/empire_the_roman_empire_stretched_across_three_continents.jpg"
+    },
+    {
+      "word": "Monarchy",
+      "meaning": "A form of government with a single ruler",
+      "phrase": "The British monarchy has existed for over a thousand years.",
+      "media": "media/history/monarchy_the_british_monarchy_has_existed_for_over_a_thousa.jpg"
+    },
+    {
+      "word": "Democracy",
+      "meaning": "Government by the people through elected representatives",
+      "phrase": "Ancient Athens is considered the birthplace of democracy.",
+      "media": "media/history/democracy_ancient_athens_is_considered_the_birthplace_of_dem.jpg"
+    },
+    {
+      "word": "Renaissance",
+      "meaning": "A period of renewed interest in art and learning",
+      "phrase": "The Renaissance brought about significant cultural changes in Europe.",
+      "media": "media/history/renaissance_the_renaissance_brought_about_significant_cultural.jpg"
+    },
+    {
+      "word": "Feudalism",
+      "meaning": "A medieval system of land ownership and obligations",
+      "phrase": "Feudalism dominated European society during the Middle Ages.",
+      "media": "media/history/feudalism_feudalism_dominated_european_society_during_the_mi.jpg"
+    },
+    {
+      "word": "Colonialism",
+      "meaning": "The practice of establishing colonies in other territories",
+      "phrase": "European colonialism had lasting effects on many continents.",
+      "media": "media/history/colonialism_european_colonialism_had_lasting_effects_on_many_c.jpg"
+    },
+    {
+      "word": "Reformation",
+      "meaning": "A religious movement that split Christianity",
+      "phrase": "The Protestant Reformation began with Martin Luther's protests.",
+      "media": "media/history/reformation_the_protestant_reformation_began_with_martin_luthe.jpg"
+    },
+    {
+      "word": "Enlightenment",
+      "meaning": "An intellectual movement emphasizing reason",
+      "phrase": "The Enlightenment influenced many political revolutions.",
+      "media": "media/history/enlightenment_the_enlightenment_influenced_many_political_revolu.jpg"
+    },
+    {
+      "word": "Industrial",
+      "meaning": "Relating to the development of industries",
+      "phrase": "The Industrial Revolution transformed manufacturing processes.",
+      "media": "media/history/industrial_the_industrial_revolution_transformed_manufacturin.jpg"
+    },
+    {
+      "word": "Abolition",
+      "meaning": "The act of formally ending a system or practice",
+      "phrase": "The abolition of slavery was a major civil rights victory.",
+      "media": "media/history/abolition_the_abolition_of_slavery_was_a_major_civil_rights.jpg"
+    },
+    {
+      "word": "Archaeology",
+      "meaning": "The study of human history through excavated artifacts",
+      "phrase": "Archaeology has revealed much about ancient civilizations.",
+      "media": "media/history/archaeology_archaeology_has_revealed_much_about_ancient_civili.jpg"
+    },
+    {
+      "word": "Chronicle",
+      "meaning": "A historical record of events in order of time",
+      "phrase": "Medieval chronicles provide insight into life during that era.",
+      "media": "media/history/chronicle_medieval_chronicles_provide_insight_into_life_duri.jpg"
+    },
+    {
+      "word": "Treaty",
+      "meaning": "A formally concluded agreement between countries",
+      "phrase": "The Treaty of Versailles ended World War I.",
+      "media": "media/history/treaty_the_treaty_of_versailles_ended_world_war_i.jpg"
+    },
+    {
+      "word": "Conquest",
+      "meaning": "The subjugation of territory by military force",
+      "phrase": "The Norman Conquest changed English history forever.",
+      "media": "media/history/conquest_the_norman_conquest_changed_english_history_foreve.jpg"
+    },
+    {
+      "word": "Legacy",
+      "meaning": "Something handed down from the past",
+      "phrase": "Lincoln's legacy includes the preservation of the Union.",
+      "media": "media/history/legacy_lincolns_legacy_includes_the_preservation_of_the.jpg"
+    },
+    {
+      "word": "Artifact",
+      "meaning": "An object made by humans in the past",
+      "phrase": "The museum displays artifacts from ancient Egypt.",
+      "media": "media/history/artifact_the_museum_displays_artifacts_from_ancient_egypt.jpg"
+    },
+    {
+      "word": "Persecution",
+      "meaning": "Hostility and ill-treatment of a group",
+      "phrase": "Religious persecution drove many to seek new lands.",
+      "media": "media/history/persecution_religious_persecution_drove_many_to_seek_new_lands.jpg"
+    }
+  ],
+  "geography": [
+    {
+      "word": "Latitude",
+      "meaning": "Distance north or south from the equator",
+      "phrase": "The latitude of New York City is approximately 40 degrees north.",
+      "media": "media/geography/latitude_the_latitude_of_new_york_city_is_approximately_40.jpg"
+    },
+    {
+      "word": "Longitude",
+      "meaning": "Distance east or west from the prime meridian",
+      "phrase": "The longitude of London determines Greenwich Mean Time.",
+      "media": "media/geography/longitude_the_longitude_of_london_determines_greenwich_mean.jpg"
+    },
+    {
+      "word": "Topography",
+      "meaning": "The arrangement of natural and artificial features",
+      "phrase": "The topography of Switzerland includes many mountains and valleys.",
+      "media": "media/geography/topography_the_topography_of_switzerland_includes_many_mounta.jpg"
+    },
+    {
+      "word": "Archipelago",
+      "meaning": "A group of islands",
+      "phrase": "The Philippines is an archipelago of over 7,000 islands.",
+      "media": "media/geography/archipelago_the_philippines_is_an_archipelago_of_over_7000_is.jpg"
+    },
+    {
+      "word": "Peninsula",
+      "meaning": "Land surrounded by water on three sides",
+      "phrase": "Florida is a peninsula extending into the Atlantic Ocean.",
+      "media": "media/geography/peninsula_florida_is_a_peninsula_extending_into_the_atlantic.jpg"
+    },
+    {
+      "word": "Plateau",
+      "meaning": "An elevated flat area of land",
+      "phrase": "The Tibetan Plateau is known as the Roof of the World.",
+      "media": "media/geography/plateau_the_tibetan_plateau_is_known_as_the_roof_of_the_wo.jpg"
+    },
+    {
+      "word": "Estuary",
+      "meaning": "Where a river meets the sea",
+      "phrase": "The Thames Estuary is vital for London's maritime trade.",
+      "media": "media/geography/estuary_the_thames_estuary_is_vital_for_londons_maritime.jpg"
+    },
+    {
+      "word": "Tundra",
+      "meaning": "A vast treeless Arctic region",
+      "phrase": "The Alaskan tundra supports unique Arctic wildlife.",
+      "media": "media/geography/tundra_the_alaskan_tundra_supports_unique_arctic_wildlife.jpg"
+    },
+    {
+      "word": "Savanna",
+      "meaning": "A grassland with scattered trees",
+      "phrase": "African savanna is home to lions, elephants, and zebras.",
+      "media": "media/geography/savanna_african_savanna_is_home_to_lions_elephants_and_z.jpg"
+    },
+    {
+      "word": "Delta",
+      "meaning": "Triangular area where a river meets the sea",
+      "phrase": "The Nile Delta is one of the world's most fertile regions.",
+      "media": "media/geography/delta_the_nile_delta_is_one_of_the_worlds_most_fertile.jpg"
+    },
+    {
+      "word": "Ecosystem",
+      "meaning": "A community of organisms and their environment",
+      "phrase": "The rainforest ecosystem supports incredible biodiversity.",
+      "media": "media/geography/ecosystem_the_rainforest_ecosystem_supports_incredible_biodi.jpg"
+    },
+    {
+      "word": "Continental",
+      "meaning": "Relating to a continent's mainland",
+      "phrase": "Continental drift explains how continents have moved over time.",
+      "media": "media/geography/continental_continental_drift_explains_how_continents_have_mov.jpg"
+    },
+    {
+      "word": "Seismic",
+      "meaning": "Relating to earthquakes or earth vibrations",
+      "phrase": "California experiences frequent seismic activity along fault lines.",
+      "media": "media/geography/seismic_california_experiences_frequent_seismic_activity_a.jpg"
+    },
+    {
+      "word": "Erosion",
+      "meaning": "The wearing away of land by natural forces",
+      "phrase": "Coastal erosion is threatening many beachfront communities.",
+      "media": "media/geography/erosion_coastal_erosion_is_threatening_many_beachfront_com.jpg"
+    },
+    {
+      "word": "Watershed",
+      "meaning": "An area of land that drains into a river",
+      "phrase": "The Mississippi watershed covers about 40% of the United States.",
+      "media": "media/geography/watershed_the_mississippi_watershed_covers_about_40_of_the.jpg"
+    },
+    {
+      "word": "Monsoon",
+      "meaning": "Seasonal wind patterns bringing heavy rains",
+      "phrase": "The monsoon season is crucial for agriculture in India.",
+      "media": "media/geography/monsoon_the_monsoon_season_is_crucial_for_agriculture_in_i.jpg"
+    },
+    {
+      "word": "Glacier",
+      "meaning": "A slowly moving mass of ice",
+      "phrase": "The glacier carved deep valleys through the mountain range.",
+      "media": "media/geography/glacier_the_glacier_carved_deep_valleys_through_the_mounta.jpg"
+    },
+    {
+      "word": "Urbanization",
+      "meaning": "The process of making an area more urban",
+      "phrase": "Rapid urbanization has transformed rural areas into cities.",
+      "media": "media/geography/urbanization_rapid_urbanization_has_transformed_rural_areas_int.jpg"
+    },
+    {
+      "word": "Migration",
+      "meaning": "Movement from one place to another",
+      "phrase": "Bird migration patterns change with seasonal weather variations.",
+      "media": "media/geography/migration_bird_migration_patterns_change_with_seasonal_weath.jpg"
+    },
+    {
+      "word": "Biodiversity",
+      "meaning": "The variety of life in an ecosystem",
+      "phrase": "Tropical rainforests have the highest biodiversity on Earth.",
+      "media": "media/geography/biodiversity_tropical_rainforests_have_the_highest_biodiversity.jpg"
+    }
+  ],
+  "health": [
+    {
+      "word": "Metabolism",
+      "meaning": "The chemical processes that occur within the body to maintain life",
+      "phrase": "Regular exercise can boost your metabolism significantly.",
+      "media": "media/health/metabolism_regular_exercise_can_boost_your_metabolism_signifi.jpg"
+    },
+    {
+      "word": "Cardiovascular",
+      "meaning": "Relating to the heart and blood vessels",
+      "phrase": "Cardiovascular exercise is essential for heart health.",
+      "media": "media/health/cardiovascular_cardiovascular_exercise_is_essential_for_heart_hea.jpg"
+    },
+    {
+      "word": "Immunity",
+      "meaning": "The body's ability to resist infection and disease",
+      "phrase": "A balanced diet helps strengthen your immunity against illness.",
+      "media": "media/health/immunity_a_balanced_diet_helps_strengthen_your_immunity_aga.jpg"
+    },
+    {
+      "word": "Chronic",
+      "meaning": "Persisting for a long time or constantly recurring",
+      "phrase": "Diabetes is a chronic condition that requires ongoing management.",
+      "media": "media/health/chronic_diabetes_is_a_chronic_condition_that_requires_ongo.jpg"
+    },
+    {
+      "word": "Diagnosis",
+      "meaning": "The identification of a disease or condition",
+      "phrase": "Early diagnosis of cancer can significantly improve treatment outcomes.",
+      "media": "media/health/diagnosis_early_diagnosis_of_cancer_can_significantly_improv.jpg"
+    },
+    {
+      "word": "Prevention",
+      "meaning": "The action of stopping something from happening",
+      "phrase": "Prevention is better than cure when it comes to health issues.",
+      "media": "media/health/prevention_prevention_is_better_than_cure_when_it_comes_to_he.jpg"
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "The process of providing food necessary for health and growth",
+      "phrase": "Proper nutrition is fundamental to maintaining good health.",
+      "media": "media/health/nutrition_proper_nutrition_is_fundamental_to_maintaining_goo.jpg"
+    },
+    {
+      "word": "Antibiotics",
+      "meaning": "Medicines that fight bacterial infections",
+      "phrase": "The doctor prescribed antibiotics to treat the bacterial infection.",
+      "media": "media/health/antibiotics_the_doctor_prescribed_antibiotics_to_treat_the_bac.jpg"
+    },
+    {
+      "word": "Rehabilitation",
+      "meaning": "The process of helping someone recover from illness or injury",
+      "phrase": "Physical rehabilitation helped him regain mobility after the accident.",
+      "media": "media/health/rehabilitation_physical_rehabilitation_helped_him_regain_mobility.jpg"
+    },
+    {
+      "word": "Wellness",
+      "meaning": "The state of being in good health, especially as an actively pursued goal",
+      "phrase": "The company promotes employee wellness through fitness programs.",
+      "media": "media/health/wellness_the_company_promotes_employee_wellness_through_fit.jpg"
+    },
+    {
+      "word": "Therapeutic",
+      "meaning": "Having a healing effect or relating to medical treatment",
+      "phrase": "Massage therapy has therapeutic benefits for muscle tension.",
+      "media": "media/health/therapeutic_massage_therapy_has_therapeutic_benefits_for_muscl.jpg"
+    },
+    {
+      "word": "Symptom",
+      "meaning": "A physical or mental feature indicating a condition or disease",
+      "phrase": "Fever is a common symptom of many viral infections.",
+      "media": "media/health/symptom_fever_is_a_common_symptom_of_many_viral_infections.jpg"
+    },
+    {
+      "word": "Vital",
+      "meaning": "Essential for life or absolutely necessary",
+      "phrase": "Monitoring vital signs is crucial in emergency medical care.",
+      "media": "media/health/vital_monitoring_vital_signs_is_crucial_in_emergency_med.jpg"
+    },
+    {
+      "word": "Holistic",
+      "meaning": "Treating the whole person rather than just symptoms",
+      "phrase": "Holistic medicine considers physical, mental, and emotional health.",
+      "media": "media/health/holistic_holistic_medicine_considers_physical_mental_and.jpg"
+    },
+    {
+      "word": "Epidemic",
+      "meaning": "A widespread occurrence of an infectious disease",
+      "phrase": "The flu epidemic affected thousands of people in the region.",
+      "media": "media/health/epidemic_the_flu_epidemic_affected_thousands_of_people_in_t.jpg"
+    },
+    {
+      "word": "Hygiene",
+      "meaning": "Conditions or practices conducive to maintaining health",
+      "phrase": "Good personal hygiene helps prevent the spread of diseases.",
+      "media": "media/health/hygiene_good_personal_hygiene_helps_prevent_the_spread_of.jpg"
+    },
+    {
+      "word": "Pharmaceutical",
+      "meaning": "Relating to medicinal drugs or the production of medicines",
+      "phrase": "Pharmaceutical companies invest billions in drug research and development.",
+      "media": "media/health/pharmaceutical_pharmaceutical_companies_invest_billions_in_drug_r.jpg"
+    },
+    {
+      "word": "Sedentary",
+      "meaning": "Involving little physical activity or movement",
+      "phrase": "A sedentary lifestyle increases the risk of various health problems.",
+      "media": "media/health/sedentary_a_sedentary_lifestyle_increases_the_risk_of_variou.jpg"
+    },
+    {
+      "word": "Pathogen",
+      "meaning": "A microorganism that can cause disease",
+      "phrase": "Hand washing helps eliminate harmful pathogens from your skin.",
+      "media": "media/health/pathogen_hand_washing_helps_eliminate_harmful_pathogens_fro.jpg"
+    },
+    {
+      "word": "Prognosis",
+      "meaning": "The likely course and outcome of a disease",
+      "phrase": "The patient's prognosis improved significantly after the surgery.",
+      "media": "media/health/prognosis_the_patients_prognosis_improved_significantly_aft.jpg"
+    }
+  ]
+}

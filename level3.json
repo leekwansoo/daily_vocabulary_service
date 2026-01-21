@@ -1,0 +1,2178 @@
+{
+  "general": [
+    {
+      "word": "Ubiquitous",
+      "meaning": "Present everywhere at the same time",
+      "phrase": "Smartphones have become ubiquitous in modern society.",
+      "expressions": [
+        "Technology is ubiquitous now.",
+        "Smartphones are ubiquitous."
+      ]
+    },
+    {
+      "word": "Quintessential",
+      "meaning": "Representing most perfect example of quality",
+      "phrase": "Her performance was the quintessential display of classical ballet.",
+      "expressions": [
+        "She's the quintessential professional.",
+        "This is quintessential elegance."
+      ]
+    },
+    {
+      "word": "Perspicacious",
+      "meaning": "Having keen insight and understanding",
+      "phrase": "The perspicacious detective solved the case quickly.",
+      "expressions": [
+        "His perspicacious analysis impressed us.",
+        "She made perspicacious observations."
+      ]
+    },
+    {
+      "word": "Serendipitous",
+      "meaning": "Occurring by chance in happy way",
+      "phrase": "Their serendipitous meeting led to lifelong friendship.",
+      "expressions": [
+        "What a serendipitous encounter!",
+        "That was serendipitous timing."
+      ]
+    },
+    {
+      "word": "Ineffable",
+      "meaning": "Too great to be expressed in words",
+      "phrase": "The beauty of the sunset was ineffable.",
+      "expressions": [
+        "The beauty was ineffable.",
+        "Her joy was ineffable."
+      ]
+    },
+    {
+      "word": "Juxtaposition",
+      "meaning": "Fact of two things being close together",
+      "phrase": "The juxtaposition of ancient and modern architecture was striking.",
+      "expressions": [
+        "The juxtaposition creates tension.",
+        "Juxtaposition highlights contrasts."
+      ]
+    },
+    {
+      "word": "Paradoxical",
+      "meaning": "Seemingly contradictory but possibly true",
+      "phrase": "The paradoxical nature of quantum physics baffles scientists.",
+      "expressions": [
+        "That's paradoxical thinking.",
+        "Life is paradoxical."
+      ]
+    },
+    {
+      "word": "Ephemeral",
+      "meaning": "Lasting for very short time",
+      "phrase": "The ephemeral beauty of cherry blossoms attracts millions.",
+      "expressions": [
+        "Beauty is ephemeral.",
+        "Youth is ephemeral."
+      ]
+    },
+    {
+      "word": "Dichotomy",
+      "meaning": "Division into two contrasting parts",
+      "phrase": "The dichotomy between rich and poor continues to grow.",
+      "expressions": [
+        "There's a clear dichotomy.",
+        "The dichotomy is obvious."
+      ]
+    },
+    {
+      "word": "Esoteric",
+      "meaning": "Intended for small group with specialized knowledge",
+      "phrase": "The professor's esoteric theories challenged conventional thinking.",
+      "expressions": [
+        "That's quite esoteric knowledge.",
+        "The topic is esoteric."
+      ]
+    },
+    {
+      "word": "Palpable",
+      "meaning": "Able to be touched or felt",
+      "phrase": "The tension in the room was palpable.",
+      "expressions": [
+        "The tension was palpable.",
+        "His excitement was palpable."
+      ]
+    },
+    {
+      "word": "Intrinsic",
+      "meaning": "Belonging naturally to something",
+      "phrase": "Curiosity is intrinsic to human nature.",
+      "expressions": [
+        "That's intrinsic value.",
+        "Honesty is intrinsic to character."
+      ]
+    },
+    {
+      "word": "Vicarious",
+      "meaning": "Experienced through someone else",
+      "phrase": "She lived vicariously through her daughter's achievements.",
+      "expressions": [
+        "I live vicariously through books.",
+        "That's vicarious pleasure."
+      ]
+    },
+    {
+      "word": "Discernible",
+      "meaning": "Able to be seen or understood",
+      "phrase": "A discernible pattern emerged from the data.",
+      "expressions": [
+        "No discernible difference exists.",
+        "The pattern is discernible."
+      ]
+    },
+    {
+      "word": "Incongruous",
+      "meaning": "Not in harmony or out of place",
+      "phrase": "His formal attire seemed incongruous at the beach party.",
+      "expressions": [
+        "This demonstrates incongruous.",
+        "The concept of incongruous is complex."
+      ]
+    },
+    {
+      "word": "Propensity",
+      "meaning": "Natural tendency to behave in particular way",
+      "phrase": "Children have a propensity for asking endless questions.",
+      "expressions": [
+        "This demonstrates propensity.",
+        "The concept of propensity is complex."
+      ]
+    },
+    {
+      "word": "Permeate",
+      "meaning": "Spread throughout something",
+      "phrase": "The aroma of coffee began to permeate the entire house.",
+      "expressions": [
+        "This demonstrates permeate.",
+        "The concept of permeate is complex."
+      ]
+    },
+    {
+      "word": "Amalgamation",
+      "meaning": "Combination of different elements",
+      "phrase": "The city is an amalgamation of various cultures.",
+      "expressions": [
+        "This demonstrates amalgamation.",
+        "The concept of amalgamation is complex."
+      ]
+    },
+    {
+      "word": "Cogent",
+      "meaning": "Clear, logical, and convincing",
+      "phrase": "She presented a cogent argument for policy reform.",
+      "expressions": [
+        "This demonstrates cogent.",
+        "The concept of cogent is complex."
+      ]
+    },
+    {
+      "word": "Tenuous",
+      "meaning": "Very weak or slight",
+      "phrase": "The connection between the two events was tenuous at best.",
+      "expressions": [
+        "This demonstrates tenuous.",
+        "The concept of tenuous is complex."
+      ]
+    },
+    {
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail",
+      "phrase": "The scientist's meticulous research yielded groundbreaking results.",
+      "expressions": [
+        "Her work is meticulous.",
+        "Be meticulous with details."
+      ]
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Dealing with things practically",
+      "phrase": "His pragmatic approach solved the problem efficiently.",
+      "expressions": [
+        "Take a pragmatic approach.",
+        "She's very pragmatic."
+      ]
+    },
+    {
+      "word": "Ambiguous",
+      "meaning": "Open to more than one interpretation",
+      "phrase": "The contract's ambiguous language caused confusion.",
+      "expressions": [
+        "The statement is ambiguous.",
+        "Avoid ambiguous instructions."
+      ]
+    },
+    {
+      "word": "Arbitrary",
+      "meaning": "Based on random choice rather than reason",
+      "phrase": "The arbitrary deadline created unnecessary pressure.",
+      "expressions": [
+        "That seems arbitrary.",
+        "Avoid arbitrary decisions."
+      ]
+    },
+    {
+      "word": "Obsolete",
+      "meaning": "No longer in use or useful",
+      "phrase": "Digital cameras made film photography nearly obsolete.",
+      "expressions": [
+        "That technology is obsolete.",
+        "Methods become obsolete quickly."
+      ]
+    },
+    {
+      "word": "Resilient",
+      "meaning": "Able to recover quickly from difficulties",
+      "phrase": "The resilient community rebuilt after the natural disaster.",
+      "expressions": [
+        "She's remarkably resilient.",
+        "Build resilient systems."
+      ]
+    },
+    {
+      "word": "Prevalent",
+      "meaning": "Widespread in a particular area",
+      "phrase": "Social media use is prevalent among teenagers today.",
+      "expressions": [
+        "The practice is prevalent.",
+        "Misinformation is prevalent online."
+      ]
+    },
+    {
+      "word": "Implicit",
+      "meaning": "Suggested without being directly expressed",
+      "phrase": "There was an implicit understanding between the partners.",
+      "expressions": [
+        "The message was implicit.",
+        "Implicit bias affects decisions."
+      ]
+    },
+    {
+      "word": "Comprehensive",
+      "meaning": "Complete and including everything necessary",
+      "phrase": "The comprehensive report covered all aspects of the issue.",
+      "expressions": [
+        "Provide comprehensive coverage.",
+        "The study was comprehensive."
+      ]
+    },
+    {
+      "word": "Scrutinize",
+      "meaning": "Examine or inspect closely and thoroughly",
+      "phrase": "Voters will scrutinize the candidate's policy proposals.",
+      "expressions": [
+        "Scrutinize the evidence carefully.",
+        "The data requires scrutinizing."
+      ]
+    }
+  ],
+  "science": [
+    {
+      "word": "Mitochondria",
+      "meaning": "Organelles that produce energy in cells",
+      "phrase": "Mitochondria are often called the powerhouses of cells.",
+      "expressions": [
+        "Mitochondria power cells.",
+        "Study mitochondria function."
+      ]
+    },
+    {
+      "word": "Quantum",
+      "meaning": "Relating to smallest discrete amount of energy",
+      "phrase": "Quantum mechanics revolutionized our understanding of matter.",
+      "expressions": [
+        "Quantum mechanics defies intuition.",
+        "Quantum physics revolutionized science."
+      ]
+    },
+    {
+      "word": "Catalyst",
+      "meaning": "Substance that increases rate of reaction",
+      "phrase": "The enzyme acts as a catalyst in metabolic processes.",
+      "expressions": [
+        "This demonstrates catalyst.",
+        "The concept of catalyst is complex."
+      ]
+    },
+    {
+      "word": "Symbiosis",
+      "meaning": "Mutually beneficial relationship between organisms",
+      "phrase": "The symbiosis between clownfish and anemones benefits both species.",
+      "expressions": [
+        "Symbiosis benefits both organisms.",
+        "Nature demonstrates symbiosis everywhere."
+      ]
+    },
+    {
+      "word": "Crystallography",
+      "meaning": "Study of crystal structure",
+      "phrase": "X-ray crystallography revealed the structure of DNA.",
+      "expressions": [
+        "This demonstrates crystallography.",
+        "The concept of crystallography is complex."
+      ]
+    },
+    {
+      "word": "Thermodynamics",
+      "meaning": "Study of heat and energy transfer",
+      "phrase": "The laws of thermodynamics govern all energy transformations.",
+      "expressions": [
+        "Thermodynamics governs energy.",
+        "Apply thermodynamics principles."
+      ]
+    },
+    {
+      "word": "Paradigm",
+      "meaning": "Typical example or pattern",
+      "phrase": "Darwin's theory created a new paradigm in biology.",
+      "expressions": [
+        "This demonstrates paradigm.",
+        "The concept of paradigm is complex."
+      ]
+    },
+    {
+      "word": "Methodology",
+      "meaning": "System of methods in particular area",
+      "phrase": "Scientific methodology ensures reliable and valid results.",
+      "expressions": [
+        "This demonstrates methodology.",
+        "The concept of methodology is complex."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "meaning": "Proposed explanation based on evidence",
+      "phrase": "The hypothesis must be testable through experimentation.",
+      "expressions": [
+        "This demonstrates hypothesis.",
+        "The concept of hypothesis is complex."
+      ]
+    },
+    {
+      "word": "Empirical",
+      "meaning": "Based on observation or experience",
+      "phrase": "Empirical evidence supports the theory of evolution.",
+      "expressions": [
+        "This demonstrates empirical.",
+        "The concept of empirical is complex."
+      ]
+    },
+    {
+      "word": "Theoretical",
+      "meaning": "Based on theory rather than practice",
+      "phrase": "Theoretical physics explores the fundamental laws of nature.",
+      "expressions": [
+        "This demonstrates theoretical.",
+        "The concept of theoretical is complex."
+      ]
+    },
+    {
+      "word": "Extrapolation",
+      "meaning": "Extension of method to unknown situation",
+      "phrase": "Climate extrapolation predicts future temperature changes.",
+      "expressions": [
+        "This demonstrates extrapolation.",
+        "The concept of extrapolation is complex."
+      ]
+    },
+    {
+      "word": "Correlation",
+      "meaning": "Mutual relationship between variables",
+      "phrase": "Strong correlation exists between exercise and longevity.",
+      "expressions": [
+        "This demonstrates correlation.",
+        "The concept of correlation is complex."
+      ]
+    },
+    {
+      "word": "Exponential",
+      "meaning": "Becoming progressively more rapid",
+      "phrase": "Population growth follows an exponential pattern.",
+      "expressions": [
+        "This demonstrates exponential.",
+        "The concept of exponential is complex."
+      ]
+    },
+    {
+      "word": "Isotope",
+      "meaning": "Variant of element with different neutron number",
+      "phrase": "Carbon isotopes are used in radiocarbon dating.",
+      "expressions": [
+        "This demonstrates isotope.",
+        "The concept of isotope is complex."
+      ]
+    },
+    {
+      "word": "Synthesis",
+      "meaning": "Combination of components to form whole",
+      "phrase": "Protein synthesis occurs in cellular ribosomes.",
+      "expressions": [
+        "This demonstrates synthesis.",
+        "The concept of synthesis is complex."
+      ]
+    },
+    {
+      "word": "Viscosity",
+      "meaning": "Measure of fluid's resistance to flow",
+      "phrase": "Honey has higher viscosity than water at room temperature.",
+      "expressions": [
+        "This demonstrates viscosity.",
+        "The concept of viscosity is complex."
+      ]
+    },
+    {
+      "word": "Electromagnetic",
+      "meaning": "Relating to electric and magnetic fields",
+      "phrase": "Electromagnetic radiation includes visible light and radio waves.",
+      "expressions": [
+        "Electromagnetic force is fundamental.",
+        "Electromagnetic spectrum is vast."
+      ]
+    },
+    {
+      "word": "Biodegradable",
+      "meaning": "Capable of being decomposed by bacteria",
+      "phrase": "Biodegradable materials reduce environmental pollution.",
+      "expressions": [
+        "This demonstrates biodegradable.",
+        "The concept of biodegradable is complex."
+      ]
+    },
+    {
+      "word": "Metamorphosis",
+      "meaning": "Transformation from one form to another",
+      "phrase": "Butterfly metamorphosis involves complete structural change.",
+      "expressions": [
+        "Metamorphosis transforms completely.",
+        "Butterfly metamorphosis amazes children."
+      ]
+    },
+    {
+      "word": "Photosynthesis",
+      "meaning": "Process by which plants make food from sunlight",
+      "phrase": "Photosynthesis converts carbon dioxide and water into glucose.",
+      "expressions": [
+        "Photosynthesis sustains life on Earth.",
+        "Plants use photosynthesis for energy."
+      ]
+    },
+    {
+      "word": "Osmosis",
+      "meaning": "Movement of water through semipermeable membrane",
+      "phrase": "Osmosis regulates water balance in plant cells.",
+      "expressions": [
+        "Water moves through osmosis.",
+        "Osmosis maintains cell pressure."
+      ]
+    },
+    {
+      "word": "Chromosome",
+      "meaning": "Structure containing DNA in cell nucleus",
+      "phrase": "Human cells contain 23 pairs of chromosomes.",
+      "expressions": [
+        "Chromosomes carry genetic information.",
+        "DNA is organized in chromosomes."
+      ]
+    },
+    {
+      "word": "Ecosystem",
+      "meaning": "Community of living organisms and environment",
+      "phrase": "The rainforest ecosystem supports incredible biodiversity.",
+      "expressions": [
+        "Protect fragile ecosystems.",
+        "The ecosystem is interconnected."
+      ]
+    },
+    {
+      "word": "Molecule",
+      "meaning": "Group of atoms bonded together",
+      "phrase": "Water molecules consist of hydrogen and oxygen atoms.",
+      "expressions": [
+        "Molecules form chemical compounds.",
+        "The molecule has unique properties."
+      ]
+    },
+    {
+      "word": "Velocity",
+      "meaning": "Speed of something in given direction",
+      "phrase": "The spacecraft's velocity increased during orbital insertion.",
+      "expressions": [
+        "Calculate the object's velocity.",
+        "Velocity includes both speed and direction."
+      ]
+    },
+    {
+      "word": "Gravity",
+      "meaning": "Force that attracts objects toward Earth",
+      "phrase": "Gravity keeps planets in orbit around the sun.",
+      "expressions": [
+        "Gravity pulls objects downward.",
+        "Newton discovered gravity's laws."
+      ]
+    },
+    {
+      "word": "Evolution",
+      "meaning": "Process of gradual change over time",
+      "phrase": "Evolution explains the diversity of life on Earth.",
+      "expressions": [
+        "Species change through evolution.",
+        "Evolution occurs over generations."
+      ]
+    },
+    {
+      "word": "Microscope",
+      "meaning": "Instrument for viewing very small objects",
+      "phrase": "The electron microscope revealed cellular structures.",
+      "expressions": [
+        "Use a microscope to examine cells.",
+        "Microscopes magnify tiny specimens."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "meaning": "Proposed explanation for observed phenomenon",
+      "phrase": "Scientists tested their hypothesis through controlled experiments.",
+      "expressions": [
+        "Form a testable hypothesis.",
+        "The hypothesis needs validation."
+      ]
+    }
+  ],
+  "business": [
+    {
+      "word": "Conglomerate",
+      "meaning": "Large corporation with diverse subsidiaries",
+      "phrase": "The media conglomerate owns television, film, and publishing companies.",
+      "expressions": [
+        "The conglomerate owns everything.",
+        "Build a business conglomerate."
+      ]
+    },
+    {
+      "word": "Monopoly",
+      "meaning": "Exclusive control over commodity or service",
+      "phrase": "Government regulations prevent companies from forming monopolies.",
+      "expressions": [
+        "This demonstrates monopoly.",
+        "The concept of monopoly is complex."
+      ]
+    },
+    {
+      "word": "Oligopoly",
+      "meaning": "Market dominated by small number of sellers",
+      "phrase": "The telecommunications industry operates as an oligopoly.",
+      "expressions": [
+        "This demonstrates oligopoly.",
+        "The concept of oligopoly is complex."
+      ]
+    },
+    {
+      "word": "Syndicate",
+      "meaning": "Group of individuals or firms combined",
+      "phrase": "The investment syndicate pooled resources for major acquisition.",
+      "expressions": [
+        "This demonstrates syndicate.",
+        "The concept of syndicate is complex."
+      ]
+    },
+    {
+      "word": "Derivative",
+      "meaning": "Financial security based on underlying asset",
+      "phrase": "Derivatives can be used to hedge against market risks.",
+      "expressions": [
+        "This demonstrates derivative.",
+        "The concept of derivative is complex."
+      ]
+    },
+    {
+      "word": "Liquidation",
+      "meaning": "Process of closing business and selling assets",
+      "phrase": "Company liquidation provided partial repayment to creditors.",
+      "expressions": [
+        "Liquidation was inevitable.",
+        "Avoid liquidation at all costs."
+      ]
+    },
+    {
+      "word": "Amortization",
+      "meaning": "Gradual reduction of debt through payments",
+      "phrase": "Mortgage amortization schedules show principal and interest breakdown.",
+      "expressions": [
+        "Amortization reduces debt.",
+        "Calculate amortization schedule."
+      ]
+    },
+    {
+      "word": "Arbitrage",
+      "meaning": "Simultaneous buying and selling for profit",
+      "phrase": "Currency arbitrage exploits price differences between markets.",
+      "expressions": [
+        "Arbitrage opportunities exist.",
+        "Exploit arbitrage efficiently."
+      ]
+    },
+    {
+      "word": "Proprietary",
+      "meaning": "Belonging exclusively to particular owner",
+      "phrase": "The company's proprietary technology gives competitive advantage.",
+      "expressions": [
+        "This demonstrates proprietary.",
+        "The concept of proprietary is complex."
+      ]
+    },
+    {
+      "word": "Fiduciary",
+      "meaning": "Held in trust for another party",
+      "phrase": "Financial advisors have fiduciary responsibility to clients.",
+      "expressions": [
+        "This demonstrates fiduciary.",
+        "The concept of fiduciary is complex."
+      ]
+    },
+    {
+      "word": "Venture",
+      "meaning": "Risky business undertaking",
+      "phrase": "Venture capital firms invest in high-growth startups.",
+      "expressions": [
+        "This demonstrates venture.",
+        "The concept of venture is complex."
+      ]
+    },
+    {
+      "word": "Infrastructure",
+      "meaning": "Basic physical and organizational structures",
+      "phrase": "Digital infrastructure supports modern business operations.",
+      "expressions": [
+        "This demonstrates infrastructure.",
+        "The concept of infrastructure is complex."
+      ]
+    },
+    {
+      "word": "Leverage",
+      "meaning": "Use of borrowed capital for investment",
+      "phrase": "Financial leverage can amplify both gains and losses.",
+      "expressions": [
+        "This demonstrates leverage.",
+        "The concept of leverage is complex."
+      ]
+    },
+    {
+      "word": "Portfolio",
+      "meaning": "Collection of investments held by person",
+      "phrase": "Diversified portfolio reduces overall investment risk.",
+      "expressions": [
+        "This demonstrates portfolio.",
+        "The concept of portfolio is complex."
+      ]
+    },
+    {
+      "word": "Volatility",
+      "meaning": "Degree of variation in trading prices",
+      "phrase": "Market volatility increased during the economic uncertainty.",
+      "expressions": [
+        "This demonstrates volatility.",
+        "The concept of volatility is complex."
+      ]
+    },
+    {
+      "word": "Commodities",
+      "meaning": "Raw materials or primary agricultural products",
+      "phrase": "Commodities trading includes oil, gold, and agricultural products.",
+      "expressions": [
+        "This demonstrates commodities.",
+        "The concept of commodities is complex."
+      ]
+    },
+    {
+      "word": "Equity",
+      "meaning": "Ownership interest in company",
+      "phrase": "Equity financing involves selling ownership stakes to investors.",
+      "expressions": [
+        "This demonstrates equity.",
+        "The concept of equity is complex."
+      ]
+    },
+    {
+      "word": "Depreciation",
+      "meaning": "Reduction in value over time",
+      "phrase": "Equipment depreciation is calculated for tax purposes.",
+      "expressions": [
+        "Account for depreciation.",
+        "Depreciation affects taxes."
+      ]
+    },
+    {
+      "word": "Intellectual",
+      "meaning": "Relating to creations of the mind",
+      "phrase": "Intellectual property includes patents, copyrights, and trademarks.",
+      "expressions": [
+        "This demonstrates intellectual.",
+        "The concept of intellectual is complex."
+      ]
+    },
+    {
+      "word": "Recession",
+      "meaning": "Period of temporary economic decline",
+      "phrase": "The recession led to widespread unemployment and business closures.",
+      "expressions": [
+        "This demonstrates recession.",
+        "The concept of recession is complex."
+      ]
+    },
+    {
+      "word": "Entrepreneur",
+      "meaning": "Person who starts and runs business ventures",
+      "phrase": "The young entrepreneur launched three successful startups.",
+      "expressions": [
+        "Be a creative entrepreneur.",
+        "Entrepreneurs take calculated risks."
+      ]
+    },
+    {
+      "word": "Profit",
+      "meaning": "Financial gain from business operations",
+      "phrase": "The company reported record profit in the third quarter.",
+      "expressions": [
+        "Maximize profit margins.",
+        "Profit drives business decisions."
+      ]
+    },
+    {
+      "word": "Investment",
+      "meaning": "Act of putting money into something for return",
+      "phrase": "Long-term investment strategies often yield better results.",
+      "expressions": [
+        "Make wise investments.",
+        "Investment requires patience."
+      ]
+    },
+    {
+      "word": "Marketing",
+      "meaning": "Activity of promoting and selling products",
+      "phrase": "Digital marketing transformed how companies reach customers.",
+      "expressions": [
+        "Effective marketing increases sales.",
+        "Marketing targets specific audiences."
+      ]
+    },
+    {
+      "word": "Budget",
+      "meaning": "Plan for income and expenditure",
+      "phrase": "The department exceeded its annual budget by fifteen percent.",
+      "expressions": [
+        "Create a realistic budget.",
+        "Budget carefully for success."
+      ]
+    },
+    {
+      "word": "Competition",
+      "meaning": "Activity of striving against others for advantage",
+      "phrase": "Healthy competition drives innovation in the marketplace.",
+      "expressions": [
+        "Competition improves quality.",
+        "Face fierce competition."
+      ]
+    },
+    {
+      "word": "Revenue",
+      "meaning": "Income generated from business operations",
+      "phrase": "Online sales contributed significantly to quarterly revenue.",
+      "expressions": [
+        "Revenue exceeded expectations.",
+        "Diversify revenue streams."
+      ]
+    },
+    {
+      "word": "Merger",
+      "meaning": "Combination of two companies into one",
+      "phrase": "The merger created the industry's largest corporation.",
+      "expressions": [
+        "The merger benefits shareholders.",
+        "Merger negotiations are complex."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "meaning": "Introduction of new ideas or methods",
+      "phrase": "Technological innovation drives economic growth worldwide.",
+      "expressions": [
+        "Foster innovation in teams.",
+        "Innovation creates competitive advantage."
+      ]
+    },
+    {
+      "word": "Strategy",
+      "meaning": "Plan of action designed to achieve goal",
+      "phrase": "The company's expansion strategy focused on emerging markets.",
+      "expressions": [
+        "Develop a clear strategy.",
+        "Strategy guides decision-making."
+      ]
+    }
+  ],
+  "literature": [
+    {
+      "word": "Verisimilitude",
+      "meaning": "Appearance of being true or real",
+      "phrase": "The novel's verisimilitude made fictional events seem authentic.",
+      "expressions": [
+        "The story lacks verisimilitude.",
+        "Strive for verisimilitude."
+      ]
+    },
+    {
+      "word": "Anachronism",
+      "meaning": "Thing belonging to different time period",
+      "phrase": "The wristwatch in the medieval painting was obvious anachronism.",
+      "expressions": [
+        "The anachronism is glaring.",
+        "Avoid anachronism in historical fiction."
+      ]
+    },
+    {
+      "word": "Euphemism",
+      "meaning": "Mild term substituted for harsh one",
+      "phrase": "The euphemism softened the impact of the difficult news.",
+      "expressions": [
+        "This demonstrates euphemism.",
+        "The concept of euphemism is complex."
+      ]
+    },
+    {
+      "word": "Catharsis",
+      "meaning": "Emotional release through art",
+      "phrase": "Greek tragedy aimed to provide catharsis for the audience.",
+      "expressions": [
+        "The tragedy provides catharsis.",
+        "Audiences seek catharsis."
+      ]
+    },
+    {
+      "word": "Juxtaposition",
+      "meaning": "Placing contrasting elements side by side",
+      "phrase": "The juxtaposition of wealth and poverty created powerful imagery.",
+      "expressions": [
+        "The juxtaposition creates tension.",
+        "Juxtaposition highlights contrasts."
+      ]
+    },
+    {
+      "word": "Bildungsroman",
+      "meaning": "Novel about character's psychological development",
+      "phrase": "Many classic novels follow the bildungsroman structure.",
+      "expressions": [
+        "This bildungsroman traces growth.",
+        "German bildungsroman influences literature."
+      ]
+    },
+    {
+      "word": "Onomatopoeia",
+      "meaning": "Words that imitate sounds they represent",
+      "phrase": "Comic books use onomatopoeia like 'bang' and 'crash'.",
+      "expressions": [
+        "This demonstrates onomatopoeia.",
+        "The concept of onomatopoeia is complex."
+      ]
+    },
+    {
+      "word": "Oxymoron",
+      "meaning": "Combination of contradictory terms",
+      "phrase": "The phrase 'deafening silence' is a classic oxymoron.",
+      "expressions": [
+        "That's a perfect oxymoron.",
+        "Oxymorons create paradox."
+      ]
+    },
+    {
+      "word": "Alliteration",
+      "meaning": "Repetition of same letter sounds",
+      "phrase": "Peter Piper picked' demonstrates alliteration effectively.",
+      "expressions": [
+        "This demonstrates alliteration.",
+        "The concept of alliteration is complex."
+      ]
+    },
+    {
+      "word": "Hyperbole",
+      "meaning": "Deliberate and obvious exaggeration",
+      "phrase": "The hyperbole emphasized the character's extreme emotions.",
+      "expressions": [
+        "This demonstrates hyperbole.",
+        "The concept of hyperbole is complex."
+      ]
+    },
+    {
+      "word": "Personification",
+      "meaning": "Giving human characteristics to non-human things",
+      "phrase": "The wind whispered' uses personification to create atmosphere.",
+      "expressions": [
+        "Personification brings objects alive.",
+        "The personification is vivid."
+      ]
+    },
+    {
+      "word": "Foreshadowing",
+      "meaning": "Hint about future events in story",
+      "phrase": "The author's foreshadowing prepared readers for the tragic ending.",
+      "expressions": [
+        "The foreshadowing is subtle.",
+        "Use foreshadowing effectively."
+      ]
+    },
+    {
+      "word": "Denouement",
+      "meaning": "Final resolution of plot's complications",
+      "phrase": "The denouement revealed the murderer's true identity.",
+      "expressions": [
+        "The denouement satisfies readers.",
+        "The denouement ties loose ends."
+      ]
+    },
+    {
+      "word": "Archetype",
+      "meaning": "Original model from which copies are made",
+      "phrase": "The wise mentor is a common archetype in literature.",
+      "expressions": [
+        "This demonstrates archetype.",
+        "The concept of archetype is complex."
+      ]
+    },
+    {
+      "word": "Soliloquy",
+      "meaning": "Speech expressing character's thoughts",
+      "phrase": "Hamlet's soliloquy reveals his internal moral struggle.",
+      "expressions": [
+        "Hamlet's soliloquy is famous.",
+        "The soliloquy reveals thoughts."
+      ]
+    },
+    {
+      "word": "Epistolary",
+      "meaning": "Written in form of letters",
+      "phrase": "The epistolary novel consists entirely of fictional correspondence.",
+      "expressions": [
+        "The epistolary novel uses letters.",
+        "Epistolary format is intimate."
+      ]
+    },
+    {
+      "word": "Pastiche",
+      "meaning": "Work imitating style of another",
+      "phrase": "The pastiche cleverly mimicked Victorian writing style.",
+      "expressions": [
+        "This demonstrates pastiche.",
+        "The concept of pastiche is complex."
+      ]
+    },
+    {
+      "word": "Polysemy",
+      "meaning": "Coexistence of multiple meanings",
+      "phrase": "Polysemy enriches literary language with layers of meaning.",
+      "expressions": [
+        "This demonstrates polysemy.",
+        "The concept of polysemy is complex."
+      ]
+    },
+    {
+      "word": "Intertextuality",
+      "meaning": "Relationship between different texts",
+      "phrase": "Intertextuality creates connections across literary works.",
+      "expressions": [
+        "This demonstrates intertextuality.",
+        "The concept of intertextuality is complex."
+      ]
+    },
+    {
+      "word": "Hermeneutics",
+      "meaning": "Theory and methodology of text interpretation",
+      "phrase": "Literary hermeneutics examines how meaning is constructed.",
+      "expressions": [
+        "This demonstrates hermeneutics.",
+        "The concept of hermeneutics is complex."
+      ]
+    },
+    {
+      "word": "Metaphor",
+      "meaning": "Figure of speech comparing two unlike things",
+      "phrase": "The metaphor 'life is a journey' resonates with many readers.",
+      "expressions": [
+        "Use metaphors to clarify ideas.",
+        "The metaphor creates vivid imagery."
+      ]
+    },
+    {
+      "word": "Irony",
+      "meaning": "Expression of meaning through opposite words",
+      "phrase": "The irony of the situation wasn't lost on observers.",
+      "expressions": [
+        "The irony is unmistakable.",
+        "Situational irony surprises readers."
+      ]
+    },
+    {
+      "word": "Symbolism",
+      "meaning": "Use of symbols to represent ideas",
+      "phrase": "The white dove's symbolism represents peace and hope.",
+      "expressions": [
+        "Symbolism enriches literature.",
+        "The symbolism is profound."
+      ]
+    },
+    {
+      "word": "Theme",
+      "meaning": "Central topic or message in work",
+      "phrase": "The novel's main theme explores the nature of friendship.",
+      "expressions": [
+        "Identify the central theme.",
+        "The theme resonates universally."
+      ]
+    },
+    {
+      "word": "Protagonist",
+      "meaning": "Main character in story or drama",
+      "phrase": "The protagonist faces increasingly difficult moral choices.",
+      "expressions": [
+        "The protagonist drives the plot.",
+        "Readers empathize with protagonists."
+      ]
+    },
+    {
+      "word": "Antagonist",
+      "meaning": "Character who opposes the protagonist",
+      "phrase": "The cunning antagonist creates tension throughout the story.",
+      "expressions": [
+        "The antagonist provides conflict.",
+        "Every story needs an antagonist."
+      ]
+    },
+    {
+      "word": "Narrative",
+      "meaning": "Spoken or written account of events",
+      "phrase": "The first-person narrative creates intimate reader connection.",
+      "expressions": [
+        "The narrative unfolds gradually.",
+        "Narrative structure shapes meaning."
+      ]
+    },
+    {
+      "word": "Genre",
+      "meaning": "Category of artistic composition",
+      "phrase": "Science fiction is a popular literary genre among young adults.",
+      "expressions": [
+        "Each genre has conventions.",
+        "The genre influences expectations."
+      ]
+    },
+    {
+      "word": "Climax",
+      "meaning": "Most intense point in story",
+      "phrase": "The story's climax revealed the murderer's true identity.",
+      "expressions": [
+        "The climax builds tension.",
+        "Readers anticipate the climax."
+      ]
+    },
+    {
+      "word": "Resolution",
+      "meaning": "Conclusion where conflicts are resolved",
+      "phrase": "The resolution tied together all the story's loose ends.",
+      "expressions": [
+        "The resolution satisfies readers.",
+        "Good resolution provides closure."
+      ]
+    }
+  ],
+  "travel": [
+    {
+      "word": "Peripatetic",
+      "meaning": "Traveling from place to place",
+      "phrase": "The peripatetic lifestyle suited the international consultant perfectly.",
+      "expressions": [
+        "He leads peripatetic lifestyle.",
+        "Peripatetic scholars travel constantly."
+      ]
+    },
+    {
+      "word": "Wanderlust",
+      "meaning": "Strong desire to travel",
+      "phrase": "Wanderlust motivated her to visit all seven continents.",
+      "expressions": [
+        "Wanderlust drives exploration.",
+        "Her wanderlust is insatiable."
+      ]
+    },
+    {
+      "word": "Sojourner",
+      "meaning": "Person who resides temporarily",
+      "phrase": "The sojourner spent six months studying local customs.",
+      "expressions": [
+        "The sojourner stays briefly.",
+        "We're all sojourners here."
+      ]
+    },
+    {
+      "word": "Cosmopolitan",
+      "meaning": "Familiar with many different countries",
+      "phrase": "Her cosmopolitan outlook reflected extensive travel experience.",
+      "expressions": [
+        "She has cosmopolitan tastes.",
+        "The city is cosmopolitan."
+      ]
+    },
+    {
+      "word": "Diaspora",
+      "meaning": "Dispersion of people from homeland",
+      "phrase": "The Irish diaspora spread across the globe.",
+      "expressions": [
+        "The diaspora maintains traditions.",
+        "Jewish diaspora spans globe."
+      ]
+    },
+    {
+      "word": "Itinerant",
+      "meaning": "Traveling from place to place",
+      "phrase": "The itinerant musician performed in different cities nightly.",
+      "expressions": [
+        "Itinerant workers follow seasons.",
+        "The itinerant musician tours constantly."
+      ]
+    },
+    {
+      "word": "Expatriate",
+      "meaning": "Person living outside native country",
+      "phrase": "The expatriate community organized cultural events regularly.",
+      "expressions": [
+        "The expatriate misses home.",
+        "Expatriate communities form abroad."
+      ]
+    },
+    {
+      "word": "Nomadic",
+      "meaning": "Living by moving from place to place",
+      "phrase": "The nomadic tribe followed seasonal migration patterns.",
+      "expressions": [
+        "Nomadic tribes follow herds.",
+        "She enjoys nomadic freedom."
+      ]
+    },
+    {
+      "word": "Xenophobia",
+      "meaning": "Fear or hatred of foreigners",
+      "phrase": "Education helps combat xenophobia and cultural misunderstanding.",
+      "expressions": [
+        "This demonstrates xenophobia.",
+        "The concept of xenophobia is complex."
+      ]
+    },
+    {
+      "word": "Cartography",
+      "meaning": "Science of drawing maps",
+      "phrase": "Digital cartography revolutionized modern navigation systems.",
+      "expressions": [
+        "Cartography creates accurate maps.",
+        "Digital cartography revolutionizes mapping."
+      ]
+    },
+    {
+      "word": "Topography",
+      "meaning": "Arrangement of natural features",
+      "phrase": "The mountainous topography created challenging hiking conditions.",
+      "expressions": [
+        "Topography affects settlement.",
+        "Study topography before building."
+      ]
+    },
+    {
+      "word": "Circumnavigation",
+      "meaning": "Navigation completely around something",
+      "phrase": "Magellan's expedition attempted the first circumnavigation of Earth.",
+      "expressions": [
+        "This demonstrates circumnavigation.",
+        "The concept of circumnavigation is complex."
+      ]
+    },
+    {
+      "word": "Reconnaissance",
+      "meaning": "Military observation of region",
+      "phrase": "Aerial reconnaissance mapped the uncharted territory.",
+      "expressions": [
+        "Conduct reconnaissance first.",
+        "Military reconnaissance gathers intelligence."
+      ]
+    },
+    {
+      "word": "Pilgrimage",
+      "meaning": "Journey to sacred place",
+      "phrase": "The pilgrimage attracted devotees from around the world.",
+      "expressions": [
+        "The pilgrimage was transformative.",
+        "Make pilgrimage to sacred sites."
+      ]
+    },
+    {
+      "word": "Odyssey",
+      "meaning": "Long adventurous journey",
+      "phrase": "Their cross-country odyssey lasted three months.",
+      "expressions": [
+        "The trip became odyssey.",
+        "Life is personal odyssey."
+      ]
+    },
+    {
+      "word": "Excursion",
+      "meaning": "Short journey for pleasure",
+      "phrase": "The botanical excursion revealed rare plant species.",
+      "expressions": [
+        "The excursion was educational.",
+        "Plan excursion carefully."
+      ]
+    },
+    {
+      "word": "Expedition",
+      "meaning": "Journey undertaken for specific purpose",
+      "phrase": "The scientific expedition studied Antarctic wildlife.",
+      "expressions": [
+        "The expedition faces dangers.",
+        "Scientific expedition discovers species."
+      ]
+    },
+    {
+      "word": "Traverse",
+      "meaning": "Travel across or through",
+      "phrase": "The experienced climbers planned to traverse the mountain range.",
+      "expressions": [
+        "This demonstrates traverse.",
+        "The concept of traverse is complex."
+      ]
+    },
+    {
+      "word": "Peregrination",
+      "meaning": "Journey on foot through foreign countries",
+      "phrase": "Medieval peregrination often involved religious pilgrimage.",
+      "expressions": [
+        "This demonstrates peregrination.",
+        "The concept of peregrination is complex."
+      ]
+    },
+    {
+      "word": "Reconnaissance",
+      "meaning": "Preliminary survey of area",
+      "phrase": "Archaeological reconnaissance identified potential excavation sites.",
+      "expressions": [
+        "Conduct reconnaissance first.",
+        "Military reconnaissance gathers intelligence."
+      ]
+    },
+    {
+      "word": "Tourism",
+      "meaning": "Commercial organization of holidays",
+      "phrase": "Tourism provides significant economic benefits to developing countries.",
+      "expressions": [
+        "Tourism boosts local economy.",
+        "Sustainable tourism protects environments."
+      ]
+    },
+    {
+      "word": "Culture",
+      "meaning": "Arts and customs of particular society",
+      "phrase": "Immersing yourself in local culture enriches travel experiences.",
+      "expressions": [
+        "Respect local culture.",
+        "Culture shapes perspectives."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "meaning": "Exciting or unusual experience",
+      "phrase": "The mountain climbing adventure tested their physical limits.",
+      "expressions": [
+        "Seek adventure responsibly.",
+        "Adventure builds character."
+      ]
+    },
+    {
+      "word": "Destination",
+      "meaning": "Place to which someone is going",
+      "phrase": "Paris remains a top destination for international travelers.",
+      "expressions": [
+        "Choose your destination carefully.",
+        "The destination exceeded expectations."
+      ]
+    },
+    {
+      "word": "Immigration",
+      "meaning": "Action of coming to live permanently",
+      "phrase": "Immigration policies affect international student mobility.",
+      "expressions": [
+        "Immigration requires documentation.",
+        "Immigration enriches societies."
+      ]
+    },
+    {
+      "word": "Backpacking",
+      "meaning": "Traveling with minimal luggage",
+      "phrase": "Backpacking through Europe taught her independence and resourcefulness.",
+      "expressions": [
+        "Backpacking builds confidence.",
+        "Backpacking requires careful planning."
+      ]
+    },
+    {
+      "word": "Hospitality",
+      "meaning": "Friendly reception of guests",
+      "phrase": "The local family's hospitality made their stay memorable.",
+      "expressions": [
+        "Show genuine hospitality.",
+        "Hospitality creates lasting impressions."
+      ]
+    },
+    {
+      "word": "Navigation",
+      "meaning": "Process of planning and following route",
+      "phrase": "GPS technology revolutionized navigation for modern travelers.",
+      "expressions": [
+        "Master basic navigation skills.",
+        "Navigation prevents getting lost."
+      ]
+    },
+    {
+      "word": "Customs",
+      "meaning": "Traditional practices of particular group",
+      "phrase": "Understanding local customs helps avoid cultural misunderstandings.",
+      "expressions": [
+        "Observe local customs respectfully.",
+        "Customs vary between cultures."
+      ]
+    },
+    {
+      "word": "Transportation",
+      "meaning": "System of moving people or goods",
+      "phrase": "Public transportation offers an affordable way to explore cities.",
+      "expressions": [
+        "Use efficient transportation methods.",
+        "Transportation connects destinations."
+      ]
+    }
+  ],
+  "history": [
+    {
+      "word": "Historiography",
+      "meaning": "Study of historical writing",
+      "phrase": "Historiography examines how historical accounts are constructed.",
+      "expressions": [
+        "This demonstrates historiography.",
+        "The concept of historiography is complex."
+      ]
+    },
+    {
+      "word": "Anachronism",
+      "meaning": "Thing belonging to different time period",
+      "phrase": "The medieval knight's sunglasses were obvious anachronism.",
+      "expressions": [
+        "The anachronism is glaring.",
+        "Avoid anachronism in historical fiction."
+      ]
+    },
+    {
+      "word": "Hegemony",
+      "meaning": "Leadership or dominance over others",
+      "phrase": "Roman hegemony extended across the Mediterranean world.",
+      "expressions": [
+        "The hegemony dominated region.",
+        "Cultural hegemony shapes minds."
+      ]
+    },
+    {
+      "word": "Imperialism",
+      "meaning": "Policy of extending country's power",
+      "phrase": "European imperialism shaped global political boundaries.",
+      "expressions": [
+        "Imperialism exploited colonies.",
+        "Economic imperialism continues."
+      ]
+    },
+    {
+      "word": "Totalitarianism",
+      "meaning": "System requiring complete subservience to state",
+      "phrase": "Totalitarianism characterized many 20th-century dictatorships.",
+      "expressions": [
+        "Totalitarianism crushes freedom.",
+        "Fight totalitarianism everywhere."
+      ]
+    },
+    {
+      "word": "Feudalism",
+      "meaning": "Medieval system based on land tenure",
+      "phrase": "Feudalism dominated European social organization for centuries.",
+      "expressions": [
+        "Feudalism structured medieval society.",
+        "Economic feudalism persists."
+      ]
+    },
+    {
+      "word": "Mercantilism",
+      "meaning": "Economic theory emphasizing exports over imports",
+      "phrase": "Mercantilism influenced colonial economic policies.",
+      "expressions": [
+        "This demonstrates mercantilism.",
+        "The concept of mercantilism is complex."
+      ]
+    },
+    {
+      "word": "Absolutism",
+      "meaning": "Political system with unlimited central power",
+      "phrase": "Louis XIV epitomized absolutism in 17th-century France.",
+      "expressions": [
+        "This demonstrates absolutism.",
+        "The concept of absolutism is complex."
+      ]
+    },
+    {
+      "word": "Reformation",
+      "meaning": "16th-century movement reforming Christian church",
+      "phrase": "The Protestant Reformation divided European Christianity permanently.",
+      "expressions": [
+        "Reformation split Christianity.",
+        "The Reformation empowered individuals."
+      ]
+    },
+    {
+      "word": "Renaissance",
+      "meaning": "Revival of art and literature",
+      "phrase": "The Renaissance marked transition from medieval to modern.",
+      "expressions": [
+        "Renaissance celebrated humanism.",
+        "Cultural renaissance is beginning."
+      ]
+    },
+    {
+      "word": "Enlightenment",
+      "meaning": "18th-century intellectual movement",
+      "phrase": "Enlightenment ideals influenced democratic revolutions worldwide.",
+      "expressions": [
+        "Enlightenment promoted reason.",
+        "The Enlightenment questioned authority."
+      ]
+    },
+    {
+      "word": "Industrialization",
+      "meaning": "Development of industries in country",
+      "phrase": "Industrialization transformed agricultural societies into urban ones.",
+      "expressions": [
+        "Industrialization transformed society.",
+        "Rapid industrialization created problems."
+      ]
+    },
+    {
+      "word": "Nationalism",
+      "meaning": "Identification with one's nation",
+      "phrase": "19th-century nationalism reshaped European political boundaries.",
+      "expressions": [
+        "This demonstrates nationalism.",
+        "The concept of nationalism is complex."
+      ]
+    },
+    {
+      "word": "Colonialism",
+      "meaning": "Practice of acquiring political control",
+      "phrase": "Colonialism had lasting effects on global development patterns.",
+      "expressions": [
+        "Colonialism left lasting scars.",
+        "Post-colonialism examines effects."
+      ]
+    },
+    {
+      "word": "Decolonization",
+      "meaning": "Process of territories becoming independent",
+      "phrase": "Decolonization accelerated after World War II.",
+      "expressions": [
+        "This demonstrates decolonization.",
+        "The concept of decolonization is complex."
+      ]
+    },
+    {
+      "word": "Revisionism",
+      "meaning": "Reinterpretation of accepted historical views",
+      "phrase": "Historical revisionism challenges traditional narratives.",
+      "expressions": [
+        "This demonstrates revisionism.",
+        "The concept of revisionism is complex."
+      ]
+    },
+    {
+      "word": "Periodization",
+      "meaning": "Division of history into distinct periods",
+      "phrase": "Historical periodization helps organize complex chronologies.",
+      "expressions": [
+        "This demonstrates periodization.",
+        "The concept of periodization is complex."
+      ]
+    },
+    {
+      "word": "Chronology",
+      "meaning": "Arrangement of events in time order",
+      "phrase": "Accurate chronology is essential for historical analysis.",
+      "expressions": [
+        "This demonstrates chronology.",
+        "The concept of chronology is complex."
+      ]
+    },
+    {
+      "word": "Archaeology",
+      "meaning": "Study of human history through excavation",
+      "phrase": "Archaeology provides evidence for prehistoric civilizations.",
+      "expressions": [
+        "This demonstrates archaeology.",
+        "The concept of archaeology is complex."
+      ]
+    },
+    {
+      "word": "Anthropology",
+      "meaning": "Study of human societies and cultures",
+      "phrase": "Historical anthropology examines cultural practices over time.",
+      "expressions": [
+        "This demonstrates anthropology.",
+        "The concept of anthropology is complex."
+      ]
+    },
+    {
+      "word": "Revolution",
+      "meaning": "Forcible overthrow of government or social order",
+      "phrase": "The American Revolution established principles of democratic governance.",
+      "expressions": [
+        "Revolution brings dramatic change.",
+        "The revolution transformed society."
+      ]
+    },
+    {
+      "word": "Democracy",
+      "meaning": "System of government by elected representatives",
+      "phrase": "Ancient Athens is considered the birthplace of democracy.",
+      "expressions": [
+        "Democracy requires citizen participation.",
+        "Protect democratic institutions."
+      ]
+    },
+    {
+      "word": "Civilization",
+      "meaning": "Advanced stage of human social development",
+      "phrase": "The Mesopotamian civilization developed the first writing systems.",
+      "expressions": [
+        "Civilization requires organization.",
+        "Ancient civilizations fascinate historians."
+      ]
+    },
+    {
+      "word": "Empire",
+      "meaning": "Extensive group of states under single authority",
+      "phrase": "The Roman Empire influenced law and governance for centuries.",
+      "expressions": [
+        "Empires rise and fall.",
+        "The empire expanded rapidly."
+      ]
+    },
+    {
+      "word": "Treaty",
+      "meaning": "Formal agreement between countries",
+      "phrase": "The peace treaty ended decades of bitter conflict.",
+      "expressions": [
+        "Negotiate favorable treaties.",
+        "The treaty established boundaries."
+      ]
+    },
+    {
+      "word": "Slavery",
+      "meaning": "System of owning people as property",
+      "phrase": "The abolition of slavery represented a major moral victory.",
+      "expressions": [
+        "Slavery violates human rights.",
+        "Fight against modern slavery."
+      ]
+    },
+    {
+      "word": "War",
+      "meaning": "State of armed conflict between nations",
+      "phrase": "World War II reshaped global political alignments permanently.",
+      "expressions": [
+        "War brings terrible consequences.",
+        "Prevent unnecessary wars."
+      ]
+    },
+    {
+      "word": "Constitution",
+      "meaning": "System of fundamental principles governing nation",
+      "phrase": "The Constitution guarantees citizens' fundamental rights and freedoms.",
+      "expressions": [
+        "The Constitution protects rights.",
+        "Constitutional principles endure."
+      ]
+    },
+    {
+      "word": "Migration",
+      "meaning": "Movement of people from one place to another",
+      "phrase": "Human migration patterns shaped the development of civilizations.",
+      "expressions": [
+        "Migration creates cultural exchange.",
+        "Study historical migration patterns."
+      ]
+    },
+    {
+      "word": "Dynasty",
+      "meaning": "Line of rulers from same family",
+      "phrase": "The Ming Dynasty ruled China for nearly three centuries.",
+      "expressions": [
+        "The dynasty lasted centuries.",
+        "Dynasties shape national identity."
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "word": "Topographical",
+      "meaning": "Relating to arrangement of physical features",
+      "phrase": "Topographical maps show elevation changes and landforms.",
+      "expressions": [
+        "This demonstrates topographical.",
+        "The concept of topographical is complex."
+      ]
+    },
+    {
+      "word": "Geomorphology",
+      "meaning": "Study of landforms and their formation",
+      "phrase": "Geomorphology explains how mountains and valleys develop.",
+      "expressions": [
+        "Geomorphology studies landforms.",
+        "Geomorphology explains landscape evolution."
+      ]
+    },
+    {
+      "word": "Hydrology",
+      "meaning": "Study of water movement and distribution",
+      "phrase": "Hydrology helps predict flooding and drought patterns.",
+      "expressions": [
+        "Hydrology studies water systems.",
+        "Hydrology manages water resources."
+      ]
+    },
+    {
+      "word": "Meteorology",
+      "meaning": "Study of atmospheric conditions",
+      "phrase": "Meteorology enables accurate weather forecasting.",
+      "expressions": [
+        "Meteorology forecasts weather.",
+        "Meteorology becomes more accurate."
+      ]
+    },
+    {
+      "word": "Seismology",
+      "meaning": "Study of earthquakes and earth vibrations",
+      "phrase": "Seismology helps assess earthquake risks in different regions.",
+      "expressions": [
+        "Seismology predicts earthquakes.",
+        "Seismology saves lives."
+      ]
+    },
+    {
+      "word": "Cartographic",
+      "meaning": "Relating to making maps",
+      "phrase": "Cartographic accuracy improved with satellite technology.",
+      "expressions": [
+        "This demonstrates cartographic.",
+        "The concept of cartographic is complex."
+      ]
+    },
+    {
+      "word": "Demographic",
+      "meaning": "Relating to population characteristics",
+      "phrase": "Demographic changes affect economic and social planning.",
+      "expressions": [
+        "This demonstrates demographic.",
+        "The concept of demographic is complex."
+      ]
+    },
+    {
+      "word": "Physiographic",
+      "meaning": "Relating to physical geography",
+      "phrase": "Physiographic regions share similar landform characteristics.",
+      "expressions": [
+        "This demonstrates physiographic.",
+        "The concept of physiographic is complex."
+      ]
+    },
+    {
+      "word": "Biogeography",
+      "meaning": "Study of species distribution",
+      "phrase": "Biogeography explains why different animals live in different places.",
+      "expressions": [
+        "Biogeography explains species distribution.",
+        "Biogeography reveals evolution."
+      ]
+    },
+    {
+      "word": "Climatology",
+      "meaning": "Study of climate patterns",
+      "phrase": "Climatology reveals long-term weather trends and changes.",
+      "expressions": [
+        "Climatology studies weather patterns.",
+        "Climatology warns of changes."
+      ]
+    },
+    {
+      "word": "Pedology",
+      "meaning": "Study of soils",
+      "phrase": "Pedology helps determine agricultural land suitability.",
+      "expressions": [
+        "Pedology examines soil formation.",
+        "Pedology improves agriculture."
+      ]
+    },
+    {
+      "word": "Glaciology",
+      "meaning": "Study of glaciers and ice sheets",
+      "phrase": "Glaciology monitors ice sheet changes and sea level impacts.",
+      "expressions": [
+        "This demonstrates glaciology.",
+        "The concept of glaciology is complex."
+      ]
+    },
+    {
+      "word": "Oceanography",
+      "meaning": "Study of oceans",
+      "phrase": "Oceanography examines marine ecosystems and currents.",
+      "expressions": [
+        "Oceanography explores seas.",
+        "Oceanography reveals ocean secrets."
+      ]
+    },
+    {
+      "word": "Speleology",
+      "meaning": "Study of caves",
+      "phrase": "Speleology reveals underground geological formations.",
+      "expressions": [
+        "This demonstrates speleology.",
+        "The concept of speleology is complex."
+      ]
+    },
+    {
+      "word": "Limnology",
+      "meaning": "Study of inland waters",
+      "phrase": "Limnology focuses on lakes, rivers, and wetland ecosystems.",
+      "expressions": [
+        "This demonstrates limnology.",
+        "The concept of limnology is complex."
+      ]
+    },
+    {
+      "word": "Paleogeography",
+      "meaning": "Study of ancient geographic features",
+      "phrase": "Paleogeography reconstructs Earth's past continental positions.",
+      "expressions": [
+        "This demonstrates paleogeography.",
+        "The concept of paleogeography is complex."
+      ]
+    },
+    {
+      "word": "Geopolitics",
+      "meaning": "Politics influenced by geography",
+      "phrase": "Geopolitics examines how location affects international relations.",
+      "expressions": [
+        "Geopolitics shapes international relations.",
+        "Geopolitics influences trade."
+      ]
+    },
+    {
+      "word": "Geodesy",
+      "meaning": "Science of measuring Earth's shape",
+      "phrase": "Geodesy provides precise measurements for mapping and navigation.",
+      "expressions": [
+        "This demonstrates geodesy.",
+        "The concept of geodesy is complex."
+      ]
+    },
+    {
+      "word": "Geochronology",
+      "meaning": "Dating of rock formations",
+      "phrase": "Geochronology determines the age of geological events.",
+      "expressions": [
+        "This demonstrates geochronology.",
+        "The concept of geochronology is complex."
+      ]
+    },
+    {
+      "word": "Stratigraphy",
+      "meaning": "Study of rock layers",
+      "phrase": "Stratigraphy reveals Earth's geological history through sediments.",
+      "expressions": [
+        "This demonstrates stratigraphy.",
+        "The concept of stratigraphy is complex."
+      ]
+    },
+    {
+      "word": "Continent",
+      "meaning": "Large continuous mass of land",
+      "phrase": "Antarctica is the coldest and most isolated continent on Earth.",
+      "expressions": [
+        "Each continent has unique features.",
+        "Continental drift shaped geography."
+      ]
+    },
+    {
+      "word": "Mountain",
+      "meaning": "Large natural elevation of earth's surface",
+      "phrase": "Mount Everest is the world's highest mountain peak.",
+      "expressions": [
+        "Mountains create weather patterns.",
+        "Mountain ranges divide regions."
+      ]
+    },
+    {
+      "word": "River",
+      "meaning": "Large natural stream of water",
+      "phrase": "The Amazon River system supports incredible biodiversity.",
+      "expressions": [
+        "Rivers provide fresh water.",
+        "River valleys support agriculture."
+      ]
+    },
+    {
+      "word": "Desert",
+      "meaning": "Barren area with little precipitation",
+      "phrase": "The Sahara Desert spans across multiple African countries.",
+      "expressions": [
+        "Deserts have extreme temperatures.",
+        "Desert ecosystems are fragile."
+      ]
+    },
+    {
+      "word": "Ocean",
+      "meaning": "Large body of salt water",
+      "phrase": "The Pacific Ocean covers one-third of Earth's surface.",
+      "expressions": [
+        "Oceans regulate global climate.",
+        "Ocean currents distribute heat."
+      ]
+    },
+    {
+      "word": "Climate",
+      "meaning": "Long-term weather conditions in area",
+      "phrase": "Climate change affects agricultural productivity worldwide.",
+      "expressions": [
+        "Climate influences vegetation.",
+        "Climate zones determine habitats."
+      ]
+    },
+    {
+      "word": "Population",
+      "meaning": "Number of people living in area",
+      "phrase": "Urban population growth challenges city infrastructure development.",
+      "expressions": [
+        "Population density varies greatly.",
+        "Population growth requires planning."
+      ]
+    },
+    {
+      "word": "Latitude",
+      "meaning": "Distance north or south of equator",
+      "phrase": "Latitude lines help determine climate zones and seasons.",
+      "expressions": [
+        "Latitude affects temperature.",
+        "Measure latitude precisely."
+      ]
+    },
+    {
+      "word": "Longitude",
+      "meaning": "Distance east or west of prime meridian",
+      "phrase": "Longitude lines determine time zones around the world.",
+      "expressions": [
+        "Longitude creates time zones.",
+        "GPS uses longitude coordinates."
+      ]
+    },
+    {
+      "word": "Environment",
+      "meaning": "Natural world surrounding living organisms",
+      "phrase": "Protecting the environment ensures future generations' well-being.",
+      "expressions": [
+        "Environment needs protection.",
+        "Environment shapes ecosystems."
+      ]
+    }
+  ],
+  "health": [
+    {
+      "word": "Epidemiology",
+      "meaning": "Study of disease patterns in populations",
+      "phrase": "Epidemiology tracks disease outbreaks and identifies risk factors.",
+      "expressions": [
+        "Epidemiology tracks disease spread.",
+        "Epidemiology prevents pandemics."
+      ]
+    },
+    {
+      "word": "Pathophysiology",
+      "meaning": "Study of functional changes in disease",
+      "phrase": "Understanding pathophysiology helps develop targeted treatments.",
+      "expressions": [
+        "Pathophysiology explains disease mechanisms.",
+        "Study pathophysiology thoroughly."
+      ]
+    },
+    {
+      "word": "Pharmacokinetics",
+      "meaning": "Study of drug movement in body",
+      "phrase": "Pharmacokinetics determines optimal dosing schedules.",
+      "expressions": [
+        "Pharmacokinetics studies drug movement.",
+        "Pharmacokinetics optimizes dosing."
+      ]
+    },
+    {
+      "word": "Etiology",
+      "meaning": "Study of disease causation",
+      "phrase": "Medical research investigates the etiology of cancer.",
+      "expressions": [
+        "This demonstrates etiology.",
+        "The concept of etiology is complex."
+      ]
+    },
+    {
+      "word": "Nosocomial",
+      "meaning": "Acquired in hospital",
+      "phrase": "Nosocomial infections require strict prevention protocols.",
+      "expressions": [
+        "This demonstrates nosocomial.",
+        "The concept of nosocomial is complex."
+      ]
+    },
+    {
+      "word": "Iatrogenic",
+      "meaning": "Caused by medical treatment",
+      "phrase": "Iatrogenic complications result from therapeutic interventions.",
+      "expressions": [
+        "This demonstrates iatrogenic.",
+        "The concept of iatrogenic is complex."
+      ]
+    },
+    {
+      "word": "Prophylactic",
+      "meaning": "Intended to prevent disease",
+      "phrase": "Prophylactic measures reduce infection transmission rates.",
+      "expressions": [
+        "This demonstrates prophylactic.",
+        "The concept of prophylactic is complex."
+      ]
+    },
+    {
+      "word": "Palliative",
+      "meaning": "Relieving symptoms without curing",
+      "phrase": "Palliative care improves quality of life for terminal patients.",
+      "expressions": [
+        "This demonstrates palliative.",
+        "The concept of palliative is complex."
+      ]
+    },
+    {
+      "word": "Therapeutic",
+      "meaning": "Relating to healing or treatment",
+      "phrase": "Therapeutic interventions must be evidence-based.",
+      "expressions": [
+        "This demonstrates therapeutic.",
+        "The concept of therapeutic is complex."
+      ]
+    },
+    {
+      "word": "Homeostasis",
+      "meaning": "Stable equilibrium in body systems",
+      "phrase": "Homeostasis maintains optimal internal conditions.",
+      "expressions": [
+        "This demonstrates homeostasis.",
+        "The concept of homeostasis is complex."
+      ]
+    },
+    {
+      "word": "Immunocompromised",
+      "meaning": "Having weakened immune system",
+      "phrase": "Immunocompromised patients require special infection precautions.",
+      "expressions": [
+        "This demonstrates immunocompromised.",
+        "The concept of immunocompromised is complex."
+      ]
+    },
+    {
+      "word": "Psychosomatic",
+      "meaning": "Physical symptoms caused by mental factors",
+      "phrase": "Psychosomatic disorders require integrated treatment approaches.",
+      "expressions": [
+        "This demonstrates psychosomatic.",
+        "The concept of psychosomatic is complex."
+      ]
+    },
+    {
+      "word": "Congenital",
+      "meaning": "Present from birth",
+      "phrase": "Congenital heart defects often require surgical correction.",
+      "expressions": [
+        "This demonstrates congenital.",
+        "The concept of congenital is complex."
+      ]
+    },
+    {
+      "word": "Degenerative",
+      "meaning": "Characterized by progressive deterioration",
+      "phrase": "Degenerative diseases worsen over time without treatment.",
+      "expressions": [
+        "This demonstrates degenerative.",
+        "The concept of degenerative is complex."
+      ]
+    },
+    {
+      "word": "Idiopathic",
+      "meaning": "Of unknown cause",
+      "phrase": "Idiopathic conditions challenge diagnostic capabilities.",
+      "expressions": [
+        "This demonstrates idiopathic.",
+        "The concept of idiopathic is complex."
+      ]
+    },
+    {
+      "word": "Syndrome",
+      "meaning": "Group of symptoms occurring together",
+      "phrase": "The syndrome encompasses multiple organ system dysfunction.",
+      "expressions": [
+        "This demonstrates syndrome.",
+        "The concept of syndrome is complex."
+      ]
+    },
+    {
+      "word": "Morbidity",
+      "meaning": "State of being diseased",
+      "phrase": "Obesity increases morbidity rates across multiple conditions.",
+      "expressions": [
+        "This demonstrates morbidity.",
+        "The concept of morbidity is complex."
+      ]
+    },
+    {
+      "word": "Mortality",
+      "meaning": "Death rate in population",
+      "phrase": "Improved treatments reduced mortality from heart disease.",
+      "expressions": [
+        "This demonstrates mortality.",
+        "The concept of mortality is complex."
+      ]
+    },
+    {
+      "word": "Remission",
+      "meaning": "Temporary recovery from illness",
+      "phrase": "Cancer remission brings hope to patients and families.",
+      "expressions": [
+        "This demonstrates remission.",
+        "The concept of remission is complex."
+      ]
+    },
+    {
+      "word": "Exacerbation",
+      "meaning": "Worsening of disease symptoms",
+      "phrase": "Stress can cause exacerbation of chronic conditions.",
+      "expressions": [
+        "This demonstrates exacerbation.",
+        "The concept of exacerbation is complex."
+      ]
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "Process of providing food for health",
+      "phrase": "Good nutrition is essential for maintaining optimal health.",
+      "expressions": [
+        "Nutrition affects energy levels.",
+        "Proper nutrition prevents disease."
+      ]
+    },
+    {
+      "word": "Exercise",
+      "meaning": "Physical activity for health and fitness",
+      "phrase": "Regular exercise reduces risk of cardiovascular disease.",
+      "expressions": [
+        "Exercise improves mental health.",
+        "Exercise strengthens muscles."
+      ]
+    },
+    {
+      "word": "Immunity",
+      "meaning": "Body's ability to resist infection",
+      "phrase": "Vaccination helps build immunity against dangerous diseases.",
+      "expressions": [
+        "Immunity protects from illness.",
+        "Build natural immunity safely."
+      ]
+    },
+    {
+      "word": "Diagnosis",
+      "meaning": "Identification of disease or condition",
+      "phrase": "Early diagnosis improves treatment outcomes significantly.",
+      "expressions": [
+        "Accurate diagnosis guides treatment.",
+        "Diagnosis requires thorough examination."
+      ]
+    },
+    {
+      "word": "Treatment",
+      "meaning": "Medical care for illness or injury",
+      "phrase": "Modern treatment options have improved survival rates.",
+      "expressions": [
+        "Treatment should be personalized.",
+        "Effective treatment requires compliance."
+      ]
+    },
+    {
+      "word": "Prevention",
+      "meaning": "Action of stopping something from happening",
+      "phrase": "Disease prevention is more cost-effective than treatment.",
+      "expressions": [
+        "Prevention is better than cure.",
+        "Prevention requires lifestyle changes."
+      ]
+    },
+    {
+      "word": "Symptom",
+      "meaning": "Physical sign of disease or condition",
+      "phrase": "Persistent cough can be a symptom of various conditions.",
+      "expressions": [
+        "Monitor symptoms carefully.",
+        "Symptoms guide medical decisions."
+      ]
+    },
+    {
+      "word": "Medication",
+      "meaning": "Substance used to treat disease",
+      "phrase": "Take medication exactly as prescribed by your doctor.",
+      "expressions": [
+        "Medication requires proper dosing.",
+        "Medication can have side effects."
+      ]
+    },
+    {
+      "word": "Recovery",
+      "meaning": "Process of returning to health",
+      "phrase": "Physical therapy accelerated her recovery from surgery.",
+      "expressions": [
+        "Recovery takes time and patience.",
+        "Support aids recovery process."
+      ]
+    },
+    {
+      "word": "Wellness",
+      "meaning": "State of being in good health",
+      "phrase": "Workplace wellness programs improve employee productivity.",
+      "expressions": [
+        "Wellness encompasses mental health.",
+        "Wellness requires balanced lifestyle."
+      ]
+    }
+  ]
+}

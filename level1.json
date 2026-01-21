@@ -1,0 +1,813 @@
+{
+  "general": [
+    {
+      "word": "Creative",
+      "meaning": "Having the ability to make new things",
+      "phrase": "She is very creative with her art projects.",
+      "expressions": [
+        "Be creative with your ideas.",
+        "That's a creative solution."
+      ]
+    },
+    {
+      "word": "Careful",
+      "meaning": "Taking care to avoid danger or mistakes",
+      "phrase": "Be careful when crossing the busy street.",
+      "expressions": [
+        "This is careful.",
+        "I like careful."
+      ]
+    },
+    {
+      "word": "Popular",
+      "meaning": "Liked by many people",
+      "phrase": "Pizza is a popular food choice among teenagers.",
+      "expressions": [
+        "This is popular.",
+        "I like popular."
+      ]
+    },
+    {
+      "word": "Modern",
+      "meaning": "Relating to the present time",
+      "phrase": "The modern technology makes our lives easier.",
+      "expressions": [
+        "This is modern.",
+        "I like modern."
+      ]
+    },
+    {
+      "word": "Perfect",
+      "meaning": "Having no mistakes or faults",
+      "phrase": "The weather is perfect for a picnic today.",
+      "expressions": [
+        "This is perfect.",
+        "I like perfect."
+      ]
+    },
+    {
+      "word": "Generous",
+      "meaning": "Willing to give more than necessary",
+      "phrase": "My grandfather was generous with his time and money.",
+      "expressions": [
+        "This is generous.",
+        "I like generous."
+      ]
+    },
+    {
+      "word": "Confident",
+      "meaning": "Feeling sure about your abilities",
+      "phrase": "She felt confident about passing the exam.",
+      "expressions": [
+        "This is confident.",
+        "I like confident."
+      ]
+    },
+    {
+      "word": "Curious",
+      "meaning": "Wanting to know or learn about things",
+      "phrase": "Children are naturally curious about the world.",
+      "expressions": [
+        "This is curious.",
+        "I like curious."
+      ]
+    },
+    {
+      "word": "Organized",
+      "meaning": "Arranged in a neat and logical way",
+      "phrase": "Keep your desk organized for better productivity.",
+      "expressions": [
+        "This is organized.",
+        "I like organized."
+      ]
+    },
+    {
+      "word": "Relaxed",
+      "meaning": "Free from tension and anxiety",
+      "phrase": "I feel relaxed when I listen to music.",
+      "expressions": [
+        "This is relaxed.",
+        "I like relaxed."
+      ]
+    },
+    {
+      "word": "Successful",
+      "meaning": "Achieving desired results",
+      "phrase": "Hard work leads to successful outcomes.",
+      "expressions": [
+        "This is successful.",
+        "I like successful."
+      ]
+    },
+    {
+      "word": "Beautiful",
+      "meaning": "Pleasing to look at; attractive",
+      "phrase": "The sunset was beautiful over the calm lake.",
+      "expressions": [
+        "This is beautiful.",
+        "I like beautiful."
+      ],
+      "video": "media/20231115_아린탄천에서.mp4"
+    },
+    {
+      "word": "Popular",
+      "meaning": "Liked by many people",
+      "phrase": "Pizza is a popular food choice among teenagers.",
+      "expressions": [
+        "This is popular.",
+        "I like being popular."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Curious",
+      "meaning": "Wanting to know or learn about things",
+      "phrase": "Children are naturally curious about the world.",
+      "expressions": [
+        "This is curious.",
+        "I like curious."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Organized",
+      "meaning": "Arranged in a neat and logical way",
+      "phrase": "Keep your desk organized for better productivity.",
+      "expressions": [
+        "This is organized.",
+        "I like organized."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Happy",
+      "meaning": "Feeling joy and pleasure",
+      "expressions": [
+        "I am happy today.",
+        "Happy people smile often."
+      ],
+      "phrase": "Children are happy when they play with friends.",
+      "media": "https://naver.me/5dA9Q9B1"
+    },
+    {
+      "word": "ridiculous",
+      "meaning": "not smart",
+      "expressions": [],
+      "phrase": "this comment is very ridiculous",
+      "media": "https://naver.me/5dA9Q9B1"
+    },
+    {
+      "word": "simplicity",
+      "meaning": "simple way",
+      "expressions": [],
+      "phrase": "Pursuing simplicity is new trend in design",
+      "media": ""
+    }
+  ],
+  "science": [
+    {
+      "word": "Animal",
+      "meaning": "A living creature that can move and eat",
+      "phrase": "The zoo has many different animals from around the world.",
+      "expressions": [
+        "This is animal.",
+        "I like animal."
+      ]
+    },
+    {
+      "word": "Energy",
+      "meaning": "Power used to make things work",
+      "phrase": "Solar panels collect energy from the sun.",
+      "expressions": [
+        "This is energy.",
+        "I like energy."
+      ]
+    },
+    {
+      "word": "Weather",
+      "meaning": "Conditions outside like rain or sunshine",
+      "phrase": "Check the weather before planning outdoor activities.",
+      "expressions": [
+        "The weather is nice today.",
+        "Check the weather forecast."
+      ]
+    },
+    {
+      "word": "Climate",
+      "meaning": "The usual weather in a place",
+      "phrase": "The climate here is warm and sunny most of the year.",
+      "expressions": [
+        "The climate is pleasant.",
+        "Climate affects agriculture."
+      ]
+    },
+    {
+      "word": "Ocean",
+      "meaning": "Very large area of salt water",
+      "phrase": "The Pacific Ocean is the largest ocean on Earth.",
+      "expressions": [
+        "The ocean is vast.",
+        "Swim in the ocean."
+      ]
+    },
+    {
+      "word": "Space",
+      "meaning": "The area beyond Earth where stars exist",
+      "phrase": "Astronauts travel to space in rockets.",
+      "expressions": [
+        "Space is very big.",
+        "Astronauts travel to space."
+      ]
+    },
+    {
+      "word": "Experiment",
+      "meaning": "Test done to learn something new",
+      "phrase": "We did a science experiment in class today.",
+      "expressions": [
+        "We did an experiment.",
+        "The experiment was fun."
+      ]
+    },
+    {
+      "word": "Gravity",
+      "meaning": "Force that pulls things down",
+      "phrase": "Gravity makes things fall to the ground.",
+      "expressions": [
+        "Gravity pulls everything down.",
+        "Gravity keeps us grounded."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Gravity",
+      "meaning": "Force that pulls things down",
+      "phrase": "Gravity makes things fall to the ground.",
+      "expressions": [
+        "Gravity pulls everything down.",
+        "Gravity keeps us grounded."
+      ],
+      "media": ""
+    }
+  ],
+  "business": [
+    {
+      "word": "Company",
+      "meaning": "Organization that sells goods or services",
+      "phrase": "The company employs over 100 people.",
+      "expressions": [
+        "The company is hiring.",
+        "Our company is successful."
+      ]
+    },
+    {
+      "word": "Customer",
+      "meaning": "Person who buys goods or services",
+      "phrase": "Good customer service is very important.",
+      "expressions": [
+        "The customer is happy.",
+        "Help every customer."
+      ]
+    },
+    {
+      "word": "Product",
+      "meaning": "Something made to be sold",
+      "phrase": "This product is very popular with young people.",
+      "expressions": [
+        "This product is great.",
+        "We sell quality products."
+      ]
+    },
+    {
+      "word": "Service",
+      "meaning": "Work done to help customers",
+      "phrase": "The hotel provides excellent room service.",
+      "expressions": [
+        "Good service matters.",
+        "The service was excellent."
+      ]
+    },
+    {
+      "word": "Price",
+      "meaning": "Amount of money something costs",
+      "phrase": "The price of gas has increased this month.",
+      "expressions": [
+        "The price is fair.",
+        "What's the price?"
+      ]
+    },
+    {
+      "word": "Profit",
+      "meaning": "Money gained from business",
+      "phrase": "The company made a good profit last year.",
+      "expressions": [
+        "The profit increased.",
+        "We made a good profit."
+      ]
+    },
+    {
+      "word": "Manager",
+      "meaning": "Person who controls a business or team",
+      "phrase": "The manager held a meeting with all employees.",
+      "expressions": [
+        "The manager is nice.",
+        "Ask the manager."
+      ]
+    },
+    {
+      "word": "Employee",
+      "meaning": "Person who works for a company",
+      "phrase": "Every employee received a bonus this Christmas.",
+      "expressions": [
+        "Every employee matters.",
+        "She's a good employee."
+      ]
+    },
+    {
+      "word": "Contract",
+      "meaning": "Legal agreement between people or companies",
+      "phrase": "Read the contract carefully before signing it.",
+      "expressions": [
+        "Sign the contract.",
+        "Read the contract carefully."
+      ]
+    },
+    {
+      "word": "Investment",
+      "meaning": "Money put into something to make profit",
+      "phrase": "Real estate can be a good investment.",
+      "expressions": [
+        "This is a good investment.",
+        "Investment takes patience."
+      ]
+    },
+    {
+      "word": "Budget",
+      "meaning": "Plan for spending money",
+      "phrase": "Make a monthly budget to control your expenses.",
+      "expressions": [
+        "Make a budget.",
+        "Stay within your budget."
+      ]
+    }
+  ],
+  "literature": [
+    {
+      "word": "Author",
+      "meaning": "Person who writes books or stories",
+      "phrase": "The author signed copies of her new book.",
+      "expressions": [
+        "The author is famous.",
+        "Who's your favorite author?"
+      ]
+    },
+    {
+      "word": "Character",
+      "meaning": "Person in a story or play",
+      "phrase": "Harry Potter is the main character in the series.",
+      "expressions": [
+        "The main character is brave.",
+        "I like this character."
+      ]
+    },
+    {
+      "word": "Fiction",
+      "meaning": "Stories that are made up, not real",
+      "phrase": "I enjoy reading fiction more than factual books.",
+      "expressions": [
+        "I read fiction books.",
+        "Fiction can be exciting."
+      ]
+    },
+    {
+      "word": "Poetry",
+      "meaning": "Writing that expresses feelings in verse",
+      "phrase": "She writes beautiful poetry about nature.",
+      "expressions": [
+        "Poetry is beautiful.",
+        "Write some poetry."
+      ]
+    },
+    {
+      "word": "Novel",
+      "meaning": "Long story book",
+      "phrase": "This novel took me two weeks to finish reading.",
+      "expressions": [
+        "This novel is long.",
+        "I finished the novel."
+      ]
+    },
+    {
+      "word": "Drama",
+      "meaning": "Play performed in theater",
+      "phrase": "The school is performing a drama next month.",
+      "expressions": [
+        "The drama was moving.",
+        "Life is full of drama."
+      ]
+    },
+    {
+      "word": "Comedy",
+      "meaning": "Funny play or story",
+      "phrase": "We watched a comedy that made everyone laugh.",
+      "expressions": [
+        "I love comedy shows.",
+        "That comedy was funny."
+      ]
+    },
+    {
+      "word": "Poem",
+      "meaning": "Piece of writing in verse",
+      "phrase": "She recited a poem about friendship.",
+      "expressions": [
+        "Recite a poem.",
+        "Write a short poem."
+      ]
+    },
+    {
+      "word": "Language",
+      "meaning": "System of communication using words",
+      "phrase": "English is spoken as a second language worldwide.",
+      "expressions": [
+        "Learn a new language.",
+        "Language connects people."
+      ]
+    }
+  ],
+  "travel": [
+    {
+      "word": "Travel",
+      "meaning": "Go from one place to another",
+      "expressions": [
+        "I love to travel.",
+        "Travel broadens the mind."
+      ],
+      "phrase": "Many people travel during summer vacation.",
+      "media": ""
+    },
+    {
+      "word": "Journey",
+      "meaning": "Act of traveling from one place to another",
+      "phrase": "The journey by train was comfortable and scenic.",
+      "expressions": [
+        "The journey begins.",
+        "What a long journey."
+      ]
+    },
+    {
+      "word": "Vacation",
+      "meaning": "Time spent away from work for rest",
+      "phrase": "We had a wonderful vacation at the beach.",
+      "expressions": [
+        "I need a vacation.",
+        "Vacation time is here."
+      ]
+    },
+    {
+      "word": "Flight",
+      "meaning": "Journey by airplane",
+      "phrase": "Our flight to Paris was delayed by two hours.",
+      "expressions": [
+        "My flight is delayed.",
+        "Book a flight online."
+      ]
+    },
+    {
+      "word": "Tourist",
+      "meaning": "Person who visits places for pleasure",
+      "phrase": "Many tourists visit this city every summer.",
+      "expressions": [
+        "I'm a tourist here.",
+        "Many tourists visit here."
+      ]
+    },
+    {
+      "word": "Guide",
+      "meaning": "Person who shows tourists around",
+      "phrase": "The tour guide explained the history of the castle.",
+      "expressions": [
+        "The guide knows everything.",
+        "Hire a tour guide."
+      ]
+    },
+    {
+      "word": "Museum",
+      "meaning": "Building displaying historical objects",
+      "phrase": "The art museum has paintings from famous artists.",
+      "expressions": [
+        "Visit the museum.",
+        "The museum is educational."
+      ]
+    }
+  ],
+  "history": [
+    {
+      "word": "History",
+      "meaning": "Study of past events",
+      "phrase": "History helps us understand how the world changed.",
+      "expressions": [
+        "History is interesting.",
+        "Learn from history."
+      ]
+    },
+    {
+      "word": "King",
+      "meaning": "Male ruler of a country",
+      "phrase": "The king lived in a magnificent castle.",
+      "expressions": [
+        "The king ruled wisely.",
+        "Long live the king."
+      ]
+    },
+    {
+      "word": "Queen",
+      "meaning": "Female ruler of a country",
+      "phrase": "The queen was loved by all her people.",
+      "expressions": [
+        "The queen was beloved.",
+        "The queen wore a crown."
+      ]
+    },
+    {
+      "word": "Castle",
+      "meaning": "Large strong building where rulers lived",
+      "phrase": "The medieval castle still stands on the hill.",
+      "expressions": [
+        "The castle is magnificent.",
+        "Visit the old castle."
+      ]
+    },
+    {
+      "word": "Battle",
+      "meaning": "Fight between armies",
+      "phrase": "The famous battle took place near the river.",
+      "expressions": [
+        "The battle was fierce.",
+        "They won the battle."
+      ]
+    },
+    {
+      "word": "Discovery",
+      "meaning": "Finding something new",
+      "phrase": "The discovery of America changed world history.",
+      "expressions": [
+        "What a great discovery!",
+        "The discovery changed everything."
+      ]
+    },
+    {
+      "word": "Explorer",
+      "meaning": "Person who travels to unknown places",
+      "phrase": "The brave explorer sailed across dangerous seas.",
+      "expressions": [
+        "The explorer was brave.",
+        "Explorers discover new lands."
+      ]
+    },
+    {
+      "word": "Invention",
+      "meaning": "Something created for the first time",
+      "phrase": "The invention of the wheel changed transportation forever.",
+      "expressions": [
+        "What a useful invention!",
+        "Inventions change lives."
+      ]
+    },
+    {
+      "word": "Revolution",
+      "meaning": "Big change in how things are done",
+      "phrase": "The industrial revolution changed how people worked.",
+      "expressions": [
+        "The revolution changed society.",
+        "Ideas can start revolutions."
+      ]
+    },
+    {
+      "word": "Empire",
+      "meaning": "Group of countries ruled by one power",
+      "phrase": "The Roman Empire was one of the largest in history.",
+      "expressions": [
+        "The empire was vast.",
+        "Build your own empire."
+      ]
+    },
+    {
+      "word": "Tradition",
+      "meaning": "Custom passed from older to younger people",
+      "phrase": "Family traditions connect us to our ancestors.",
+      "expressions": [
+        "Family traditions matter.",
+        "Keep the tradition alive."
+      ]
+    },
+    {
+      "word": "Monument",
+      "meaning": "Structure built to remember important events",
+      "phrase": "The monument honors soldiers who died in the war.",
+      "expressions": [
+        "The monument is impressive.",
+        "Visit the war monument."
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "word": "Geography",
+      "meaning": "Study of Earth's surface and features",
+      "phrase": "Geography class taught us about different countries.",
+      "expressions": [
+        "Geography is fascinating.",
+        "Study world geography."
+      ]
+    },
+    {
+      "word": "Earth",
+      "meaning": "The planet where we live",
+      "phrase": "Earth is the third planet from the sun.",
+      "expressions": [
+        "Earth is beautiful.",
+        "Take care of Earth."
+      ]
+    },
+    {
+      "word": "Continent",
+      "meaning": "Very large area of land",
+      "phrase": "Asia is the largest continent in the world.",
+      "expressions": [
+        "Asia is the largest continent.",
+        "Visit every continent."
+      ]
+    },
+    {
+      "word": "River",
+      "meaning": "Large stream of water",
+      "phrase": "The Amazon River flows through South America.",
+      "expressions": [
+        "The river flows gently.",
+        "Cross the river carefully."
+      ]
+    },
+    {
+      "word": "Mountain",
+      "meaning": "Very high area of land",
+      "phrase": "Mount Everest is the highest mountain on Earth.",
+      "expressions": [
+        "The mountain is tall.",
+        "Climb the mountain."
+      ]
+    },
+    {
+      "word": "Desert",
+      "meaning": "Very dry area with little water",
+      "phrase": "The Sahara Desert covers much of North Africa.",
+      "expressions": [
+        "The desert is hot.",
+        "Cross the desert safely."
+      ]
+    },
+    {
+      "word": "Forest",
+      "meaning": "Large area covered with trees",
+      "phrase": "The rainforest is home to many animal species.",
+      "expressions": [
+        "The forest is green.",
+        "Walk through the forest."
+      ]
+    },
+    {
+      "word": "Island",
+      "meaning": "Piece of land surrounded by water",
+      "phrase": "Japan is an island nation in the Pacific Ocean.",
+      "expressions": [
+        "The island is peaceful.",
+        "Live on a tropical island."
+      ]
+    },
+    {
+      "word": "Lake",
+      "meaning": "Large area of water surrounded by land",
+      "phrase": "We went fishing at the beautiful mountain lake.",
+      "expressions": [
+        "The lake is calm.",
+        "Fish in the lake."
+      ]
+    },
+    {
+      "word": "Climate",
+      "meaning": "Usual weather in a place",
+      "phrase": "The tropical climate is hot and humid year-round.",
+      "expressions": [
+        "The climate is pleasant.",
+        "Climate affects agriculture."
+      ]
+    },
+    {
+      "word": "Population",
+      "meaning": "Number of people living in a place",
+      "phrase": "The city's population has grown rapidly in recent years.",
+      "expressions": [
+        "The population is growing.",
+        "Count the population."
+      ]
+    },
+    {
+      "word": "Capital",
+      "meaning": "Most important city in a country",
+      "phrase": "Paris is the capital of France.",
+      "expressions": [
+        "Paris is the capital.",
+        "Visit the capital city."
+      ]
+    },
+    {
+      "word": "Border",
+      "meaning": "Line separating two countries",
+      "phrase": "Show your passport when crossing the border.",
+      "expressions": [
+        "Cross the border.",
+        "The border is secure."
+      ]
+    },
+    {
+      "word": "Rain",
+      "meaning": "Water falling from clouds",
+      "phrase": "Plants need rain to grow big and strong.",
+      "expressions": [
+        "It's going to rain.",
+        "Rain helps plants."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Rain",
+      "meaning": "Water falling from clouds",
+      "phrase": "Plants need rain to grow big and strong.",
+      "expressions": [
+        "It's going to rain.",
+        "Rain helps plants."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Station",
+      "meaning": "Place where trains or buses stop",
+      "phrase": "Wait at the station for the next train.",
+      "expressions": [
+        "Go to the station.",
+        "The station is busy."
+      ],
+      "video": "https://railsmartr.co.uk/london-train-stations/"
+    },
+    {
+      "word": "Rain",
+      "meaning": "Water falling from clouds",
+      "phrase": "Plants need rain to grow big and strong.",
+      "expressions": [
+        "It's going to rain.",
+        "Rain helps plants."
+      ],
+      "video": ""
+    }
+  ],
+  "health": [
+    {
+      "word": "Health",
+      "meaning": "Being free from illness",
+      "phrase": "Good health is more important than wealth.",
+      "expressions": [
+        "Health comes first.",
+        "Good health is wealth."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "Process of getting food needed for health",
+      "phrase": "Good nutrition is essential for growing children.",
+      "expressions": [
+        "Nutrition is important.",
+        "Good nutrition prevents disease."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "Process of getting food needed for health",
+      "phrase": "Good nutrition is essential for growing children.",
+      "expressions": [
+        "Nutrition is important.",
+        "Good nutrition prevents disease."
+      ],
+      "video": ""
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "Process of getting food needed for health",
+      "phrase": "Good nutrition is essential for growing children.",
+      "expressions": [
+        "Nutrition is important.",
+        "Good nutrition prevents disease."
+      ],
+      "video": ""
+    }
+  ]
+}

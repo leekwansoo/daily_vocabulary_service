@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+requests
+httpx
+
+pythonturtle
+pyttsx3
+playsound>=1.3.0  # Simple audio playback (cross-platform) - commented out due to build issues
+openpyxl>=3.0.0  # Excel file handling
+
+python-dotenv

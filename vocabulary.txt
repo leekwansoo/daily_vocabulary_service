@@ -1,0 +1,87 @@
+Creative | Having the ability to make new things | She is very creative with her art projects. | general
+Careful | Taking care to avoid danger or mistakes | Be careful when crossing the busy street. | general
+Popular | Liked by many people | Pizza is a popular food choice among teenagers. | general
+Modern | Relating to the present time | The modern technology makes our lives easier. | general
+Perfect | Having no mistakes or faults | The weather is perfect for a picnic today. | general
+Generous | Willing to give more than necessary | My grandfather was generous with his time and money. | general
+Confident | Feeling sure about your abilities | She felt confident about passing the exam. | general
+Curious | Wanting to know or learn about things | Children are naturally curious about the world. | general
+Organized | Arranged in a neat and logical way | Keep your desk organized for better productivity. | general
+Relaxed | Free from tension and anxiety | I feel relaxed when I listen to music. | general
+Successful | Achieving desired results | Hard work leads to successful outcomes. | general
+Beautiful | Pleasing to look at; attractive | The sunset was beautiful over the calm lake. | general
+Popular | Liked by many people | Pizza is a popular food choice among teenagers. | general
+Curious | Wanting to know or learn about things | Children are naturally curious about the world. | general
+Organized | Arranged in a neat and logical way | Keep your desk organized for better productivity. | general
+Happy | Feeling joy and pleasure | Children are happy when they play with friends. | general
+ridiculous | not smart | this comment is very ridiculous | general
+simplicity | simple way | Pursuing simplicity is new trend in design | general
+Animal | A living creature that can move and eat | The zoo has many different animals from around the world. | science
+Energy | Power used to make things work | Solar panels collect energy from the sun. | science
+Weather | Conditions outside like rain or sunshine | Check the weather before planning outdoor activities. | science
+Climate | The usual weather in a place | The climate here is warm and sunny most of the year. | science
+Ocean | Very large area of salt water | The Pacific Ocean is the largest ocean on Earth. | science
+Space | The area beyond Earth where stars exist | Astronauts travel to space in rockets. | science
+Experiment | Test done to learn something new | We did a science experiment in class today. | science
+Gravity | Force that pulls things down | Gravity makes things fall to the ground. | science
+Gravity | Force that pulls things down | Gravity makes things fall to the ground. | science
+Company | Organization that sells goods or services | The company employs over 100 people. | business
+Customer | Person who buys goods or services | Good customer service is very important. | business
+Product | Something made to be sold | This product is very popular with young people. | business
+Service | Work done to help customers | The hotel provides excellent room service. | business
+Price | Amount of money something costs | The price of gas has increased this month. | business
+Profit | Money gained from business | The company made a good profit last year. | business
+Manager | Person who controls a business or team | The manager held a meeting with all employees. | business
+Employee | Person who works for a company | Every employee received a bonus this Christmas. | business
+Contract | Legal agreement between people or companies | Read the contract carefully before signing it. | business
+Investment | Money put into something to make profit | Real estate can be a good investment. | business
+Budget | Plan for spending money | Make a monthly budget to control your expenses. | business
+Author | Person who writes books or stories | The author signed copies of her new book. | literature
+Character | Person in a story or play | Harry Potter is the main character in the series. | literature
+Fiction | Stories that are made up, not real | I enjoy reading fiction more than factual books. | literature
+Poetry | Writing that expresses feelings in verse | She writes beautiful poetry about nature. | literature
+Novel | Long story book | This novel took me two weeks to finish reading. | literature
+Drama | Play performed in theater | The school is performing a drama next month. | literature
+Comedy | Funny play or story | We watched a comedy that made everyone laugh. | literature
+Poem | Piece of writing in verse | She recited a poem about friendship. | literature
+Language | System of communication using words | English is spoken as a second language worldwide. | literature
+Travel | Go from one place to another | Many people travel during summer vacation. | travel
+Journey | Act of traveling from one place to another | The journey by train was comfortable and scenic. | travel
+Vacation | Time spent away from work for rest | We had a wonderful vacation at the beach. | travel
+Flight | Journey by airplane | Our flight to Paris was delayed by two hours. | travel
+Tourist | Person who visits places for pleasure | Many tourists visit this city every summer. | travel
+Guide | Person who shows tourists around | The tour guide explained the history of the castle. | travel
+Museum | Building displaying historical objects | The art museum has paintings from famous artists. | travel
+History | Study of past events | History helps us understand how the world changed. | history
+King | Male ruler of a country | The king lived in a magnificent castle. | history
+Queen | Female ruler of a country | The queen was loved by all her people. | history
+Castle | Large strong building where rulers lived | The medieval castle still stands on the hill. | history
+Battle | Fight between armies | The famous battle took place near the river. | history
+Discovery | Finding something new | The discovery of America changed world history. | history
+Explorer | Person who travels to unknown places | The brave explorer sailed across dangerous seas. | history
+Invention | Something created for the first time | The invention of the wheel changed transportation forever. | history
+Revolution | Big change in how things are done | The industrial revolution changed how people worked. | history
+Empire | Group of countries ruled by one power | The Roman Empire was one of the largest in history. | history
+Tradition | Custom passed from older to younger people | Family traditions connect us to our ancestors. | history
+Monument | Structure built to remember important events | The monument honors soldiers who died in the war. | history
+Geography | Study of Earth's surface and features | Geography class taught us about different countries. | geography
+Earth | The planet where we live | Earth is the third planet from the sun. | geography
+Continent | Very large area of land | Asia is the largest continent in the world. | geography
+River | Large stream of water | The Amazon River flows through South America. | geography
+Mountain | Very high area of land | Mount Everest is the highest mountain on Earth. | geography
+Desert | Very dry area with little water | The Sahara Desert covers much of North Africa. | geography
+Forest | Large area covered with trees | The rainforest is home to many animal species. | geography
+Island | Piece of land surrounded by water | Japan is an island nation in the Pacific Ocean. | geography
+Lake | Large area of water surrounded by land | We went fishing at the beautiful mountain lake. | geography
+Climate | Usual weather in a place | The tropical climate is hot and humid year-round. | geography
+Population | Number of people living in a place | The city's population has grown rapidly in recent years. | geography
+Capital | Most important city in a country | Paris is the capital of France. | geography
+Border | Line separating two countries | Show your passport when crossing the border. | geography
+Rain | Water falling from clouds | Plants need rain to grow big and strong. | geography
+Rain | Water falling from clouds | Plants need rain to grow big and strong. | geography
+Station | Place where trains or buses stop | Wait at the station for the next train. | geography
+Rain | Water falling from clouds | Plants need rain to grow big and strong. | geography
+Health | Being free from illness | Good health is more important than wealth. | health
+Nutrition | Process of getting food needed for health | Good nutrition is essential for growing children. | health
+Nutrition | Process of getting food needed for health | Good nutrition is essential for growing children. | health
+Nutrition | Process of getting food needed for health | Good nutrition is essential for growing children. | health

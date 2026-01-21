@@ -1,0 +1,121 @@
+[
+  {
+    "word": "Modern",
+    "meaning": "Relating to the present time",
+    "phrase": "The modern technology makes our lives easier.",
+    "expressions": [
+      "This is modern.",
+      "I like modern."
+    ],
+    "category": "general",
+    "mailed_date": "2026-01-16T14:29:29.325593",
+    "sent_date": "2026-01-16T14:33:37.558353"
+  },
+  {
+    "word": "Investment",
+    "meaning": "Money put into something to make profit",
+    "phrase": "Real estate can be a good investment.",
+    "expressions": [
+      "This is a good investment.",
+      "Investment takes patience."
+    ],
+    "category": "business",
+    "mailed_date": "2026-01-16T14:29:29.330109",
+    "sent_date": "2026-01-16T14:33:37.558353"
+  },
+  {
+    "word": "Mountain",
+    "meaning": "Very high area of land",
+    "phrase": "Mount Everest is the highest mountain on Earth.",
+    "expressions": [
+      "The mountain is tall.",
+      "Climb the mountain."
+    ],
+    "category": "geography",
+    "mailed_date": "2026-01-16T14:32:52.745448",
+    "sent_date": "2026-01-16T14:33:37.558353"
+  },
+  {
+    "word": "Beautiful",
+    "meaning": "Pleasing to look at; attractive",
+    "phrase": "The sunset was beautiful over the calm lake.",
+    "expressions": [
+      "This is beautiful.",
+      "I like beautiful."
+    ],
+    "video": "media/20231115_아린탄천에서.mp4",
+    "category": "general",
+    "mailed_date": "2026-01-16T14:32:52.749670",
+    "sent_date": "2026-01-16T14:33:37.558353"
+  },
+  {
+    "word": "Population",
+    "meaning": "Number of people living in a place",
+    "phrase": "The city's population has grown rapidly in recent years.",
+    "expressions": [
+      "The population is growing.",
+      "Count the population."
+    ],
+    "category": "geography",
+    "mailed_date": "2026-01-16T14:32:52.752876",
+    "sent_date": "2026-01-16T14:33:37.558353"
+  },
+  {
+    "word": "Poetry",
+    "meaning": "Writing that expresses feelings in verse",
+    "phrase": "She writes beautiful poetry about nature.",
+    "expressions": [
+      "Poetry is beautiful.",
+      "Write some poetry."
+    ],
+    "category": "literature",
+    "mailed_date": "2026-01-21T10:45:49.586312",
+    "sent_date": "2026-01-21T12:31:17.768890"
+  },
+  {
+    "word": "Nutrition",
+    "meaning": "Process of getting food needed for health",
+    "phrase": "Good nutrition is essential for growing children.",
+    "expressions": [
+      "Nutrition is important.",
+      "Good nutrition prevents disease."
+    ],
+    "video": "",
+    "category": "health",
+    "mailed_date": "2026-01-21T10:45:49.590955",
+    "sent_date": "2026-01-21T12:31:17.768890"
+  },
+  {
+    "word": "Confident",
+    "meaning": "Feeling sure about your abilities",
+    "phrase": "She felt confident about passing the exam.",
+    "expressions": [
+      "This is confident.",
+      "I like confident."
+    ],
+    "category": "general",
+    "mailed_date": "2026-01-21T16:41:01.767260"
+  },
+  {
+    "word": "Curious",
+    "meaning": "Wanting to know or learn about things",
+    "phrase": "Children are naturally curious about the world.",
+    "expressions": [
+      "This is curious.",
+      "I like curious."
+    ],
+    "category": "general",
+    "mailed_date": "2026-01-21T16:41:01.770254"
+  },
+  {
+    "word": "Organized",
+    "meaning": "Arranged in a neat and logical way",
+    "phrase": "Keep your desk organized for better productivity.",
+    "expressions": [
+      "This is organized.",
+      "I like organized."
+    ],
+    "category": "general",
+    "mailed_date": "2026-01-21T16:41:01.772258"
+  }
+]

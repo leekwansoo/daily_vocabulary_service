@@ -1,0 +1,232 @@
+.main .block-container {
+    font-size: 1.95em;
+}
+
+.stSelectbox > div > div {
+    font-size: 1.95em;
+}
+
+.stSelectbox label {
+    font-size: 1.95em;
+}
+
+/* Main content selectboxes - make them smaller for better readability */
+.main .stSelectbox > div > div {
+    font-size: 0.975em !important; /* Reduce selectbox content by 50% */
+}
+
+.main .stSelectbox > div > div > div {
+    font-size: 0.975em !important; /* Reduce selected value display by 50% */
+}
+
+/* Additional targeting for main content selectboxes */
+.stApp .main .stSelectbox > div > div {
+    font-size: 0.975em !important;
+}
+
+.stApp .main .stSelectbox > div > div > div {
+    font-size: 0.975em !important;
+}
+
+.stApp .main .stSelectbox input {
+    font-size: 0.975em !important;
+}
+
+/* Target selectbox by data attributes */
+[data-testid="stSelectbox"] > div > div {
+    font-size: 0.975em !important;
+}
+
+[data-testid="stSelectbox"] > div > div > div {
+    font-size: 0.975em !important;
+}
+
+/* Override all selectbox fonts in main content except sidebar */
+.stSelectbox:not(.css-1d391kg .stSelectbox) > div > div {
+    font-size: 0.975em !important;
+}
+
+.stSelectbox:not(.css-1d391kg .stSelectbox) > div > div > div {
+    font-size: 0.975em !important;
+}
+
+/* Direct targeting of main area selectboxes */
+.main .stSelectbox .stSelectbox {
+    font-size: 0.975em !important;
+}
+
+/* Ensure all main content selectboxes are consistent across all modes */
+.main .block-container .stSelectbox > div > div {
+    font-size: 0.975em !important;
+}
+
+.main .block-container .stSelectbox > div > div > div {
+    font-size: 0.975em !important;
+}
+
+.main .block-container .stSelectbox input {
+    font-size: 0.975em !important;
+}
+
+/* Ensure selectbox labels remain large and readable */
+.main .block-container .stSelectbox label {
+    font-size: 1.95em !important;
+}
+
+.stRadio > div {
+    font-size: 2.93em;
+}
+
+.stRadio > div > label {
+    font-size: 2.25em;
+}
+
+.stButton > button {
+    font-size: 1.95em;
+    padding: 12px 24px;
+}
+
+.stMarkdown {
+    font-size: 1.95em;
+}
+
+.stSubheader {
+    font-size: 2.54em;
+}
+
+.stHeader {
+    font-size: 3.12em;
+}
+
+.stTitle {
+    font-size: 3.9em;
+}
+
+.stTextInput > div > div > input {
+    font-size: 1.95em;
+}
+
+.stTextArea > div > div > textarea {
+    font-size: 1.95em;
+}
+
+.stMetric {
+    font-size: 1.95em;
+}
+
+.stInfo {
+    font-size: 1.95em;
+}
+
+.stSuccess {
+    font-size: 1.95em;
+}
+
+.stError {
+    font-size: 1.95em;
+}
+
+.stWarning {
+    font-size: 1.95em;
+}
+
+/* Sidebar styling - restored to original large sizes */
+.css-1d391kg {
+    font-size: 1.95em;
+}
+
+/* Sidebar selectbox - both selected value and dropdown options reduced by 50% */
+.css-1d391kg .stSelectbox > div > div {
+    font-size: 0.975em !important; /* Category dropdown options reduced by 50% */
+}
+
+.css-1d391kg .stSelectbox > div > div > div {
+    font-size: 0.975em !important; /* Selected category value in box reduced by 50% */
+}
+
+.css-1d391kg .stSelectbox > div > div input {
+    font-size: 0.975em !important; /* Input field text reduced by 50% */
+}
+
+.css-1d391kg .stSelectbox label {
+    font-size: 2.925em; /* Label increased by 50% (1.95em × 1.5) */
+}
+
+/* Additional specificity for sidebar selectbox */
+.stSidebar .stSelectbox > div > div {
+    font-size: 0.975em !important;
+}
+
+.stSidebar .stSelectbox > div > div > div {
+    font-size: 0.975em !important;
+}
+
+/* Sidebar radio buttons - restored to large size */
+.css-1d391kg .stRadio > div {
+    font-size: 2.93em;
+}
+
+.css-1d391kg .stRadio > div > label {
+    font-size: 2.25em;
+}
+
+/* Sidebar markdown text - restored */
+.css-1d391kg .stMarkdown {
+    font-size: 1.95em;
+}
+
+/* Sidebar title - restored */
+.css-1d391kg h1 {
+    font-size: 1.95em;
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] button [data-testid="stMarkdownContainer"] p {
+    font-size: 1.95em;
+}
+
+/* Custom styling for expressions text area to make it more balanced */
+.stTextArea textarea {
+    font-size: 1.4em !important; /* Smaller than default 1.95em for text areas */
+    line-height: 1.4 !important;
+    padding: 10px 12px !important;
+    min-height: 60px !important;
+    resize: vertical !important;
+    overflow-y: auto !important;
+}
+
+/* Override general text area sizing specifically for expressions */
+div[data-testid="stTextArea"] textarea {
+    font-size: 1.4em !important;
+    line-height: 1.4 !important;
+    padding: 8px 12px !important;
+    border-radius: 6px !important;
+    border: 2px solid #e0e0e0 !important;
+}
+
+/* Focus state for better user experience */
+div[data-testid="stTextArea"] textarea:focus {
+    border-color: #1f77b4 !important;
+    box-shadow: 0 0 0 2px rgba(31, 119, 180, 0.2) !important;
+}
+
+/* Make sure meaning and phrase are slightly larger and well-spaced */
+.balanced-meaning, .balanced-phrase {
+    font-size: 1.4em !important; /* Slightly larger than base to match other content */
+    line-height: 0.9 !important;
+    margin: 8px 0 !important;
+    padding: 4px 0 !important;
+}
+
+/* Make expressions section more compact but readable */
+.balanced-expressions {
+    font-size: 1.4em !important; /* Smaller than meaning/phrase but still readable */
+    line-height: 0.9 !important;
+    margin: 6px 0 !important;
+    padding: 2px 0 !important;
+}
+
+/* Compact layout for expressions list items */
+.balanced-expressions + .balanced-expressions {
+    margin-top: 2px !important;
+}

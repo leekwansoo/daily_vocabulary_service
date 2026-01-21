@@ -1,0 +1,40 @@
+{
+  "2": [
+    {
+      "id": 1,
+      "email": "leekwansoo49@gmail.com",
+      "name": "leekwansoo",
+      "level": "2",
+      "media": "",
+      "subscribed_at": "2026-01-12T11:09:51.040329"
+    }
+  ],
+  "1": [
+    {
+      "id": 2,
+      "email": "leekwansoo01@naver.com",
+      "name": "이관수",
+      "level": "1",
+      "media": "",
+      "subscribed_at": "2026-01-13T11:33:02.485993"
+    }
+  ],
+  "3": [
+    {
+      "id": 12,
+      "email": "kim5@gmail.com",
+      "name": "kim5",
+      "level": "3",
+      "media": "",
+      "subscribed_at": "2026-01-21T14:22:19.650384"
+    },
+    {
+      "id": 13,
+      "email": "kim1@naver.com",
+      "name": "kim1",
+      "level": "3",
+      "media": "",
+      "subscribed_at": "2026-01-21T16:40:26.184085"
+    }
+  ]
+}

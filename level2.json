@@ -1,0 +1,2178 @@
+{
+  "general": [
+    {
+      "word": "Magnificent",
+      "meaning": "Extremely beautiful or impressive",
+      "phrase": "The magnificent cathedral dominated the city skyline.",
+      "expressions": [
+        "That view is magnificent!",
+        "What a magnificent building!"
+      ]
+    },
+    {
+      "word": "Extraordinary",
+      "meaning": "Very unusual or remarkable",
+      "phrase": "Her extraordinary talent impressed everyone at the audition.",
+      "expressions": [
+        "This is extraordinary news.",
+        "She has extraordinary skills."
+      ]
+    },
+    {
+      "word": "Substantial",
+      "meaning": "Large in amount, size, or importance",
+      "phrase": "The company made substantial investments in new technology.",
+      "expressions": [
+        "There's substantial evidence.",
+        "We need substantial changes."
+      ]
+    },
+    {
+      "word": "Versatile",
+      "meaning": "Able to adapt to many different functions",
+      "phrase": "This versatile tool can be used for multiple purposes.",
+      "expressions": [
+        "This tool is very versatile.",
+        "He's a versatile player."
+      ]
+    },
+    {
+      "word": "Sophisticated",
+      "meaning": "Complex or refined in design",
+      "phrase": "The sophisticated software requires advanced training.",
+      "expressions": [
+        "That's quite sophisticated.",
+        "She has sophisticated taste."
+      ]
+    },
+    {
+      "word": "Comprehensive",
+      "meaning": "Complete and including everything necessary",
+      "phrase": "The comprehensive report covered all aspects of the problem.",
+      "expressions": [
+        "We need comprehensive planning.",
+        "This is a comprehensive guide."
+      ]
+    },
+    {
+      "word": "Innovative",
+      "meaning": "Introducing new ideas or methods",
+      "phrase": "The innovative design won several international awards.",
+      "expressions": [
+        "That's an innovative idea.",
+        "We need innovative solutions."
+      ]
+    },
+    {
+      "word": "Fundamental",
+      "meaning": "Basic and essential",
+      "phrase": "Understanding grammar is fundamental to language learning.",
+      "expressions": [
+        "This is fundamental knowledge.",
+        "These are fundamental rights."
+      ]
+    },
+    {
+      "word": "Prominent",
+      "meaning": "Important and well-known",
+      "phrase": "She became a prominent figure in environmental activism.",
+      "expressions": [
+        "She's a prominent leader.",
+        "This is a prominent issue."
+      ]
+    },
+    {
+      "word": "Meticulous",
+      "meaning": "Showing great attention to detail",
+      "phrase": "The scientist was meticulous in recording her observations.",
+      "expressions": [
+        "He's very meticulous.",
+        "She does meticulous work."
+      ]
+    },
+    {
+      "word": "Resilient",
+      "meaning": "Able to recover quickly from difficulties",
+      "phrase": "Children are remarkably resilient after traumatic experiences.",
+      "expressions": [
+        "Children are so resilient.",
+        "We must be resilient."
+      ]
+    },
+    {
+      "word": "Eloquent",
+      "meaning": "Fluent and persuasive in speaking",
+      "phrase": "The eloquent speaker moved the audience to tears.",
+      "expressions": [
+        "She's an eloquent speaker.",
+        "That was eloquent."
+      ]
+    },
+    {
+      "word": "Pragmatic",
+      "meaning": "Dealing with things realistically",
+      "phrase": "A pragmatic approach considers practical limitations.",
+      "expressions": [
+        "Be pragmatic about this.",
+        "That's a pragmatic approach."
+      ]
+    },
+    {
+      "word": "Conscientious",
+      "meaning": "Careful and dutiful",
+      "phrase": "Conscientious students always complete their assignments on time.",
+      "expressions": [
+        "He's very conscientious.",
+        "Conscientious work pays off."
+      ]
+    },
+    {
+      "word": "Proactive",
+      "meaning": "Taking action before problems occur",
+      "phrase": "Being proactive helps prevent many workplace issues.",
+      "expressions": [
+        "That's quite proactive.",
+        "This seems proactive."
+      ]
+    },
+    {
+      "word": "Diligent",
+      "meaning": "Hardworking and careful",
+      "phrase": "Diligent practice leads to mastery of any skill.",
+      "expressions": [
+        "She's a diligent student.",
+        "Diligent work brings success."
+      ]
+    },
+    {
+      "word": "Analytical",
+      "meaning": "Using logical reasoning",
+      "phrase": "Her analytical mind helped solve complex problems.",
+      "expressions": [
+        "That's quite analytical.",
+        "This seems analytical."
+      ]
+    },
+    {
+      "word": "Intuitive",
+      "meaning": "Using instinct rather than reasoning",
+      "phrase": "The intuitive interface makes the software easy to use.",
+      "expressions": [
+        "That's quite intuitive.",
+        "This seems intuitive."
+      ]
+    },
+    {
+      "word": "Empathetic",
+      "meaning": "Understanding others' feelings",
+      "phrase": "Empathetic leaders create positive work environments.",
+      "expressions": [
+        "That's quite empathetic.",
+        "This seems empathetic."
+      ]
+    },
+    {
+      "word": "Charismatic",
+      "meaning": "Having compelling charm that inspires others",
+      "phrase": "The charismatic leader motivated the entire team.",
+      "expressions": [
+        "That's quite charismatic.",
+        "This seems charismatic."
+      ]
+    },
+    {
+      "word": "Ambitious",
+      "meaning": "Having strong desire for success",
+      "phrase": "The ambitious student studied hard to achieve her goals.",
+      "expressions": [
+        "She's very ambitious.",
+        "Ambitious people succeed."
+      ]
+    },
+    {
+      "word": "Efficient",
+      "meaning": "Working in organized way without waste",
+      "phrase": "The efficient system reduced processing time significantly.",
+      "expressions": [
+        "That's quite efficient.",
+        "Work more efficiently."
+      ]
+    },
+    {
+      "word": "Genuine",
+      "meaning": "Real and sincere",
+      "phrase": "Her genuine concern for others impressed everyone.",
+      "expressions": [
+        "That's genuine care.",
+        "Be genuine always."
+      ]
+    },
+    {
+      "word": "Optimistic",
+      "meaning": "Having positive outlook on life",
+      "phrase": "Despite setbacks, she remained optimistic about the future.",
+      "expressions": [
+        "Stay optimistic.",
+        "She's naturally optimistic."
+      ]
+    },
+    {
+      "word": "Persistent",
+      "meaning": "Continuing despite difficulties",
+      "phrase": "His persistent effort finally paid off with success.",
+      "expressions": [
+        "Be persistent.",
+        "Persistent effort wins."
+      ]
+    },
+    {
+      "word": "Flexible",
+      "meaning": "Able to adapt to change",
+      "phrase": "Flexible workers adapt easily to new situations.",
+      "expressions": [
+        "Stay flexible.",
+        "Flexible thinking helps."
+      ]
+    },
+    {
+      "word": "Reliable",
+      "meaning": "Consistently dependable",
+      "phrase": "She's a reliable friend who always keeps her promises.",
+      "expressions": [
+        "He's very reliable.",
+        "Reliable people are valued."
+      ]
+    },
+    {
+      "word": "Decisive",
+      "meaning": "Able to make decisions quickly",
+      "phrase": "The decisive manager solved problems without delay.",
+      "expressions": [
+        "Be more decisive.",
+        "Decisive action is needed."
+      ]
+    },
+    {
+      "word": "Thoughtful",
+      "meaning": "Showing consideration for others",
+      "phrase": "Her thoughtful gestures made everyone feel appreciated.",
+      "expressions": [
+        "That's thoughtful of you.",
+        "Thoughtful people care."
+      ]
+    },
+    {
+      "word": "Determined",
+      "meaning": "Having firm purpose and resolve",
+      "phrase": "The determined athlete trained every day despite challenges.",
+      "expressions": [
+        "Stay determined.",
+        "Determined people achieve goals."
+      ]
+    }
+  ],
+  "science": [
+    {
+      "word": "Hypothesis",
+      "meaning": "Proposed explanation for a phenomenon",
+      "phrase": "Scientists test their hypothesis through controlled experiments.",
+      "expressions": [
+        "Test your hypothesis.",
+        "That's an interesting hypothesis."
+      ]
+    },
+    {
+      "word": "Ecosystem",
+      "meaning": "Community of living and non-living things",
+      "phrase": "The forest ecosystem supports hundreds of species.",
+      "expressions": [
+        "The ecosystem is balanced.",
+        "Protect our ecosystem."
+      ]
+    },
+    {
+      "word": "Molecule",
+      "meaning": "Group of atoms bonded together",
+      "phrase": "Water molecules consist of hydrogen and oxygen atoms.",
+      "expressions": [
+        "The molecule is complex.",
+        "Water molecules are simple."
+      ]
+    },
+    {
+      "word": "Evolution",
+      "meaning": "Process of gradual change over time",
+      "phrase": "Darwin's theory explains the evolution of species.",
+      "expressions": [
+        "Evolution takes time.",
+        "Study evolution theory."
+      ]
+    },
+    {
+      "word": "Biodiversity",
+      "meaning": "Variety of life in ecosystems",
+      "phrase": "Tropical rainforests have the highest biodiversity on Earth.",
+      "expressions": [
+        "Biodiversity is crucial.",
+        "We must preserve biodiversity."
+      ]
+    },
+    {
+      "word": "Metabolism",
+      "meaning": "Chemical processes in living organisms",
+      "phrase": "Exercise increases your metabolism and burns calories.",
+      "expressions": [
+        "Boost your metabolism.",
+        "Metabolism converts food to energy."
+      ]
+    },
+    {
+      "word": "Photosynthesis",
+      "meaning": "Process plants use to make food from sunlight",
+      "phrase": "Photosynthesis converts carbon dioxide into oxygen.",
+      "expressions": [
+        "Plants use photosynthesis.",
+        "Photosynthesis produces oxygen."
+      ]
+    },
+    {
+      "word": "Genetics",
+      "meaning": "Study of heredity and inherited traits",
+      "phrase": "Advances in genetics help treat inherited diseases.",
+      "expressions": [
+        "That's quite genetics.",
+        "This seems genetics."
+      ]
+    },
+    {
+      "word": "Astronomy",
+      "meaning": "Study of celestial objects and space",
+      "phrase": "Astronomy reveals the mysteries of distant galaxies.",
+      "expressions": [
+        "That's quite astronomy.",
+        "This seems astronomy."
+      ]
+    },
+    {
+      "word": "Chemistry",
+      "meaning": "Study of matter and its properties",
+      "phrase": "Chemistry explains how different substances interact.",
+      "expressions": [
+        "That's quite chemistry.",
+        "This seems chemistry."
+      ]
+    },
+    {
+      "word": "Physics",
+      "meaning": "Study of matter, energy, and motion",
+      "phrase": "Physics principles explain how airplanes can fly.",
+      "expressions": [
+        "That's quite physics.",
+        "This seems physics."
+      ]
+    },
+    {
+      "word": "Laboratory",
+      "meaning": "Room equipped for scientific experiments",
+      "phrase": "The laboratory has advanced equipment for research.",
+      "expressions": [
+        "That's quite laboratory.",
+        "This seems laboratory."
+      ]
+    },
+    {
+      "word": "Microscope",
+      "meaning": "Instrument for viewing very small objects",
+      "phrase": "The microscope revealed bacteria invisible to naked eyes.",
+      "expressions": [
+        "That's quite microscope.",
+        "This seems microscope."
+      ]
+    },
+    {
+      "word": "Specimen",
+      "meaning": "Sample used for scientific study",
+      "phrase": "The museum displays specimens from around the world.",
+      "expressions": [
+        "That's quite specimen.",
+        "This seems specimen."
+      ]
+    },
+    {
+      "word": "Pharmaceutical",
+      "meaning": "Related to medicinal drugs",
+      "phrase": "The pharmaceutical industry develops life-saving medications.",
+      "expressions": [
+        "Pharmaceutical research advances.",
+        "Take pharmaceutical advice."
+      ]
+    },
+    {
+      "word": "Sustainable",
+      "meaning": "Able to continue without depleting resources",
+      "phrase": "Sustainable farming protects soil for future generations.",
+      "expressions": [
+        "That's quite sustainable.",
+        "This seems sustainable."
+      ]
+    },
+    {
+      "word": "Renewable",
+      "meaning": "Able to be replenished naturally",
+      "phrase": "Solar power is a renewable energy source.",
+      "expressions": [
+        "That's quite renewable.",
+        "This seems renewable."
+      ]
+    },
+    {
+      "word": "Conservation",
+      "meaning": "Protection of natural resources",
+      "phrase": "Wildlife conservation efforts saved the species from extinction.",
+      "expressions": [
+        "That's quite conservation.",
+        "This seems conservation."
+      ]
+    },
+    {
+      "word": "Contamination",
+      "meaning": "Pollution or impurity in environment",
+      "phrase": "Water contamination poses serious health risks.",
+      "expressions": [
+        "That's quite contamination.",
+        "This seems contamination."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "meaning": "Introduction of new methods or ideas",
+      "phrase": "Scientific innovation drives technological progress.",
+      "expressions": [
+        "That's quite innovation.",
+        "This seems innovation."
+      ]
+    },
+    {
+      "word": "Technology",
+      "meaning": "Application of scientific knowledge",
+      "phrase": "Modern technology has transformed how we communicate.",
+      "expressions": [
+        "Technology advances rapidly.",
+        "Use technology wisely."
+      ]
+    },
+    {
+      "word": "Research",
+      "meaning": "Systematic investigation to discover facts",
+      "phrase": "Medical research leads to new treatments for diseases.",
+      "expressions": [
+        "Research requires patience.",
+        "Conduct thorough research."
+      ]
+    },
+    {
+      "word": "Data",
+      "meaning": "Facts and statistics collected for analysis",
+      "phrase": "Scientists analyze data to support their conclusions.",
+      "expressions": [
+        "Collect accurate data.",
+        "Data supports conclusions."
+      ]
+    },
+    {
+      "word": "Theory",
+      "meaning": "Explanation based on observation and reasoning",
+      "phrase": "Einstein's theory revolutionized our understanding of physics.",
+      "expressions": [
+        "Test the theory.",
+        "Theory explains observations."
+      ]
+    },
+    {
+      "word": "Discovery",
+      "meaning": "Finding something previously unknown",
+      "phrase": "The discovery of DNA structure changed biology forever.",
+      "expressions": [
+        "What a great discovery!",
+        "Discovery leads to progress."
+      ]
+    },
+    {
+      "word": "Analysis",
+      "meaning": "Detailed examination of components",
+      "phrase": "Chemical analysis revealed the compound's composition.",
+      "expressions": [
+        "Conduct careful analysis.",
+        "Analysis provides insight."
+      ]
+    },
+    {
+      "word": "Formula",
+      "meaning": "Mathematical relationship or chemical composition",
+      "phrase": "The formula for water is H2O.",
+      "expressions": [
+        "Apply the formula.",
+        "The formula is correct."
+      ]
+    },
+    {
+      "word": "Procedure",
+      "meaning": "Series of steps to accomplish task",
+      "phrase": "Follow the safety procedure when handling chemicals.",
+      "expressions": [
+        "Follow proper procedure.",
+        "The procedure is important."
+      ]
+    },
+    {
+      "word": "Variable",
+      "meaning": "Factor that can change in experiment",
+      "phrase": "Control all variables except the one being tested.",
+      "expressions": [
+        "Identify the variable.",
+        "Variables affect results."
+      ]
+    },
+    {
+      "word": "Observation",
+      "meaning": "Act of watching and noting phenomena",
+      "phrase": "Careful observation is the foundation of scientific method.",
+      "expressions": [
+        "Make careful observations.",
+        "Observation leads to discovery."
+      ]
+    }
+  ],
+  "business": [
+    {
+      "word": "Entrepreneur",
+      "meaning": "Person who starts and runs businesses",
+      "phrase": "The young entrepreneur launched three successful startups.",
+      "expressions": [
+        "She's a successful entrepreneur.",
+        "Every entrepreneur takes risks."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "meaning": "Introduction of new ideas or products",
+      "phrase": "Innovation is crucial for companies to stay competitive.",
+      "expressions": [
+        "That's quite innovation.",
+        "This seems innovation."
+      ]
+    },
+    {
+      "word": "Strategic",
+      "meaning": "Relating to long-term planning",
+      "phrase": "Strategic thinking helps businesses prepare for future challenges.",
+      "expressions": [
+        "That's quite strategic.",
+        "This seems strategic."
+      ]
+    },
+    {
+      "word": "Competitive",
+      "meaning": "Having strong desire to win",
+      "phrase": "The competitive market forces companies to improve constantly.",
+      "expressions": [
+        "That's quite competitive.",
+        "This seems competitive."
+      ]
+    },
+    {
+      "word": "Sustainable",
+      "meaning": "Able to continue long-term",
+      "phrase": "Sustainable business practices benefit both profit and environment.",
+      "expressions": [
+        "That's quite sustainable.",
+        "This seems sustainable."
+      ]
+    },
+    {
+      "word": "Collaboration",
+      "meaning": "Working together toward common goals",
+      "phrase": "Collaboration between departments improved overall efficiency.",
+      "expressions": [
+        "That's quite collaboration.",
+        "This seems collaboration."
+      ]
+    },
+    {
+      "word": "Negotiation",
+      "meaning": "Discussion to reach agreement",
+      "phrase": "Successful negotiation requires preparation and flexibility.",
+      "expressions": [
+        "That's quite negotiation.",
+        "This seems negotiation."
+      ]
+    },
+    {
+      "word": "Networking",
+      "meaning": "Building professional relationships",
+      "phrase": "Networking events help professionals expand their contacts.",
+      "expressions": [
+        "That's quite networking.",
+        "This seems networking."
+      ]
+    },
+    {
+      "word": "Leadership",
+      "meaning": "Ability to guide and inspire others",
+      "phrase": "Effective leadership motivates teams to achieve excellence.",
+      "expressions": [
+        "That's quite leadership.",
+        "This seems leadership."
+      ]
+    },
+    {
+      "word": "Productivity",
+      "meaning": "Efficiency in producing results",
+      "phrase": "New software significantly increased team productivity.",
+      "expressions": [
+        "That's quite productivity.",
+        "This seems productivity."
+      ]
+    },
+    {
+      "word": "Profitability",
+      "meaning": "Ability to generate financial gain",
+      "phrase": "Cost reduction strategies improved the company's profitability.",
+      "expressions": [
+        "That's quite profitability.",
+        "This seems profitability."
+      ]
+    },
+    {
+      "word": "Diversification",
+      "meaning": "Expanding into different areas",
+      "phrase": "Portfolio diversification reduces investment risks.",
+      "expressions": [
+        "Diversification reduces risk.",
+        "Consider diversification."
+      ]
+    },
+    {
+      "word": "Optimization",
+      "meaning": "Making something as effective as possible",
+      "phrase": "Website optimization improved user experience significantly.",
+      "expressions": [
+        "That's quite optimization.",
+        "This seems optimization."
+      ]
+    },
+    {
+      "word": "Acquisition",
+      "meaning": "Purchasing another company",
+      "phrase": "The acquisition expanded their market presence internationally.",
+      "expressions": [
+        "The acquisition was successful.",
+        "Plan the acquisition carefully."
+      ]
+    },
+    {
+      "word": "Partnership",
+      "meaning": "Cooperative relationship between businesses",
+      "phrase": "The strategic partnership benefited both companies equally.",
+      "expressions": [
+        "That's quite partnership.",
+        "This seems partnership."
+      ]
+    },
+    {
+      "word": "Stakeholder",
+      "meaning": "Person with interest in company's success",
+      "phrase": "All stakeholders were consulted before major decisions.",
+      "expressions": [
+        "Every stakeholder matters.",
+        "Consider all stakeholders."
+      ]
+    },
+    {
+      "word": "Franchise",
+      "meaning": "License to operate business using another's model",
+      "phrase": "The restaurant franchise expanded to fifty locations.",
+      "expressions": [
+        "Open a franchise business.",
+        "The franchise is profitable."
+      ]
+    },
+    {
+      "word": "Corporation",
+      "meaning": "Large company legally recognized as entity",
+      "phrase": "The multinational corporation employs thousands worldwide.",
+      "expressions": [
+        "That's quite corporation.",
+        "This seems corporation."
+      ]
+    },
+    {
+      "word": "Revenue",
+      "meaning": "Income generated from business operations",
+      "phrase": "Quarterly revenue exceeded all previous projections.",
+      "expressions": [
+        "Revenue increased this quarter.",
+        "Generate more revenue."
+      ]
+    },
+    {
+      "word": "Subsidiary",
+      "meaning": "Company controlled by another company",
+      "phrase": "The subsidiary operates independently in Asian markets.",
+      "expressions": [
+        "The subsidiary is profitable.",
+        "Open a new subsidiary."
+      ]
+    },
+    {
+      "word": "Marketing",
+      "meaning": "Activities to promote and sell products",
+      "phrase": "Digital marketing reaches customers through social media.",
+      "expressions": [
+        "Marketing drives sales.",
+        "Effective marketing works."
+      ]
+    },
+    {
+      "word": "Finance",
+      "meaning": "Management of money and investments",
+      "phrase": "The finance department handles all company budgets.",
+      "expressions": [
+        "Finance manages money.",
+        "Study corporate finance."
+      ]
+    },
+    {
+      "word": "Economics",
+      "meaning": "Study of production and distribution of wealth",
+      "phrase": "Economics explains how markets function.",
+      "expressions": [
+        "Economics affects everyone.",
+        "Study basic economics."
+      ]
+    },
+    {
+      "word": "Consumer",
+      "meaning": "Person who purchases goods or services",
+      "phrase": "Consumer preferences influence product development.",
+      "expressions": [
+        "The consumer decides.",
+        "Consumer needs matter."
+      ]
+    },
+    {
+      "word": "Quality",
+      "meaning": "Standard of excellence",
+      "phrase": "Quality control ensures products meet standards.",
+      "expressions": [
+        "Quality over quantity.",
+        "Maintain high quality."
+      ]
+    },
+    {
+      "word": "Efficiency",
+      "meaning": "Achieving maximum output with minimum input",
+      "phrase": "Improved efficiency reduced production costs significantly.",
+      "expressions": [
+        "Increase efficiency.",
+        "Efficiency saves money."
+      ]
+    },
+    {
+      "word": "Target",
+      "meaning": "Specific goal or objective",
+      "phrase": "The sales team exceeded their monthly target.",
+      "expressions": [
+        "Hit the target.",
+        "Set realistic targets."
+      ]
+    },
+    {
+      "word": "Brand",
+      "meaning": "Name and image of product or company",
+      "phrase": "Strong brand recognition increases customer loyalty.",
+      "expressions": [
+        "Build your brand.",
+        "Brand matters to consumers."
+      ]
+    },
+    {
+      "word": "Supply",
+      "meaning": "Quantity available for use",
+      "phrase": "The supply chain ensures products reach customers.",
+      "expressions": [
+        "Supply meets demand.",
+        "Manage supply carefully."
+      ]
+    },
+    {
+      "word": "Demand",
+      "meaning": "Desire for particular product or service",
+      "phrase": "High demand for the product exceeded expectations.",
+      "expressions": [
+        "Demand is increasing.",
+        "Create product demand."
+      ]
+    }
+  ],
+  "literature": [
+    {
+      "word": "Metaphor",
+      "meaning": "Comparison without using 'like' or 'as'",
+      "phrase": "Shakespeare used metaphor to compare life to a stage.",
+      "expressions": [
+        "That's a beautiful metaphor.",
+        "Use metaphor in writing."
+      ]
+    },
+    {
+      "word": "Symbolism",
+      "meaning": "Use of symbols to represent ideas",
+      "phrase": "The dove is a powerful symbolism for peace.",
+      "expressions": [
+        "The symbolism is deep.",
+        "Look for symbolism."
+      ]
+    },
+    {
+      "word": "Protagonist",
+      "meaning": "Main character in a story",
+      "phrase": "The protagonist overcame many obstacles to achieve success.",
+      "expressions": [
+        "The protagonist is brave.",
+        "Who's the main protagonist?"
+      ]
+    },
+    {
+      "word": "Antagonist",
+      "meaning": "Character who opposes the protagonist",
+      "phrase": "The antagonist created conflict throughout the entire novel.",
+      "expressions": [
+        "The antagonist is clever.",
+        "Every story needs antagonist."
+      ]
+    },
+    {
+      "word": "Narrative",
+      "meaning": "Spoken or written account of events",
+      "phrase": "The narrative technique made the story compelling.",
+      "expressions": [
+        "The narrative flows well.",
+        "Create compelling narrative."
+      ]
+    },
+    {
+      "word": "Allegory",
+      "meaning": "Story with hidden meaning",
+      "phrase": "Animal Farm is an allegory about political corruption.",
+      "expressions": [
+        "The story is an allegory.",
+        "Allegory teaches lessons."
+      ]
+    },
+    {
+      "word": "Irony",
+      "meaning": "Expression of meaning through opposite words",
+      "phrase": "The irony of the situation wasn't lost on observers.",
+      "expressions": [
+        "The irony is clear.",
+        "Life is full of irony."
+      ]
+    },
+    {
+      "word": "Eloquence",
+      "meaning": "Fluent and persuasive speech or writing",
+      "phrase": "The speaker's eloquence captivated the entire audience.",
+      "expressions": [
+        "That's quite eloquence.",
+        "This seems eloquence."
+      ]
+    },
+    {
+      "word": "Renaissance",
+      "meaning": "Period of renewed interest in arts",
+      "phrase": "Renaissance literature explored humanistic themes.",
+      "expressions": [
+        "Renaissance changed everything.",
+        "Study Renaissance art."
+      ]
+    },
+    {
+      "word": "Classical",
+      "meaning": "Representing highest standards of ancient art",
+      "phrase": "Classical literature continues to influence modern writers.",
+      "expressions": [
+        "That's quite classical.",
+        "This seems classical."
+      ]
+    },
+    {
+      "word": "Contemporary",
+      "meaning": "Belonging to the present time",
+      "phrase": "Contemporary authors address current social issues.",
+      "expressions": [
+        "That's quite contemporary.",
+        "This seems contemporary."
+      ]
+    },
+    {
+      "word": "Epic",
+      "meaning": "Long narrative poem about heroic deeds",
+      "phrase": "Homer's epic poems influenced Western literature.",
+      "expressions": [
+        "It's an epic tale.",
+        "That was epic!"
+      ]
+    },
+    {
+      "word": "Tragedy",
+      "meaning": "Serious play with unhappy ending",
+      "phrase": "Shakespeare's tragedies explore human nature's darker aspects.",
+      "expressions": [
+        "That's quite tragedy.",
+        "This seems tragedy."
+      ]
+    },
+    {
+      "word": "Satire",
+      "meaning": "Use of humor to criticize",
+      "phrase": "The satire cleverly exposed political hypocrisy.",
+      "expressions": [
+        "The satire is sharp.",
+        "Political satire is popular."
+      ]
+    },
+    {
+      "word": "Biography",
+      "meaning": "Account of someone's life",
+      "phrase": "The biography revealed previously unknown details.",
+      "expressions": [
+        "That's quite biography.",
+        "This seems biography."
+      ]
+    },
+    {
+      "word": "Autobiography",
+      "meaning": "Account of one's own life",
+      "phrase": "Her autobiography became an international bestseller.",
+      "expressions": [
+        "That's quite autobiography.",
+        "This seems autobiography."
+      ]
+    },
+    {
+      "word": "Anthology",
+      "meaning": "Collection of literary works",
+      "phrase": "The poetry anthology featured works from emerging poets.",
+      "expressions": [
+        "That's quite anthology.",
+        "This seems anthology."
+      ]
+    },
+    {
+      "word": "Manuscript",
+      "meaning": "Author's original written work",
+      "phrase": "The ancient manuscript was discovered in monastery.",
+      "expressions": [
+        "That's quite manuscript.",
+        "This seems manuscript."
+      ]
+    },
+    {
+      "word": "Genre",
+      "meaning": "Category of literary composition",
+      "phrase": "Science fiction is her favorite literary genre.",
+      "expressions": [
+        "What's your favorite genre?",
+        "This genre is popular."
+      ]
+    },
+    {
+      "word": "Critique",
+      "meaning": "Detailed analysis and assessment",
+      "phrase": "The literary critique examined themes and symbolism.",
+      "expressions": [
+        "That's quite critique.",
+        "This seems critique."
+      ]
+    },
+    {
+      "word": "Theme",
+      "meaning": "Central topic or message in work",
+      "phrase": "The novel's main theme explores love and sacrifice.",
+      "expressions": [
+        "Identify the theme.",
+        "The theme is universal."
+      ]
+    },
+    {
+      "word": "Plot",
+      "meaning": "Main story or sequence of events",
+      "phrase": "The plot twists kept readers engaged throughout.",
+      "expressions": [
+        "The plot thickens.",
+        "Follow the plot carefully."
+      ]
+    },
+    {
+      "word": "Setting",
+      "meaning": "Time and place where story occurs",
+      "phrase": "The story's setting in Victorian England adds atmosphere.",
+      "expressions": [
+        "The setting is important.",
+        "Describe the setting."
+      ]
+    },
+    {
+      "word": "Conflict",
+      "meaning": "Problem or struggle in story",
+      "phrase": "The internal conflict drove the character's development.",
+      "expressions": [
+        "Conflict creates tension.",
+        "Resolve the conflict."
+      ]
+    },
+    {
+      "word": "Style",
+      "meaning": "Distinctive way of writing",
+      "phrase": "Shakespeare's writing style is recognized worldwide.",
+      "expressions": [
+        "Develop your style.",
+        "Style makes writing unique."
+      ]
+    },
+    {
+      "word": "Dialogue",
+      "meaning": "Conversation between characters",
+      "phrase": "Realistic dialogue makes characters come alive.",
+      "expressions": [
+        "Write natural dialogue.",
+        "Dialogue reveals character."
+      ]
+    },
+    {
+      "word": "Mood",
+      "meaning": "Emotional atmosphere of work",
+      "phrase": "The poem's mood shifts from joy to melancholy.",
+      "expressions": [
+        "The mood is somber.",
+        "Create the right mood."
+      ]
+    },
+    {
+      "word": "Tone",
+      "meaning": "Author's attitude toward subject",
+      "phrase": "The author's tone conveys subtle criticism.",
+      "expressions": [
+        "The tone is formal.",
+        "Match your tone."
+      ]
+    },
+    {
+      "word": "Imagery",
+      "meaning": "Vivid descriptive language",
+      "phrase": "The poet's imagery appeals to all five senses.",
+      "expressions": [
+        "Use powerful imagery.",
+        "Imagery enhances meaning."
+      ]
+    },
+    {
+      "word": "Structure",
+      "meaning": "Organization and arrangement of work",
+      "phrase": "The novel's structure alternates between time periods.",
+      "expressions": [
+        "Analyze the structure.",
+        "Structure supports meaning."
+      ]
+    }
+  ],
+  "travel": [
+    {
+      "word": "Expedition",
+      "meaning": "Journey for specific purpose",
+      "phrase": "The Arctic expedition lasted six months.",
+      "expressions": [
+        "Join the expedition.",
+        "The expedition was dangerous."
+      ]
+    },
+    {
+      "word": "Itinerary",
+      "meaning": "Planned route or journey",
+      "phrase": "Our itinerary includes visits to five different countries.",
+      "expressions": [
+        "Plan your itinerary.",
+        "The itinerary is packed."
+      ]
+    },
+    {
+      "word": "Excursion",
+      "meaning": "Short journey for pleasure",
+      "phrase": "The day excursion to the winery was delightful.",
+      "expressions": [
+        "Take a day excursion.",
+        "The excursion was fun."
+      ]
+    },
+    {
+      "word": "Pilgrimage",
+      "meaning": "Journey to sacred place",
+      "phrase": "Thousands make the pilgrimage to the holy site annually.",
+      "expressions": [
+        "Go on pilgrimage.",
+        "The pilgrimage was meaningful."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "meaning": "Exciting and potentially dangerous experience",
+      "phrase": "Mountain climbing offers adventure and stunning views.",
+      "expressions": [
+        "That's quite adventure.",
+        "This seems adventure."
+      ]
+    },
+    {
+      "word": "Destination",
+      "meaning": "Place where journey ends",
+      "phrase": "Paris remains the world's most popular tourist destination.",
+      "expressions": [
+        "That's quite destination.",
+        "This seems destination."
+      ]
+    },
+    {
+      "word": "Accommodation",
+      "meaning": "Place to stay during travel",
+      "phrase": "Book your accommodation well in advance during peak season.",
+      "expressions": [
+        "Book accommodation early.",
+        "The accommodation is comfortable."
+      ]
+    },
+    {
+      "word": "Transportation",
+      "meaning": "Means of getting from place to place",
+      "phrase": "Public transportation in the city is efficient and affordable.",
+      "expressions": [
+        "That's quite transportation.",
+        "This seems transportation."
+      ]
+    },
+    {
+      "word": "Immigration",
+      "meaning": "Process of entering foreign country",
+      "phrase": "Immigration procedures can take several hours at busy airports.",
+      "expressions": [
+        "That's quite immigration.",
+        "This seems immigration."
+      ]
+    },
+    {
+      "word": "Documentation",
+      "meaning": "Official papers required for travel",
+      "phrase": "Ensure all travel documentation is current before departure.",
+      "expressions": [
+        "That's quite documentation.",
+        "This seems documentation."
+      ]
+    },
+    {
+      "word": "Reservation",
+      "meaning": "Arrangement to secure services",
+      "phrase": "Hotel reservation confirmations should be printed before travel.",
+      "expressions": [
+        "That's quite reservation.",
+        "This seems reservation."
+      ]
+    },
+    {
+      "word": "Hospitality",
+      "meaning": "Friendly and generous treatment of guests",
+      "phrase": "The local hospitality made our visit truly memorable.",
+      "expressions": [
+        "Their hospitality is warm.",
+        "Show good hospitality."
+      ]
+    },
+    {
+      "word": "Cosmopolitan",
+      "meaning": "Including people from many countries",
+      "phrase": "New York is a cosmopolitan city with diverse cultures.",
+      "expressions": [
+        "It's a cosmopolitan city.",
+        "She has cosmopolitan tastes."
+      ]
+    },
+    {
+      "word": "Indigenous",
+      "meaning": "Native to particular region",
+      "phrase": "Indigenous art reflects traditional cultural values.",
+      "expressions": [
+        "Meet indigenous people.",
+        "Indigenous culture is rich."
+      ]
+    },
+    {
+      "word": "Culinary",
+      "meaning": "Related to cooking and food",
+      "phrase": "The culinary tour introduced us to authentic local dishes.",
+      "expressions": [
+        "That's quite culinary.",
+        "This seems culinary."
+      ]
+    },
+    {
+      "word": "Architecture",
+      "meaning": "Design and construction of buildings",
+      "phrase": "Gothic architecture dominates the old city center.",
+      "expressions": [
+        "That's quite architecture.",
+        "This seems architecture."
+      ]
+    },
+    {
+      "word": "Heritage",
+      "meaning": "Traditional customs passed down",
+      "phrase": "UNESCO protects world heritage sites for future generations.",
+      "expressions": [
+        "Preserve cultural heritage.",
+        "Heritage connects generations."
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "meaning": "Thing kept as reminder of place",
+      "phrase": "Local handicrafts make meaningful souvenirs.",
+      "expressions": [
+        "Buy a souvenir.",
+        "This souvenir is special."
+      ]
+    },
+    {
+      "word": "Panoramic",
+      "meaning": "Wide unobstructed view",
+      "phrase": "The panoramic view from the tower was breathtaking.",
+      "expressions": [
+        "That's quite panoramic.",
+        "This seems panoramic."
+      ]
+    },
+    {
+      "word": "Authentic",
+      "meaning": "Genuine and original",
+      "phrase": "Tourists seek authentic experiences in local communities.",
+      "expressions": [
+        "That's quite authentic.",
+        "This seems authentic."
+      ]
+    },
+    {
+      "word": "Passport",
+      "meaning": "Official document for international travel",
+      "phrase": "Check that your passport is valid before traveling abroad.",
+      "expressions": [
+        "Show your passport.",
+        "Renew your passport."
+      ]
+    },
+    {
+      "word": "Visa",
+      "meaning": "Permission to enter foreign country",
+      "phrase": "Apply for a tourist visa at least a month early.",
+      "expressions": [
+        "Get a visa.",
+        "Visa requirements vary."
+      ]
+    },
+    {
+      "word": "Currency",
+      "meaning": "Money used in particular country",
+      "phrase": "Exchange your currency at the airport or bank.",
+      "expressions": [
+        "Exchange currency.",
+        "Foreign currency is needed."
+      ]
+    },
+    {
+      "word": "Landmark",
+      "meaning": "Famous building or location",
+      "phrase": "The Eiffel Tower is Paris's most famous landmark.",
+      "expressions": [
+        "Visit famous landmarks.",
+        "The landmark is impressive."
+      ]
+    },
+    {
+      "word": "Customs",
+      "meaning": "Officials who check goods at borders",
+      "phrase": "Declare valuable items when passing through customs.",
+      "expressions": [
+        "Go through customs.",
+        "Customs checked luggage."
+      ]
+    },
+    {
+      "word": "Luggage",
+      "meaning": "Bags and cases for travel",
+      "phrase": "Pack light luggage to avoid extra airline fees.",
+      "expressions": [
+        "Check your luggage.",
+        "Luggage was delayed."
+      ]
+    },
+    {
+      "word": "Schedule",
+      "meaning": "Plan showing times of activities",
+      "phrase": "Check the flight schedule for any changes.",
+      "expressions": [
+        "Follow the schedule.",
+        "Schedule changes often."
+      ]
+    },
+    {
+      "word": "Recreation",
+      "meaning": "Activities done for enjoyment",
+      "phrase": "The resort offers various recreation activities.",
+      "expressions": [
+        "Enjoy recreation time.",
+        "Recreation refreshes mind."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "meaning": "Exciting and unusual experience",
+      "phrase": "Mountain hiking offers adventure and exercise.",
+      "expressions": [
+        "Seek new adventures.",
+        "Adventure builds character."
+      ]
+    },
+    {
+      "word": "Experience",
+      "meaning": "Knowledge gained from doing something",
+      "phrase": "Travel experience broadens your worldview.",
+      "expressions": [
+        "Gain valuable experience.",
+        "Experience teaches lessons."
+      ]
+    }
+  ],
+  "history": [
+    {
+      "word": "Civilization",
+      "meaning": "Advanced stage of human social development",
+      "phrase": "Ancient Greek civilization influenced Western culture.",
+      "expressions": [
+        "Ancient civilization fascinates me.",
+        "Civilization progresses slowly."
+      ]
+    },
+    {
+      "word": "Renaissance",
+      "meaning": "Period of renewed interest in arts and learning",
+      "phrase": "The Renaissance transformed European art and science.",
+      "expressions": [
+        "Renaissance changed everything.",
+        "Study Renaissance art."
+      ]
+    },
+    {
+      "word": "Revolution",
+      "meaning": "Dramatic change in political or social conditions",
+      "phrase": "The Industrial Revolution changed how people worked.",
+      "expressions": [
+        "That's quite revolution.",
+        "This seems revolution."
+      ]
+    },
+    {
+      "word": "Dynasty",
+      "meaning": "Series rulers from same family",
+      "phrase": "The Ming Dynasty ruled China for nearly 300 years.",
+      "expressions": [
+        "The dynasty lasted centuries.",
+        "Each dynasty had rulers."
+      ]
+    },
+    {
+      "word": "Democracy",
+      "meaning": "Government by the people",
+      "phrase": "Ancient Athens is considered birthplace of democracy.",
+      "expressions": [
+        "Democracy gives voice.",
+        "Protect democratic values."
+      ]
+    },
+    {
+      "word": "Monarchy",
+      "meaning": "Government ruled by king or queen",
+      "phrase": "The constitutional monarchy limits royal power.",
+      "expressions": [
+        "Monarchy ruled for centuries.",
+        "Constitutional monarchy evolved."
+      ]
+    },
+    {
+      "word": "Republic",
+      "meaning": "Government where power belongs to people",
+      "phrase": "The Roman Republic preceded the Roman Empire.",
+      "expressions": [
+        "Rome was a republic.",
+        "Republic represents people."
+      ]
+    },
+    {
+      "word": "Constitution",
+      "meaning": "Set of fundamental principles for governance",
+      "phrase": "The constitution guarantees citizens' basic rights.",
+      "expressions": [
+        "That's quite constitution.",
+        "This seems constitution."
+      ]
+    },
+    {
+      "word": "Colonization",
+      "meaning": "Establishing control over foreign territory",
+      "phrase": "European colonization changed indigenous cultures worldwide.",
+      "expressions": [
+        "That's quite colonization.",
+        "This seems colonization."
+      ]
+    },
+    {
+      "word": "Independence",
+      "meaning": "Freedom from outside control",
+      "phrase": "The country celebrated fifty years of independence.",
+      "expressions": [
+        "That's quite independence.",
+        "This seems independence."
+      ]
+    },
+    {
+      "word": "Treaty",
+      "meaning": "Formal agreement between nations",
+      "phrase": "The peace treaty ended decades of conflict.",
+      "expressions": [
+        "That's quite treaty.",
+        "This seems treaty."
+      ]
+    },
+    {
+      "word": "Alliance",
+      "meaning": "Union formed for mutual benefit",
+      "phrase": "Military alliances shaped European politics for centuries.",
+      "expressions": [
+        "That's quite alliance.",
+        "This seems alliance."
+      ]
+    },
+    {
+      "word": "Archaeology",
+      "meaning": "Study of human history through excavation",
+      "phrase": "Archaeology reveals secrets of ancient civilizations.",
+      "expressions": [
+        "Archaeology reveals history.",
+        "Study archaeology methods."
+      ]
+    },
+    {
+      "word": "Artifact",
+      "meaning": "Object made by human in past",
+      "phrase": "The museum displays artifacts from various time periods.",
+      "expressions": [
+        "That's quite artifact.",
+        "This seems artifact."
+      ]
+    },
+    {
+      "word": "Legacy",
+      "meaning": "Something left behind by predecessor",
+      "phrase": "The leader's legacy includes significant social reforms.",
+      "expressions": [
+        "Leave a positive legacy.",
+        "What's your legacy?"
+      ]
+    },
+    {
+      "word": "Persecution",
+      "meaning": "Hostility and ill-treatment",
+      "phrase": "Religious persecution forced many people to flee.",
+      "expressions": [
+        "Stop religious persecution.",
+        "Persecution creates refugees."
+      ]
+    },
+    {
+      "word": "Migration",
+      "meaning": "Movement from one place to another",
+      "phrase": "Economic migration shaped modern urban development.",
+      "expressions": [
+        "Migration shapes populations.",
+        "Study migration patterns."
+      ]
+    },
+    {
+      "word": "Feudalism",
+      "meaning": "Medieval social system based on land ownership",
+      "phrase": "Feudalism dominated European society for centuries.",
+      "expressions": [
+        "Feudalism dominated Europe.",
+        "Feudalism created hierarchy."
+      ]
+    },
+    {
+      "word": "Reformation",
+      "meaning": "Movement to reform religious practices",
+      "phrase": "The Protestant Reformation divided European Christianity.",
+      "expressions": [
+        "The Reformation split Christianity.",
+        "Religious reformation was needed."
+      ]
+    },
+    {
+      "word": "Enlightenment",
+      "meaning": "Age of reason and intellectual development",
+      "phrase": "Enlightenment thinkers influenced modern democratic ideals.",
+      "expressions": [
+        "The Enlightenment promoted reason.",
+        "Enlightenment ideas spread."
+      ]
+    },
+    {
+      "word": "Slavery",
+      "meaning": "System where people are owned as property",
+      "phrase": "The abolition of slavery was a moral victory.",
+      "expressions": [
+        "Slavery was abolished.",
+        "Fight against slavery."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "meaning": "State of being free from oppression",
+      "phrase": "The struggle for freedom inspired many movements.",
+      "expressions": [
+        "Freedom is precious.",
+        "Fight for freedom."
+      ]
+    },
+    {
+      "word": "Progress",
+      "meaning": "Forward movement toward better conditions",
+      "phrase": "Social progress improved living conditions for many.",
+      "expressions": [
+        "Progress takes time.",
+        "Make steady progress."
+      ]
+    },
+    {
+      "word": "Society",
+      "meaning": "Community of people living together",
+      "phrase": "Industrial society changed how people worked and lived.",
+      "expressions": [
+        "Society evolves constantly.",
+        "Society shapes individuals."
+      ]
+    },
+    {
+      "word": "Economy",
+      "meaning": "System of trade and money",
+      "phrase": "The agricultural economy supported most families.",
+      "expressions": [
+        "Economy affects everyone.",
+        "Strong economy prospers."
+      ]
+    },
+    {
+      "word": "Politics",
+      "meaning": "Activities related to government",
+      "phrase": "Politics influenced major decisions throughout history.",
+      "expressions": [
+        "Politics shapes society.",
+        "Understand basic politics."
+      ]
+    },
+    {
+      "word": "Leadership",
+      "meaning": "Ability to guide and influence others",
+      "phrase": "Strong leadership helped nations through difficult times.",
+      "expressions": [
+        "Leadership requires courage.",
+        "Good leadership inspires."
+      ]
+    },
+    {
+      "word": "Change",
+      "meaning": "Process of becoming different",
+      "phrase": "Social change often happens gradually over decades.",
+      "expressions": [
+        "Change is constant.",
+        "Embrace positive change."
+      ]
+    },
+    {
+      "word": "Heritage",
+      "meaning": "Traditions passed down from ancestors",
+      "phrase": "Cultural heritage connects us to our past.",
+      "expressions": [
+        "Preserve our heritage.",
+        "Heritage defines identity."
+      ]
+    },
+    {
+      "word": "Identity",
+      "meaning": "Characteristics that define a group",
+      "phrase": "National identity shapes how people view themselves.",
+      "expressions": [
+        "Identity forms gradually.",
+        "Cultural identity matters."
+      ]
+    }
+  ],
+  "geography": [
+    {
+      "word": "Topography",
+      "meaning": "Physical features of land surface",
+      "phrase": "The region's mountainous topography affects weather patterns.",
+      "expressions": [
+        "Study the topography.",
+        "Topography affects climate."
+      ]
+    },
+    {
+      "word": "Cartography",
+      "meaning": "Science of making maps",
+      "phrase": "Digital cartography has revolutionized map-making.",
+      "expressions": [
+        "Cartography creates maps.",
+        "Study cartography techniques."
+      ]
+    },
+    {
+      "word": "Latitude",
+      "meaning": "Distance north or south of equator",
+      "phrase": "Cities at the same latitude often have similar climates.",
+      "expressions": [
+        "Check the latitude.",
+        "Latitude affects climate."
+      ]
+    },
+    {
+      "word": "Longitude",
+      "meaning": "Distance east or west of prime meridian",
+      "phrase": "Greenwich, England marks zero degrees longitude.",
+      "expressions": [
+        "Determine the longitude.",
+        "Longitude shows east-west."
+      ]
+    },
+    {
+      "word": "Hemisphere",
+      "meaning": "Half of Earth divided by equator",
+      "phrase": "Australia is located in the Southern Hemisphere.",
+      "expressions": [
+        "We're in northern hemisphere.",
+        "Each hemisphere has seasons."
+      ]
+    },
+    {
+      "word": "Archipelago",
+      "meaning": "Group of islands",
+      "phrase": "The Philippine archipelago consists of over 7,000 islands.",
+      "expressions": [
+        "The archipelago has islands.",
+        "Indonesia is an archipelago."
+      ]
+    },
+    {
+      "word": "Peninsula",
+      "meaning": "Land surrounded by water on three sides",
+      "phrase": "The Italian peninsula extends into Mediterranean Sea.",
+      "expressions": [
+        "Florida is a peninsula.",
+        "The peninsula extends seaward."
+      ]
+    },
+    {
+      "word": "Tributary",
+      "meaning": "River flowing into larger river",
+      "phrase": "The Missouri River is the longest tributary of Mississippi.",
+      "expressions": [
+        "That's quite tributary.",
+        "This seems tributary."
+      ]
+    },
+    {
+      "word": "Watershed",
+      "meaning": "Area draining into river system",
+      "phrase": "The Amazon watershed covers 40% of South America.",
+      "expressions": [
+        "Protect the watershed.",
+        "The watershed supplies water."
+      ]
+    },
+    {
+      "word": "Plateau",
+      "meaning": "Flat elevated area of land",
+      "phrase": "The Tibetan Plateau is known as 'Roof of World'.",
+      "expressions": [
+        "The plateau is elevated.",
+        "Drive across the plateau."
+      ]
+    },
+    {
+      "word": "Tectonic",
+      "meaning": "Relating to Earth's structural plates",
+      "phrase": "Tectonic plate movement causes earthquakes and volcanoes.",
+      "expressions": [
+        "That's quite tectonic.",
+        "This seems tectonic."
+      ]
+    },
+    {
+      "word": "Erosion",
+      "meaning": "Wearing away of soil and rock",
+      "phrase": "Water erosion carved the magnificent Grand Canyon.",
+      "expressions": [
+        "That's quite erosion.",
+        "This seems erosion."
+      ]
+    },
+    {
+      "word": "Sediment",
+      "meaning": "Matter deposited by water or wind",
+      "phrase": "River sediment creates fertile agricultural deltas.",
+      "expressions": [
+        "That's quite sediment.",
+        "This seems sediment."
+      ]
+    },
+    {
+      "word": "Precipitation",
+      "meaning": "Rain, snow, or other moisture falling",
+      "phrase": "Annual precipitation determines regional vegetation types.",
+      "expressions": [
+        "Measure precipitation levels.",
+        "Precipitation varies seasonally."
+      ]
+    },
+    {
+      "word": "Urbanization",
+      "meaning": "Growth of cities and towns",
+      "phrase": "Rapid urbanization creates environmental challenges.",
+      "expressions": [
+        "Urbanization increases rapidly.",
+        "Urbanization changes landscapes."
+      ]
+    },
+    {
+      "word": "Migration",
+      "meaning": "Movement of people or animals",
+      "phrase": "Rural-to-urban migration characterizes developing countries.",
+      "expressions": [
+        "Migration shapes populations.",
+        "Study migration patterns."
+      ]
+    },
+    {
+      "word": "Sustainability",
+      "meaning": "Meeting needs without compromising future",
+      "phrase": "Environmental sustainability requires global cooperation.",
+      "expressions": [
+        "That's quite sustainability.",
+        "This seems sustainability."
+      ]
+    },
+    {
+      "word": "Biodiversity",
+      "meaning": "Variety of life in ecosystems",
+      "phrase": "Tropical regions have the highest biodiversity levels.",
+      "expressions": [
+        "Biodiversity is crucial.",
+        "We must preserve biodiversity."
+      ]
+    },
+    {
+      "word": "Deforestation",
+      "meaning": "Clearing forests for other land use",
+      "phrase": "Deforestation contributes to climate change globally.",
+      "expressions": [
+        "That's quite deforestation.",
+        "This seems deforestation."
+      ]
+    },
+    {
+      "word": "Globalization",
+      "meaning": "Worldwide integration of economies",
+      "phrase": "Globalization connects distant places through trade.",
+      "expressions": [
+        "That's quite globalization.",
+        "This seems globalization."
+      ]
+    },
+    {
+      "word": "Environment",
+      "meaning": "Natural world surrounding us",
+      "phrase": "Protecting the environment ensures future sustainability.",
+      "expressions": [
+        "Environment needs protection.",
+        "Clean environment is vital."
+      ]
+    },
+    {
+      "word": "Resources",
+      "meaning": "Materials available for use",
+      "phrase": "Natural resources include water, oil, and minerals.",
+      "expressions": [
+        "Conserve natural resources.",
+        "Resources are limited."
+      ]
+    },
+    {
+      "word": "Agriculture",
+      "meaning": "Practice of farming crops and animals",
+      "phrase": "Agriculture provides food for growing populations.",
+      "expressions": [
+        "Agriculture feeds nations.",
+        "Modern agriculture uses technology."
+      ]
+    },
+    {
+      "word": "Industry",
+      "meaning": "Economic activity involving manufacturing",
+      "phrase": "Heavy industry developed near sources of raw materials.",
+      "expressions": [
+        "Industry creates jobs.",
+        "Industry drives economy."
+      ]
+    },
+    {
+      "word": "Trade",
+      "meaning": "Exchange of goods between places",
+      "phrase": "International trade connects countries economically.",
+      "expressions": [
+        "Trade benefits everyone.",
+        "Global trade increases."
+      ]
+    },
+    {
+      "word": "Development",
+      "meaning": "Process of growth and improvement",
+      "phrase": "Economic development improves living standards.",
+      "expressions": [
+        "Development takes time.",
+        "Sustainable development is key."
+      ]
+    },
+    {
+      "word": "Culture",
+      "meaning": "Way of life of group of people",
+      "phrase": "Geographic isolation helped preserve unique cultures.",
+      "expressions": [
+        "Culture shapes identity.",
+        "Respect different cultures."
+      ]
+    },
+    {
+      "word": "Region",
+      "meaning": "Area with similar characteristics",
+      "phrase": "The Mediterranean region has a warm, dry climate.",
+      "expressions": [
+        "Each region differs.",
+        "Study the region carefully."
+      ]
+    },
+    {
+      "word": "Location",
+      "meaning": "Particular place or position",
+      "phrase": "The city's location near the harbor aided trade.",
+      "expressions": [
+        "Location matters.",
+        "Find the exact location."
+      ]
+    },
+    {
+      "word": "Distance",
+      "meaning": "Space between two places",
+      "phrase": "The distance between cities affects transportation costs.",
+      "expressions": [
+        "Measure the distance.",
+        "Distance creates challenges."
+      ]
+    }
+  ],
+  "health": [
+    {
+      "word": "Cardiovascular",
+      "meaning": "Related to heart and blood vessels",
+      "phrase": "Regular exercise improves cardiovascular health significantly.",
+      "expressions": [
+        "Cardiovascular health is vital.",
+        "Exercise benefits cardiovascular system."
+      ]
+    },
+    {
+      "word": "Immune",
+      "meaning": "Protected against disease",
+      "phrase": "A strong immune system fights off infections naturally.",
+      "expressions": [
+        "That's quite immune.",
+        "This seems immune."
+      ]
+    },
+    {
+      "word": "Metabolism",
+      "meaning": "Chemical processes converting food to energy",
+      "phrase": "Age and activity level affect metabolism rates.",
+      "expressions": [
+        "Boost your metabolism.",
+        "Metabolism converts food to energy."
+      ]
+    },
+    {
+      "word": "Chronic",
+      "meaning": "Long-lasting or recurring medical condition",
+      "phrase": "Diabetes is a chronic condition requiring daily management.",
+      "expressions": [
+        "Manage chronic conditions.",
+        "Chronic illness requires care."
+      ]
+    },
+    {
+      "word": "Diagnosis",
+      "meaning": "Identification of disease or condition",
+      "phrase": "Early diagnosis improves treatment success rates.",
+      "expressions": [
+        "Get accurate diagnosis.",
+        "Early diagnosis saves lives."
+      ]
+    },
+    {
+      "word": "Therapy",
+      "meaning": "Treatment to heal disorder",
+      "phrase": "Physical therapy helped restore mobility after injury.",
+      "expressions": [
+        "That's quite therapy.",
+        "This seems therapy."
+      ]
+    },
+    {
+      "word": "Rehabilitation",
+      "meaning": "Process of recovery after illness",
+      "phrase": "Cardiac rehabilitation programs prevent future heart problems.",
+      "expressions": [
+        "Rehabilitation takes time.",
+        "Physical rehabilitation helps recovery."
+      ]
+    },
+    {
+      "word": "Immunization",
+      "meaning": "Process of making immune to disease",
+      "phrase": "Childhood immunization prevents serious infectious diseases.",
+      "expressions": [
+        "Get proper immunization.",
+        "Immunization prevents disease."
+      ]
+    },
+    {
+      "word": "Epidemic",
+      "meaning": "Widespread occurrence of infectious disease",
+      "phrase": "The flu epidemic affected thousands of people.",
+      "expressions": [
+        "Prevent epidemic spread.",
+        "The epidemic was contained."
+      ]
+    },
+    {
+      "word": "Pharmaceutical",
+      "meaning": "Related to medicinal drugs",
+      "phrase": "Pharmaceutical research develops new treatments constantly.",
+      "expressions": [
+        "Pharmaceutical research advances.",
+        "Take pharmaceutical advice."
+      ]
+    },
+    {
+      "word": "Holistic",
+      "meaning": "Considering whole person in treatment",
+      "phrase": "Holistic medicine addresses physical and emotional health.",
+      "expressions": [
+        "Take holistic approach.",
+        "Holistic medicine treats whole person."
+      ]
+    },
+    {
+      "word": "Wellness",
+      "meaning": "Active pursuit of healthy lifestyle",
+      "phrase": "Corporate wellness programs reduce employee healthcare costs.",
+      "expressions": [
+        "Focus on total wellness.",
+        "Wellness includes mental health."
+      ]
+    },
+    {
+      "word": "Preventive",
+      "meaning": "Designed to prevent disease",
+      "phrase": "Preventive care includes regular screenings and checkups.",
+      "expressions": [
+        "Preventive care is important.",
+        "Take preventive measures."
+      ]
+    },
+    {
+      "word": "Therapeutic",
+      "meaning": "Having healing properties",
+      "phrase": "The therapeutic massage relieved chronic back pain.",
+      "expressions": [
+        "Therapeutic massage helps.",
+        "This has therapeutic value."
+      ]
+    },
+    {
+      "word": "Pathology",
+      "meaning": "Study of disease and its effects",
+      "phrase": "Pathology reports help doctors determine treatment plans.",
+      "expressions": [
+        "That's quite pathology.",
+        "This seems pathology."
+      ]
+    },
+    {
+      "word": "Prognosis",
+      "meaning": "Likely course of medical condition",
+      "phrase": "The patient's prognosis improved with new treatment.",
+      "expressions": [
+        "The prognosis is good.",
+        "Doctor explained prognosis."
+      ]
+    },
+    {
+      "word": "Antibiotics",
+      "meaning": "Medicines that fight bacterial infections",
+      "phrase": "Overuse of antibiotics creates drug-resistant bacteria.",
+      "expressions": [
+        "That's quite antibiotics.",
+        "This seems antibiotics."
+      ]
+    },
+    {
+      "word": "Psychiatry",
+      "meaning": "Branch of medicine dealing with mental health",
+      "phrase": "Psychiatry combines medication and therapy for treatment.",
+      "expressions": [
+        "That's quite psychiatry.",
+        "This seems psychiatry."
+      ]
+    },
+    {
+      "word": "Nutrition",
+      "meaning": "Process of obtaining food for health",
+      "phrase": "Proper nutrition supports optimal physical development.",
+      "expressions": [
+        "That's quite nutrition.",
+        "This seems nutrition."
+      ]
+    },
+    {
+      "word": "Physiology",
+      "meaning": "Study of body functions",
+      "phrase": "Exercise physiology explains how muscles adapt to training.",
+      "expressions": [
+        "That's quite physiology.",
+        "This seems physiology."
+      ]
+    },
+    {
+      "word": "Immunity",
+      "meaning": "Body's ability to resist disease",
+      "phrase": "Strong immunity helps fight off infections naturally.",
+      "expressions": [
+        "Build your immunity.",
+        "Immunity protects health."
+      ]
+    },
+    {
+      "word": "Infection",
+      "meaning": "Disease caused by harmful organisms",
+      "phrase": "Wash hands regularly to prevent infection spread.",
+      "expressions": [
+        "Prevent infection.",
+        "Infection can spread quickly."
+      ]
+    },
+    {
+      "word": "Surgery",
+      "meaning": "Medical operation to treat disease",
+      "phrase": "Heart surgery has become much safer with technology.",
+      "expressions": [
+        "Surgery was successful.",
+        "Surgery requires expertise."
+      ]
+    },
+    {
+      "word": "Medicine",
+      "meaning": "Science of diagnosing and treating disease",
+      "phrase": "Modern medicine has extended human lifespan significantly.",
+      "expressions": [
+        "Medicine advances rapidly.",
+        "Practice evidence-based medicine."
+      ]
+    },
+    {
+      "word": "Patient",
+      "meaning": "Person receiving medical care",
+      "phrase": "The patient responded well to the new treatment.",
+      "expressions": [
+        "The patient is recovering.",
+        "Patient care is priority."
+      ]
+    },
+    {
+      "word": "Symptoms",
+      "meaning": "Signs indicating presence of disease",
+      "phrase": "Early symptoms often help doctors diagnose problems.",
+      "expressions": [
+        "Monitor symptoms carefully.",
+        "Symptoms guide treatment."
+      ]
+    },
+    {
+      "word": "Healthy",
+      "meaning": "In good physical condition",
+      "phrase": "Healthy lifestyle choices prevent many diseases.",
+      "expressions": [
+        "Stay healthy.",
+        "Healthy living matters."
+      ]
+    },
+    {
+      "word": "Disease",
+      "meaning": "Disorder affecting body function",
+      "phrase": "Heart disease remains the leading cause of death.",
+      "expressions": [
+        "Prevent heart disease.",
+        "Disease affects quality."
+      ]
+    },
+    {
+      "word": "Emergency",
+      "meaning": "Serious medical situation requiring immediate attention",
+      "phrase": "The emergency room treats life-threatening conditions.",
+      "expressions": [
+        "Call for emergency help.",
+        "Emergency care saves lives."
+      ]
+    },
+    {
+      "word": "Safety",
+      "meaning": "Protection from harm or danger",
+      "phrase": "Workplace safety programs reduce injury rates significantly.",
+      "expressions": [
+        "Safety comes first.",
+        "Practice safety always."
+      ]
+    }
+  ]
+}
