@@ -66,6 +66,38 @@ def delete_word_from_file(word_to_delete, word_file):
         
         return True
 
+def update_word_audio(word_name, audio_path, json_file):
+    """Update the audio field for a word in a JSON vocabulary file"""
+    try:
+        # Load the JSON data
+        with open(json_file, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        
+        # Search through all categories and update the word's audio field
+        word_found = False
+        for category, words in data.items():
+            for word in words:
+                if word.get('word', '').lower() == word_name.lower():
+                    word['audio'] = audio_path
+                    word_found = True
+                    print(f"Updated audio for '{word_name}' in category '{category}' to '{audio_path}'")
+                    break
+            if word_found:
+                break
+        
+        if word_found:
+            # Save the updated data back to the file
+            with open(json_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+            return True
+        else:
+            print(f"Word '{word_name}' not found in {json_file}")
+            return False
+            
+    except (json.JSONDecodeError, FileNotFoundError) as e:
+        print(f"Error processing JSON file {json_file}: {e}")
+        return False
+
 def delete_word_from_json(word_to_delete, json_file):
     """Delete a word from a JSON vocabulary file"""
     try:
